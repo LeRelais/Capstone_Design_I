@@ -2,6 +2,9 @@ const express = require('express')
 const mongoose = require('mongoose');
 const path = require('path');
 const ejsMate = require('ejs-mate');
+const methodOverride = require('method-override')
+const passport = require('passport')
+const LocalStrategy = require('passport-local')
 
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
 // 'mongodb://127.0.0.1:27017/yelp-camp'
@@ -21,6 +24,13 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.use(passport.initialize());
+app.use(passport.session())
+passport.use(new LocalStrategy(User.authenticate()));
+
+passport.serializeUser(User.serializeUser());
+passport.deserializeUser(User.deserializeUser());
+
 app.get('/', (req, res) => {
     res.render('home')
 });
@@ -32,6 +42,8 @@ app.get('/about', (req, res) => {
 app.get('/register', (req, res) => {
     res.render('register');
 })
+
+
 
 app.listen(3000, () => {
     console.log('Serving on port 3000')
