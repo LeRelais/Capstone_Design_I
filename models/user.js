@@ -7,9 +7,15 @@ const UserSchema = new Schema({
         type: String,
         required: true,
         unique: true,
+    },
+    username:{
+        type: String
+    },
+    password:{
+        type: String
     }
 })
 
-UserSchema.plugin(passportLocalMongoose)
+UserSchema.plugin(passportLocalMongoose, {usernameField: "email"})
 
 module.exports = mongoose.model('User', UserSchema)

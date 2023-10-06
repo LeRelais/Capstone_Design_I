@@ -1,6 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose');
 const path = require('path');
+const session = require('express-session')
 const ejsMate = require('ejs-mate');
 const methodOverride = require('method-override')
 const passport = require('passport')
@@ -24,8 +25,10 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.use(session({secret : 'secret key', resave: true, saveUninitialized: false}))
 app.use(passport.initialize());
 app.use(passport.session())
+passportConfig()
 passport.use(new LocalStrategy(User.authenticate()));
 
 passport.serializeUser(User.serializeUser());
@@ -43,7 +46,13 @@ app.get('/register', (req, res) => {
     res.render('register');
 })
 
+app.get('/search', (req, res) => {
+    res.render('search')
+})
 
+app.post('/register', (req, res) => {
+    res.send(req.body)
+})
 
 app.listen(3000, () => {
     console.log('Serving on port 3000')
