@@ -4,8 +4,14 @@ const path = require('path');
 const session = require('express-session')
 const ejsMate = require('ejs-mate');
 const methodOverride = require('method-override')
+const flash = require('connect-flash')
+const catchAsync = require('./utils/catchAsync')
+const ExpressError = require('./utils/ExpressError')
 const passport = require('passport')
 const LocalStrategy = require('passport-local')
+const User = require('./models/user')
+const users = require('./controllers/users')
+const userRoutes = require('./routes/users')
 
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
 // 'mongodb://127.0.0.1:27017/yelp-camp'
@@ -18,40 +24,43 @@ db.once("open", () => {
 });
 
 const app = express();
-app.use(express.urlencoded({ extended: true }));
 
 app.engine('ejs', ejsMate);
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
+
+app.use(express.urlencoded({ extended: true }));
+app.use(methodOverride('_method'))
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use(session({secret : 'secret key', resave: true, saveUninitialized: false}))
-app.use(passport.initialize());
-app.use(passport.session())
-passportConfig()
-passport.use(new LocalStrategy(User.authenticate()));
+const secret = 'secretkeyblahblahblah'
 
-passport.serializeUser(User.serializeUser());
-passport.deserializeUser(User.deserializeUser());
+const sessionConfig = {
+    url: dbUrl,
+    secret,
+    touchAfter: 24 * 60 * 60,
+    saveUninitialized: true,
+    cokkie: {
+        httpOnly: true,
+        expires: Date.now() + 1000 * 60 * 60 * 24 * 7,
+        maxAge: 1000 * 60 * 60 * 24 * 7
+    }
+}
+
+app.use(session(sessionConfig))
+app.use(flash())
+
+app.use(passport.initialize())
+app.use(passport.session())
+passport.use(new LocalStrategy(User.authenticate()))
+
+passport.serializeUser(User.serializeUser())
+passport.deserializeUser(User.deserializeUser())
+
+app.use('/', userRoutes)
 
 app.get('/', (req, res) => {
     res.render('home')
-});
-
-app.get('/about', (req, res) => {
-    res.render('about');
-})
-
-app.get('/register', (req, res) => {
-    res.render('register');
-})
-
-app.get('/search', (req, res) => {
-    res.render('search')
-})
-
-app.post('/register', (req, res) => {
-    res.send(req.body)
 })
 
 app.listen(3000, () => {
