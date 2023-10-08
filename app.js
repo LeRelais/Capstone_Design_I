@@ -13,6 +13,7 @@ const User = require('./models/user')
 const users = require('./controllers/users')
 const userRoutes = require('./routes/users')
 
+
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
 // 'mongodb://127.0.0.1:27017/yelp-camp'
 mongoose.connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
@@ -56,6 +57,13 @@ passport.use(new LocalStrategy(User.authenticate()))
 
 passport.serializeUser(User.serializeUser())
 passport.deserializeUser(User.deserializeUser())
+
+app.use((req, res, next) => {
+    res.locals.currentUser = req.user
+    res.locals.success = req.flash('success')
+    res.locals.error = req.flash('error')
+    next()
+})
 
 app.use('/', userRoutes)
 
