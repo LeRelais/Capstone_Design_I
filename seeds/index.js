@@ -19,7 +19,8 @@ const seedDB = async () => {
             prodYear: `${movies[i].prodYear}`,
             directorName: `${movies[i].directorNm}`,
             rating: `${movies[i].rating}`,
-            genre: `${movies[i].genre}`
+            genre: `${movies[i].genre}`,
+            plot: `${movies[i].plot[0].plotText}`
         })
         await movie.save()
     }

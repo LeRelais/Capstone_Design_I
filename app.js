@@ -12,7 +12,9 @@ const LocalStrategy = require('passport-local')
 const User = require('./models/user')
 const users = require('./controllers/users')
 const userRoutes = require('./routes/users')
-
+const Movie = require('./models/movies')
+const Review = require('./models/review')
+const {reviewSchema} = require('./schemas.js')
 
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
 mongoose.connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
@@ -64,11 +66,43 @@ app.use((req, res, next) => {
     next()
 })
 
+//review 생성 전 valid한지 확인하는 middleware
+const validateReview = (req, res, next) => {
+    const {error} = reviewSchema.validate(req.body)
+    if(error){
+        const msg = error.details.map(el => el.message).join(',')
+        throw new ExpressError(msg, 400)
+    }
+    else
+        next()
+}
+
 app.use('/', userRoutes)
 
 app.get('/', (req, res) => {
     res.render('home')
 })
+
+app.get('/movies', catchAsync(async (req, res) => {
+    const movies = await Movie.find({})
+    res.render('movies/index', {movies})
+}))
+
+app.get('/movies/:id', catchAsync(async(req, res) => {
+    const movie = await Movie.findById(req.params.id).populate('reviews') //Review db에 있는 정보를 movie db에 치환해서 넣는걸 기다리는 작업. SQL에서 join과 비슷한 역할
+    console.log(movie)
+    res.render('movies/show', {movie})
+}))
+
+
+app.post('/movies/:id/reviews', validateReview, catchAsync(async(req, res) => {
+    const movie = await Movie.findById(req.params.id)
+    const review = new Review(req.body.review)
+    movie.reviews.push(review);
+    await review.save()
+    await movie.save()
+    res.redirect(`/movies/${movie._id}`)
+}))
 
 app.listen(3000, () => {
     console.log('Serving on port 3000')

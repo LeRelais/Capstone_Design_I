@@ -6,7 +6,14 @@ const MovieSchema = new Schema({
     prodYear : String,
     directorName : String,
     rating : String,
-    genre : String
+    genre : String,
+    plot : String,
+    reviews: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Review'
+        }
+    ]
 });
 
 module.exports = mongoose.model('Movie', MovieSchema)

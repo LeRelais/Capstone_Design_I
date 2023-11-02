@@ -10,6 +10,6 @@ const UserSchema = new Schema({
     }
 })
 
-UserSchema.plugin(passportLocalMongoose, {usernameField: "email"})
+UserSchema.plugin(passportLocalMongoose)
 
 module.exports = mongoose.model('User', UserSchema)
