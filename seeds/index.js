@@ -13,14 +13,23 @@ db.once("open", () => {
 
 const seedDB = async () => {
     await Movie.deleteMany({});
-    for(let i = 0; i < 5; i++){
+    for(let i = 0; ; i++){
+        if(!movies[i])
+            break
+        var plotText
+        if(movies[i].plots.plot.length == 2)
+            plotText = movies[i].plots.plot[0].plotText
+        else
+            plotText = movies[i].plots.plot.plotText
         const movie = new Movie({
             title: `${movies[i].title}`,
             prodYear: `${movies[i].prodYear}`,
             directorName: `${movies[i].directorNm}`,
             rating: `${movies[i].rating}`,
             genre: `${movies[i].genre}`,
-            plot: `${movies[i].plot[0].plotText}`
+            plot: `${plotText}`,
+            poster: `${movies[i].poster}`,
+            trailer: `${movies[i].trailer}`
         })
         await movie.save()
     }

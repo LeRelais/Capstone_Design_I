@@ -11,7 +11,9 @@ const passport = require('passport')
 const LocalStrategy = require('passport-local')
 const User = require('./models/user')
 const users = require('./controllers/users')
+
 const userRoutes = require('./routes/users')
+
 const Movie = require('./models/movies')
 const Review = require('./models/review')
 const {reviewSchema} = require('./schemas.js')
@@ -83,6 +85,12 @@ app.get('/', (req, res) => {
     res.render('home')
 })
 
+//// app.get('/fakeUser', async(req, res) => {
+//     const user = new User({email: 'test@test.com', username: 'test'})
+//     const newUser = await User.register(user, 'test')
+//     res.send(newUser)
+// })
+
 app.get('/movies', catchAsync(async (req, res) => {
     const movies = await Movie.find({})
     res.render('movies/index', {movies})
@@ -103,6 +111,28 @@ app.post('/movies/:id/reviews', validateReview, catchAsync(async(req, res) => {
     await movie.save()
     res.redirect(`/movies/${movie._id}`)
 }))
+
+app.post('/search', async(req, res) => {
+    const query = req.body.key;
+    const type = req.body.search_type
+
+    if(type == "director"){
+        const movies = await Movie.find({directorName: ` ${query} `})
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies})
+    }   
+    else if(type == "title"){
+        const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
+
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies})
+    }
+    //console.log(req.body.search_type)
+})
 
 app.listen(3000, () => {
     console.log('Serving on port 3000')

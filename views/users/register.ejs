@@ -8,6 +8,7 @@
     integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
 <body>
+    <%- include('../partials/flash') %>
     <div class="container d-flex justify-content-center align-items-center mt-5">
         <div class="row">
             <div class="col-md-6 offset-md-3 col-xl-4 offset-xl-4">
@@ -18,21 +19,21 @@
                     <h5 class="card-title text-white-50">Register</h5>
                     <form action="/register" class="validated-form" novalidate method="POST">
                         <div class="mb-3">
-                            <label for="username" class="username bg-dark-50">Username</label>
+                            <label for="username" class="form-label">Username</label>
                             <input type="text" class="form-control" id="username" name="username" autofocus required>
                             <!-- <div class="valid-feedback">
                                 Looks good!
                             </div> -->
                         </div>
                         <div class="mb-3">
-                            <label for="username" class="email">Email</label>
+                            <label for="email" class="form-label">Email</label>
                             <input type="email" class="form-control" id="email" name="email" required>
                             <!-- <div class="valid-feedback">
                                 Looks good!
                             </div> -->
                         </div>
                         <div class="mb-3">
-                            <label for="username" class="password">Password</label>
+                            <label for="password" class="form-label">Password</label>
                             <input type="password" class="form-control" id="password" name="password" required>
                             <!-- <div class="valid-feedback">
                                 Looks good!

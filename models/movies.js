@@ -8,6 +8,8 @@ const MovieSchema = new Schema({
     rating : String,
     genre : String,
     plot : String,
+    poster : String,
+    trailer : String,
     reviews: [
         {
             type: Schema.Types.ObjectId,
