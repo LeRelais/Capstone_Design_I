@@ -12,10 +12,11 @@ const LocalStrategy = require('passport-local')
 const User = require('./models/user')
 const users = require('./controllers/users')
 
-const userRoutes = require('./routes/users')
+//const userRoutes = require('./routes/users')
 
 const Movie = require('./models/movies')
 const Review = require('./models/review')
+
 const {reviewSchema} = require('./schemas.js')
 
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
@@ -79,7 +80,7 @@ const validateReview = (req, res, next) => {
         next()
 }
 
-app.use('/', userRoutes)
+//app.use('/', userRoutes)
 
 app.get('/', (req, res) => {
     res.render('home')
@@ -91,9 +92,68 @@ app.get('/', (req, res) => {
 //     res.send(newUser)
 // })
 
+app.use((req, res, next) => {
+    res.locals.currentUser = req.user
+    res.locals.success = req.flash('success')
+    res.locals.error = req.flash('error')
+    next()
+})
+
+app.get('/register', (req, res) => {
+    res.render('users/register')
+})
+
+app.post('/register', catchAsync(async(req, res) => {
+    const {email, username, password, prefergenre, preferdirector, preferactor} = req.body
+    //console.log(req.body)
+    const user = new User({email,username, prefergenre, preferdirector, preferactor})
+    const registeredUser = await User.register(user, password)
+    console.log(registeredUser)
+    //req.flash('success', 'welcome')
+    res.redirect('/movies')
+}))
+
+app.get('/login', (req, res) => {
+    res.render('users/login')
+})
+
+app.post('/login', passport.authenticate('local', {failureFlash: true, failureRedirect: '/login'}), (req, res) => {
+    req.flash('success', 'welcome back')
+    res.redirect('/movies')
+})
+
+app.get('/logout', (req, res) => {
+    req.logout((err) => {
+        if (err) {
+            console.error(err);
+        }
+        res.redirect('/movies'); // Redirect after logging out
+    });
+})
+
+app.get('/mypage/:id', catchAsync(async(req, res) => {
+    const user = await User.findById(req.params.id).populate('reviews')
+    //res.send(user)
+    //res.send(currentUser.username)
+    console.log(user)
+    res.render('users/mypage', {user})
+}))
+
+app.post('/mypage/:id', catchAsync(async(req, res) => {
+    console.log(req.user)
+}))
+
 app.get('/movies', catchAsync(async (req, res) => {
+    const user = req.user
+    const currentPage = parseInt(req.query.page) || 1;
     const movies = await Movie.find({})
-    res.render('movies/index', {movies})
+    const allMovie = movies.length
+    var lastPage = allMovie / 12;
+    if(lastPage * 12 < allMovie)
+        lastPage += 1
+
+    //console.log(currentPage, viewOption)
+    res.render('movies/index', {movies, currentPage, allMovie, lastPage, user})
 }))
 
 app.get('/movies/:id', catchAsync(async(req, res) => {
@@ -105,10 +165,16 @@ app.get('/movies/:id', catchAsync(async(req, res) => {
 
 app.post('/movies/:id/reviews', validateReview, catchAsync(async(req, res) => {
     const movie = await Movie.findById(req.params.id)
+    const curUser = req.user
+    const user = await User.findById(curUser._id)
     const review = new Review(req.body.review)
-    movie.reviews.push(review);
+    //console.log(curUser)
+    //console.log(movie)
+    movie.reviews.push(review)
+    user.reviews.push(review)
     await review.save()
     await movie.save()
+    await user.save()
     res.redirect(`/movies/${movie._id}`)
 }))
 

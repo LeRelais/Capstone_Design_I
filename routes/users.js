@@ -12,16 +12,24 @@ const User = require('../models/user');
 //     .get(users.renderLogin)
 //     .post(passport.authenticate('local', { failureFlash: true, failureRedirect: '/login' }), users.login)
 
+router.use((req, res, next) => {
+    res.locals.currentUser = req.user
+    res.locals.success = req.flash('success')
+    res.locals.error = req.flash('error')
+    next()
+})
+
 router.get('/register', (req, res) => {
     res.render('users/register')
 })
 
 router.post('/register', catchAsync(async(req, res) => {
-    const {email, username, password} = req.body
-    const user = new User({email,username})
+    const {email, username, password, prefergenre, preferdirector, preferactor} = req.body
+    //console.log(req.body)
+    const user = new User({email,username, prefergenre, preferdirector, preferactor})
     const registeredUser = await User.register(user, password)
-    //console.log(registeredUser)
-    req.flash('success', 'welcome')
+    console.log(registeredUser)
+    //req.flash('success', 'welcome')
     res.redirect('/movies')
 }))
 
@@ -44,8 +52,12 @@ router.get('/logout', (req, res) => {
 })
 
 router.get('/mypage', catchAsync(async(req, res) => {
-    const user = req.user
-    res.render('users/mypage', {user})
+    res.send(currentUser.username)
+    //res.render('users/mypage', {user})
+}))
+
+router.post('/mypage/:id', catchAsync(async(req, res) => {
+    console.log(req.user)
 }))
 
 // router.get('/logout', users.logout)

@@ -7,7 +7,16 @@ const UserSchema = new Schema({
         type: String,
         required: true,
         unique: true
-    }
+    },
+    prefergenre: String,
+    preferdirector: String,
+    preferactor: String,
+    reviews: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Review'
+        }
+    ]
 })
 
 UserSchema.plugin(passportLocalMongoose)

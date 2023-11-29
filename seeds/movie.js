@@ -21122,5 +21122,5805 @@ module.exports = [
   "poster":"http://file.koreafilm.or.kr/thm/02/00/03/83/tn_DPK10097A.jpg",
   "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK006854_P03.mp4"
 },
+{
+  "title": "  강철비 ",
+  "titleEng": " Steel Rain (Gang-cheol-bi) ",
+  "prodYear": " 2017 ",
+    "directorNm": " 양우석 ",
+    "directorEnNm": " Yang Woo-suk ",
+  "actor": [
+    {
+    "actorNm": " 정우성 ",
+    "actorEnNm": " Jung Woo-sung ",
+    "actorId": " 00004226 "
+    },
+    {
+    "actorNm": " 곽도원 ",
+    "actorEnNm": " Gwak Do-won ",
+    "actorId": " 00161510 "
+    },
+    {
+    "actorNm": " 김갑수 ",
+    "actorEnNm": " Kim Ghab-soo ",
+    "actorId": " 00000673 "
+    },
+    {
+    "actorNm": " 김의성 ",
+    "actorEnNm": " Kim Eui-sung ",
+    "actorId": " 00000585 "
+    },
+    {
+    "actorNm": " 이경영 ",
+    "actorEnNm": " Lee Geung-young ",
+    "actorId": " 00000101 "
+    },
+    {
+    "actorNm": " 조우진 ",
+    "actorEnNm": " Jo Woo-jin ",
+    "actorId": " 00081361 "
+    },
+    {
+    "actorNm": " 정원중 ",
+    "actorEnNm": " Chung Won-joong ",
+    "actorId": " 00000197 "
+    },
+    {
+    "actorNm": " 장현성 ",
+    "actorEnNm": " Jang Hyun-sung ",
+    "actorId": " 00000348 "
+    },
+    {
+    "actorNm": " 김명곤 ",
+    "actorEnNm": " Kim Myung-kon ",
+    "actorId": " 00000239 "
+    },
+    {
+    "actorNm": " 박은혜 ",
+    "actorEnNm": " Park Eun-hye ",
+    "actorId": " 00034469 "
+    },
+    {
+    "actorNm": " 박선영 ",
+    "actorEnNm": " Park Sun-young ",
+    "actorId": " 00004363 "
+    },
+    {
+    "actorNm": " 안미나 ",
+    "actorEnNm": " An Mina ",
+    "actorId": " 00167410 "
+    },
+    {
+    "actorNm": " 원진아 ",
+    "actorEnNm": " Won Jin-a ",
+    "actorId": " 00197316 "
+    },
+    {
+    "actorNm": " 이재용 ",
+    "actorEnNm": " Lee Jae-yong ",
+    "actorId": " 00011270 "
+    },
+    {
+    "actorNm": " 이윤건 ",
+    "actorEnNm": " Lee Yoon-geon ",
+    "actorId": " 00007822 "
+    },
+    {
+    "actorNm": " 김형종 ",
+    "actorEnNm": " Kim Hyeong-jung ",
+    "actorId": " 00011418 "
+    },
+    {
+    "actorNm": " 이채은 ",
+    "actorEnNm": " Lee Chaeeun ",
+    "actorId": " 00199615 "
+    },
+    {
+    "actorNm": " 이시우 ",
+    "actorEnNm": " Lee Siwoo ",
+    "actorId": " 00203895 "
+    },
+    {
+    "actorNm": " 고나희 ",
+    "actorEnNm": " Go Na-hui ",
+    "actorId": " 00204606 "
+    },
+    {
+    "actorNm": " 크리스튼 댈턴 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 론 도나치 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김기현 ",
+    "actorEnNm": " Kim Ki-hyeon ",
+    "actorId": " 00012134 "
+    },
+    {
+    "actorNm": " 김중기 ",
+    "actorEnNm": " Kim Jung-ki ",
+    "actorId": " 00000473 "
+    },
+    {
+    "actorNm": " 나광훈 ",
+    "actorEnNm": " Na Gwang-hun ",
+    "actorId": " 00166667 "
+    },
+    {
+    "actorNm": " 전영미 ",
+    "actorEnNm": " Jeon Yeongmi ",
+    "actorId": " 00215947 "
+    },
+    {
+    "actorNm": " 최규환 ",
+    "actorEnNm": " Choi Kyu-hwan ",
+    "actorId": " 00018966 "
+    },
+    {
+    "actorNm": " 이지원 ",
+    "actorEnNm": " An Hyunho ",
+    "actorId": " 00213755 "
+    },
+    {
+    "actorNm": " 현봉식 ",
+    "actorEnNm": " Hyun Bongsik ",
+    "actorId": " 00200750 "
+    },
+    {
+    "actorNm": " 최성환 ",
+    "actorEnNm": " Choe Seonghwan ",
+    "actorId": " 00046654 "
+    },
+    {
+    "actorNm": " 성세정 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 권한솔 ",
+    "actorEnNm": " Kwon han-sol ",
+    "actorId": " 00205470 "
+    },
+    {
+    "actorNm": " 안병식 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 박민희 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 성민수 ",
+    "actorEnNm": " Lee Yanghui ",
+    "actorId": " 00020401 "
+    },
+    {
+    "actorNm": " 손성찬 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김지호 ",
+    "actorEnNm": " Kim Ji-ho ",
+    "actorId": " 00000284 "
+    },
+    {
+    "actorNm": " 전아희 ",
+    "actorEnNm": " Jeon Ahui ",
+    "actorId": " 00204071 "
+    },
+    {
+    "actorNm": " 김말구 ",
+    "actorEnNm": " Kim Malgu ",
+    "actorId": " 00204077 "
+    },
+    {
+    "actorNm": " 장로이 ",
+    "actorEnNm": " Jang Roi ",
+    "actorId": " 00204115 "
+    },
+    {
+    "actorNm": " 문상호 ",
+    "actorEnNm": " Moon Sangho ",
+    "actorId": " 00204224 "
+    },
+    {
+    "actorNm": " 신재민 ",
+    "actorEnNm": " Sin Jaemin ",
+    "actorId": " 00204255 "
+    },
+    {
+    "actorNm": " 박상혁 ",
+    "actorEnNm": " Park Sang-hyeok ",
+    "actorId": " 00016918 "
+    },
+    {
+    "actorNm": " 유재훈 ",
+    "actorEnNm": " Yoo Jaehun ",
+    "actorId": " 00204656 "
+    },
+    {
+    "actorNm": " 박혜영 ",
+    "actorEnNm": " Park Hyeyeong ",
+    "actorId": " 00204675 "
+    },
+    {
+    "actorNm": " 이정호 ",
+    "actorEnNm": " Lee jeong-ho ",
+    "actorId": " 00202919 "
+    },
+    {
+    "actorNm": " 정종우 ",
+    "actorEnNm": " Jeong jong-woo ",
+    "actorId": " 00205634 "
+    },
+    {
+    "actorNm": " 강태혁 ",
+    "actorEnNm": " Kang Taehyuk ",
+    "actorId": " 00206399 "
+    },
+    {
+    "actorNm": " 이원희 ",
+    "actorEnNm": " Lee Wonhui ",
+    "actorId": " 00202850 "
+    },
+    {
+    "actorNm": " 선인호 ",
+    "actorEnNm": " Sun Inho ",
+    "actorId": " 00206684 "
+    },
+    {
+    "actorNm": " 김세정 ",
+    "actorEnNm": " Kim Sejung ",
+    "actorId": " 00206685 "
+    },
+    {
+    "actorNm": " 강종성 ",
+    "actorEnNm": " Kang Jong Sung ",
+    "actorId": " 00201398 "
+    },
+    {
+    "actorNm": " 권범택 ",
+    "actorEnNm": " Kwon Bum-taeg ",
+    "actorId": " 00000298 "
+    },
+    {
+    "actorNm": " 김용진 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 박기운 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김태한 ",
+    "actorEnNm": " Kim Taehan ",
+    "actorId": " 00213278 "
+    },
+    {
+    "actorNm": " 지자혜 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 정환 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 한창현 ",
+    "actorEnNm": " Han Chang-hyeon ",
+    "actorId": " 00007387 "
+    },
+    {
+    "actorNm": " 양욱 ",
+    "actorEnNm": " Yang Uk ",
+    "actorId": " 00215211 "
+    },
+    {
+    "actorNm": " 김길홍 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 이황의 ",
+    "actorEnNm": " Lee Hwang-eui ",
+    "actorId": " 00000565 "
+    },
+    {
+    "actorNm": " 황만익 ",
+    "actorEnNm": " Hwang Min-ik ",
+    "actorId": " 00153596 "
+    },
+    {
+    "actorNm": " 데이비드 리 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 고해성 ",
+    "actorEnNm": " Ko Haeseong ",
+    "actorId": " 00172421 "
+    },
+    {
+    "actorNm": " 최현종 ",
+    "actorEnNm": " Choi Hyun Jong ",
+    "actorId": " 00202564 "
+    },
+    {
+    "actorNm": " 나주호 ",
+    "actorEnNm": " Na Ju-ho ",
+    "actorId": " 00166716 "
+    },
+    {
+    "actorNm": " 고재운 ",
+    "actorEnNm": " Go Jae-woon ",
+    "actorId": " 00177501 "
+    },
+    {
+    "actorNm": " 신동명 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 장용복 ",
+    "actorEnNm": " Jang Yong-bok ",
+    "actorId": " 00176088 "
+    },
+    {
+    "actorNm": " 손영진 ",
+    "actorEnNm": " Son Young Jin ",
+    "actorId": " 00200764 "
+    },
+    {
+    "actorNm": " 육형원 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 백하민 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Andreas Fronk ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Jason Meriadoc Ferguson ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Andrew Willam Brand ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Akeem Pedro ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Daniel Kennedy ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Ryan Maurer ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " Daniel Joey Albright ",
+    "actorEnNm": " Daniel Joey Albright ",
+    "actorId": " 00194812 "
+    },
+    {
+    "actorNm": " Trever McEwan ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " John Michaels ",
+    "actorEnNm": " John D. Michaels ",
+    "actorId": " 00225484 "
+    },
+    {
+    "actorNm": " 문진식 ",
+    "actorEnNm": " Mun Jin-sik ",
+    "actorId": " 00161996 "
+    },
+    {
+    "actorNm": " 한승수 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 손영민 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 이진호 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 한상준 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김계형 ",
+    "actorEnNm": " Kim Gye Hyung ",
+    "actorId": " 00201326 "
+    },
+    {
+    "actorNm": " 박준혁 ",
+    "actorEnNm": " Park Junhyuk ",
+    "actorId": " 00228420 "
+    },
+    {
+    "actorNm": " 박상현 ",
+    "actorEnNm": " Park Sang HYUN ",
+    "actorId": " 00201460 "
+    },
+    {
+    "actorNm": " 김봉조 ",
+    "actorEnNm": " Kim Bong-jo ",
+    "actorId": " 00204831 "
+    },
+    {
+    "actorNm": " 김도담 ",
+    "actorEnNm": " Kim Dodam ",
+    "actorId": " 00213575 "
+    },
+    {
+    "actorNm": " 권영진 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 전현수 ",
+    "actorEnNm": " Jeon Hyeon-soo ",
+    "actorId": " 00038331 "
+    },
+    {
+    "actorNm": " 천재홍 ",
+    "actorEnNm": " Cheon Jaehong ",
+    "actorId": " 00214297 "
+    },
+    {
+    "actorNm": " 박호진 ",
+    "actorEnNm": " Park Ho-jin ",
+    "actorId": " 00035668 "
+    },
+    {
+    "actorNm": " 손현준 ",
+    "actorEnNm": " Son hyun-jun ",
+    "actorId": " 00201631 "
+    },
+    {
+    "actorNm": " 백종환 ",
+    "actorEnNm": " Baek Jong-hwan ",
+    "actorId": " 00171464 "
+    },
+    {
+    "actorNm": " 이선우 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 윤재호 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 부정우 ",
+    "actorEnNm": " Bu Jeongwoo ",
+    "actorId": " 00225377 "
+    },
+    {
+    "actorNm": " 강덕중 ",
+    "actorEnNm": " Kang Deok Jung ",
+    "actorId": " 00201627 "
+    },
+    {
+    "actorNm": " 김기호 ",
+    "actorEnNm": " Kim Gi-ho ",
+    "actorId": " 00045503 "
+    },
+    {
+    "actorNm": " 임이규 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 강민재 ",
+    "actorEnNm": " Kang Minjae ",
+    "actorId": " 00200364 "
+    },
+    {
+    "actorNm": " 김대명 ",
+    "actorEnNm": " Kim Daemyeong ",
+    "actorId": " 00222430 "
+    },
+    {
+    "actorNm": " 이건화 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 이재형 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 연수진 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 송혁 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김하영 ",
+    "actorEnNm": " Kim Ha-young ",
+    "actorId": " 00172498 "
+    },
+    {
+    "actorNm": " 김민아 ",
+    "actorEnNm": " Kim Min-a ",
+    "actorId": " 00009914 "
+    },
+    {
+    "actorNm": " 정유나 ",
+    "actorEnNm": " Yuna Jung ",
+    "actorId": " 00220313 "
+    },
+    {
+    "actorNm": " 박하늘 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 이상미 ",
+    "actorEnNm": " Lee Sangmi ",
+    "actorId": " 00211659 "
+    },
+    {
+    "actorNm": " 조현진 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 이소윤 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 손지은 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 박소연 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 유채은 ",
+    "actorEnNm": " Yu Chae-eun ",
+    "actorId": " 00207415 "
+    },
+    {
+    "actorNm": " 곽보배 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 권수빈 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김가현 ",
+    "actorEnNm": " Kim Ga-hyeon ",
+    "actorId": " 00014739 "
+    },
+    {
+    "actorNm": " 김유 ",
+    "actorEnNm": " Kim yoo ",
+    "actorId": " 00199571 "
+    },
+    {
+    "actorNm": " 안찬웅 ",
+    "actorEnNm": " An Chan-ung ",
+    "actorId": " 00210846 "
+    },
+    {
+    "actorNm": " 박준영 ",
+    "actorEnNm": " Park joon-young ",
+    "actorId": " 00204845 "
+    },
+    {
+    "actorNm": " 김정원 ",
+    "actorEnNm": " Kim Jeong-won ",
+    "actorId": " 00206918 "
+    },
+    {
+    "actorNm": " 한동원 ",
+    "actorEnNm": " Han Dong Won ",
+    "actorId": " 00201247 "
+    },
+    {
+    "actorNm": " 장준현 ",
+    "actorEnNm": " Jang Jun-hyun ",
+    "actorId": " 00194541 "
+    },
+    {
+    "actorNm": " 김준형 ",
+    "actorEnNm": " Kim Jun Hyung ",
+    "actorId": " 00200738 "
+    },
+    {
+    "actorNm": " 김태환 ",
+    "actorEnNm": " Kim Taehwan ",
+    "actorId": " 00205848 "
+    },
+    {
+    "actorNm": " 이지혁 ",
+    "actorEnNm": " Lee Jihyeok ",
+    "actorId": " 00146174 "
+    },
+    {
+    "actorNm": " 한승헌 ",
+    "actorEnNm": " Han Seungheon ",
+    "actorId": " 00220084 "
+    },
+    {
+    "actorNm": " 곽정환 ",
+    "actorEnNm": " Gwak Jeonghwan ",
+    "actorId": " 00224689 "
+    },
+    {
+    "actorNm": " 박주혁 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 신민준 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 류성민 ",
+    "actorEnNm": " Ryu Seongmin ",
+    "actorId": " 00211872 "
+    },
+    {
+    "actorNm": " 이근혁 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 남세린 ",
+    "actorEnNm": " Nam Serin ",
+    "actorId": " 00227905 "
+    },
+    {
+    "actorNm": " 오민준 ",
+    "actorEnNm": " O Min-jun ",
+    "actorId": " 00211092 "
+    },
+    {
+    "actorNm": " 이선관 ",
+    "actorEnNm": " Lee Sunkwan ",
+    "actorId": " 00199621 "
+    },
+    {
+    "actorNm": " 김경자 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김기정 ",
+    "actorEnNm": " Kim Kijung ",
+    "actorId": " 00199572 "
+    }
+  ],
+  "nation": " 대한민국 ",
+  "company": " 와이웍스엔터테인먼트 ",
+  "plots": {
+  "plot": [
+    {
+    "plotLang": " 한국어 ",
+    "plotText": " 북한 쿠데타 발생북 권력 1호가 넘어왔다!쿠데타 발생 직후 최정예요원 '엄철우'(정우성)는 치명상을 입은 북한 1호와 함께 남한으로 피신한다.그 사이 북한은 전 세계를 상대로 선전포고를, 남한은 계엄령을 선포한다.이때 북한 1호가 남한으로 넘어왔다는 정보를 입수한 외교안보수석 '곽철우'(곽도원)는 전쟁을 막기 위해 이들에게 긴밀한 접근을 시도하는데....일.촉.즉.발 핵전쟁 위기막아야 한다! "
+    },
+    {
+    "plotLang": " 영어 ",
+    "plotText": " UHM Cheol-woo, the former agent of the North Korean National Security, escapes to South Korea with No. 1 of North Korea who has been injured due to the coup of hard-liners against North Korea. One day, UHM comes across KWAK Cheol-woo, an acting chief of foreign security affairs of the Blue House and they realize they have to cooperate and proceed with a dangerous secret spy mission together in order to prevent the Korean war. "
+    }
+  ]
+  },
+  "runtime": " 140 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,드라마 ",
+    "poster":"http://file.koreafilm.or.kr/thm/02/00/04/54/tn_DPK012877.jpg",
+    "trailer":" "
+},
+{
+  "title": "  강철비2: 정상회담 ",
+  "titleEng": " Steel Rain2: Summit (Gangcheolbi2: Jeong-sang-hoe-dam) ",
+  "prodYear": " 2020 ",
+      "directorNm": " 양우석 ",
+      "directorEnNm": " Yang Woo-suk ",
+    "actor": [
+      {
+        "actorNm": " 정우성 ",
+        "actorEnNm": " Jung Woo-sung ",
+        "actorId": " 00004226 "
+      },
+      {
+        "actorNm": " 곽도원 ",
+        "actorEnNm": " Gwak Do-won ",
+        "actorId": " 00161510 "
+      },
+      {
+        "actorNm": " 유연석 ",
+        "actorEnNm": " An Yeon-seok ",
+        "actorId": " 00035359 "
+      },
+      {
+        "actorNm": " 앤거스 맥파디언 ",
+        "actorEnNm": " Angus MacFadyen ",
+        "actorId": " 00055317 "
+      },
+      {
+        "actorNm": " 신정근 ",
+        "actorEnNm": " Sin Jeong-geun ",
+        "actorId": " 00010687 "
+      },
+      {
+        "actorNm": " 류수영 ",
+        "actorEnNm": " Ryu Soo-young ",
+        "actorId": " 00023775 "
+      },
+      {
+        "actorNm": " 염정아 ",
+        "actorEnNm": " Yum Jung-ah ",
+        "actorId": " 00000243 "
+      },
+      {
+        "actorNm": " 김용림 ",
+        "actorEnNm": " Kim Yong-rim ",
+        "actorId": " 00004169 "
+      },
+      {
+        "actorNm": " 김명곤 ",
+        "actorEnNm": " Kim Myung-kon ",
+        "actorId": " 00000239 "
+      },
+      {
+        "actorNm": " 장광 ",
+        "actorEnNm": " Jang Kwang ",
+        "actorId": " 00135398 "
+      },
+      {
+        "actorNm": " 이재용 ",
+        "actorEnNm": " Lee Jae-yong ",
+        "actorId": " 00011270 "
+      },
+      {
+        "actorNm": " 안내상 ",
+        "actorEnNm": " An Nae-sang ",
+        "actorId": " 00000637 "
+      },
+      {
+        "actorNm": " 손종학 ",
+        "actorEnNm": " Son Jong-hak ",
+        "actorId": " 00044162 "
+      },
+      {
+        "actorNm": " 하쿠류 ",
+        "actorEnNm": " Hakuryu ",
+        "actorId": " 00075443 "
+      },
+      {
+        "actorNm": " 크리스튼 댈턴 ",
+        "actorEnNm": " Kristen Dalton ",
+        "actorId": " 00095025 "
+      },
+      {
+        "actorNm": " Colby French ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " Scott Lowell ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 서동갑 ",
+        "actorEnNm": " Seo Donggap ",
+        "actorId": " 00082850 "
+      },
+      {
+        "actorNm": " 김승태 ",
+        "actorEnNm": " Kim Seung-tae ",
+        "actorId": " 00043733 "
+      },
+      {
+        "actorNm": " 정진각 ",
+        "actorEnNm": " Chung Jin-gak ",
+        "actorId": " 00008710 "
+      },
+      {
+        "actorNm": " 유성주 ",
+        "actorEnNm": " Yoo Seongju ",
+        "actorId": " 00206407 "
+      },
+      {
+        "actorNm": " 김중희 ",
+        "actorEnNm": " Kim Joonghee ",
+        "actorId": " 00199475 "
+      },
+      {
+        "actorNm": " 김중기 ",
+        "actorEnNm": " Kim Jung-ki ",
+        "actorId": " 00000473 "
+      },
+      {
+        "actorNm": " 손승범 ",
+        "actorEnNm": " Son Seung-beom ",
+        "actorId": " 00218525 "
+      },
+      {
+        "actorNm": " 전운종 ",
+        "actorEnNm": " Woon Jong Jeon ",
+        "actorId": " 00082252 "
+      },
+      {
+        "actorNm": " 김호준 ",
+        "actorEnNm": " Kim Ho-jun ",
+        "actorId": " 00042789 "
+      },
+      {
+        "actorNm": " 김중기 ",
+        "actorEnNm": " Kim Jung-gi ",
+        "actorId": " 00215945 "
+      },
+      {
+        "actorNm": " 심희섭 ",
+        "actorEnNm": " Shim Hee-seop ",
+        "actorId": " 00165909 "
+      },
+      {
+        "actorNm": " 최원 ",
+        "actorEnNm": " Choi One ",
+        "actorId": " 00199542 "
+      },
+      {
+        "actorNm": " 서지원 ",
+        "actorEnNm": " Seo Ji-won ",
+        "actorId": " 00039213 "
+      },
+      {
+        "actorNm": " 조유신 ",
+        "actorEnNm": " Jo Yusin ",
+        "actorId": " 00165148 "
+      },
+      {
+        "actorNm": " 김재일 ",
+        "actorEnNm": " Kim Jae-il ",
+        "actorId": " 00181005 "
+      },
+      {
+        "actorNm": " 이승찬 ",
+        "actorEnNm": " Lee Seung Chan ",
+        "actorId": " 00201038 "
+      },
+      {
+        "actorNm": " 권혁성 ",
+        "actorEnNm": " Kwon Hyeokseong ",
+        "actorId": " 00204257 "
+      },
+      {
+        "actorNm": " 이태형 ",
+        "actorEnNm": " Lee Taehyeong ",
+        "actorId": " 00048259 "
+      },
+      {
+        "actorNm": " 최민철 ",
+        "actorEnNm": " Choi Min-cheol ",
+        "actorId": " 00155029 "
+      },
+      {
+        "actorNm": " 박성현 ",
+        "actorEnNm": " Park seong-hyun ",
+        "actorId": " 00204897 "
+      },
+      {
+        "actorNm": " 최재훈 ",
+        "actorEnNm": " Choe Jaehoon ",
+        "actorId": " 00215946 "
+      },
+      {
+        "actorNm": " 신수연 ",
+        "actorEnNm": " Shin Soo-yeon ",
+        "actorId": " 00155246 "
+      },
+      {
+        "actorNm": " 박윤석 ",
+        "actorEnNm": " Park Yun-seok ",
+        "actorId": " 00043989 "
+      },
+      {
+        "actorNm": " 이수련 ",
+        "actorEnNm": " Suryeon, Lee ",
+        "actorId": " 00207798 "
+      },
+      {
+        "actorNm": " 고윤 ",
+        "actorEnNm": " Ko Yoon ",
+        "actorId": " 00199416 "
+      },
+      {
+        "actorNm": " 이남희 ",
+        "actorEnNm": " Lee Nam-hee ",
+        "actorId": " 00000204 "
+      },
+      {
+        "actorNm": " 전영미 ",
+        "actorEnNm": " Jeon Yeongmi ",
+        "actorId": " 00215947 "
+      },
+      {
+        "actorNm": " 에이미 알레하 ",
+        "actorEnNm": " Amy Aleha Tamiko Hayashi ",
+        "actorId": " 00211021 "
+      },
+      {
+        "actorNm": " 공대유 ",
+        "actorEnNm": " Gong Teyu ",
+        "actorId": " 00215948 "
+      },
+      {
+        "actorNm": " 현대철 ",
+        "actorEnNm": " Hyeon Dae-cheol ",
+        "actorId": " 00026476 "
+      },
+      {
+        "actorNm": " 최희진 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김다영 ",
+        "actorEnNm": " Kim Dayeong ",
+        "actorId": " 00225346 "
+      },
+      {
+        "actorNm": " 김진욱 ",
+        "actorEnNm": " Kim Jin Wook ",
+        "actorId": " 00202766 "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " ㈜스튜디오 게니우스 우정 ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 남북미 정상회담 중, 북한 내 쿠데타로 세 정상이 납치된다!북미 평화협정 체결을 위한 대한민국 대통령(정우성), 북한의 최고지도자인 위원장(유연석)과 미국 대통령(앵거스 맥페이든)간의 남북미 정상회담이 북한 원산에서 열린다. 북미 사이 좀처럼 이견이 좁혀지지 않는 가운데, 핵무기 포기와 평화체제 수립에 반발하는 북 호위총국장(곽도원)의 쿠데타가 발생하고, 납치된 세 정상은 북한 핵잠수함에 인질로 갇힌다. 그리고, 좁디 좁은 함장실 안, 예기치 못한 진정한 정상회담이 벌어지게 되는데…동북아시아의 운명이 핵잠수함에 갇혔다!과연, 남북미 세 지도자는 전쟁 위기를 막을 수 있을 것인가? "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Leaders of South Korea, North Korea, and the U.S. hold a summit in Wonsan, North Korea to discuss North Korea’s nuclear issue and peace in the Korean Peninsula. Interrupted by some North Korean hardliners who have raised a coup, the leaders of the three countries are abducted and taken away on a North Korean submarine. As the North Korean hardliners, the U.S., Japan, and China each set up their own plans for war, how will President HAN of South Korea, who is trapped inside a submarine, overcome this crisis? "
+      }
+    ]
+  },
+  "runtime": " 132 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,액션 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/05/61/tn_DPK016016.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK045486_P02.mp4"
+},
+{
+  "title": "  관상 ",
+  "titleEng": " The Face Reader ( Gwang-sang) ",
+  "prodYear": " 2013 ",
+      "directorNm": " 한재림 ",
+      "directorEnNm": " Han Jae-rim ",
+    "actor": [
+      {
+        "actorNm": " 송강호 ",
+        "actorEnNm": " Song Kang-ho ",
+        "actorId": " 00000776 "
+      },
+      {
+        "actorNm": " 이정재 ",
+        "actorEnNm": " Lee Jung-jae ",
+        "actorId": " 00000102 "
+      },
+      {
+        "actorNm": " 백윤식 ",
+        "actorEnNm": " Baek Yoon-sik ",
+        "actorId": " 00003934 "
+      },
+      {
+        "actorNm": " 조정석 ",
+        "actorEnNm": " Jo Jung-suk ",
+        "actorId": " 00161318 "
+      },
+      {
+        "actorNm": " 이종석 ",
+        "actorEnNm": " Lee Jong-seok ",
+        "actorId": " 00152319 "
+      },
+      {
+        "actorNm": " 김혜수 ",
+        "actorEnNm": " Kim Hye-soo ",
+        "actorId": " 00000076 "
+      },
+      {
+        "actorNm": " 김의성 ",
+        "actorEnNm": " Kim Eui-sung ",
+        "actorId": " 00000585 "
+      },
+      {
+        "actorNm": " 김태우 ",
+        "actorEnNm": " Kim Tae-woo ",
+        "actorId": " 00003968 "
+      },
+      {
+        "actorNm": " 고창석 ",
+        "actorEnNm": " Go Chang-seok ",
+        "actorId": " 00026389 "
+      },
+      {
+        "actorNm": " 김강현 ",
+        "actorEnNm": " Kim Gang-hyeon ",
+        "actorId": " 00050737 "
+      },
+      {
+        "actorNm": " 정규수 ",
+        "actorEnNm": " Jeong Gyoo-soo ",
+        "actorId": " 00008645 "
+      },
+      {
+        "actorNm": " 채상우 ",
+        "actorEnNm": " Chae Sang-woo ",
+        "actorId": " 00176793 "
+      },
+      {
+        "actorNm": " 이윤건 ",
+        "actorEnNm": " Lee Yoon-geon ",
+        "actorId": " 00007822 "
+      },
+      {
+        "actorNm": " 이도엽 ",
+        "actorEnNm": " Lee Do-yeop ",
+        "actorId": " 00008237 "
+      },
+      {
+        "actorNm": " 유상재 ",
+        "actorEnNm": " Yu Sangjae ",
+        "actorId": " 00156997 "
+      },
+      {
+        "actorNm": " 이종관 ",
+        "actorEnNm": " Lee Jong-gwan ",
+        "actorId": " 00008795 "
+      },
+      {
+        "actorNm": " 윤경호 ",
+        "actorEnNm": " Yoon Kyeong-ho ",
+        "actorId": " 00181078 "
+      },
+      {
+        "actorNm": " 서현우 ",
+        "actorEnNm": " Seo Hyeon-u ",
+        "actorId": " 00161545 "
+      },
+      {
+        "actorNm": " 이창직 ",
+        "actorEnNm": " Lee Chang-jik ",
+        "actorId": " 00016938 "
+      },
+      {
+        "actorNm": " 이광일 ",
+        "actorEnNm": " Lee Gwang-il ",
+        "actorId": " 00015274 "
+      },
+      {
+        "actorNm": " 김서현 ",
+        "actorEnNm": " Kim Seo-hyeon ",
+        "actorId": " 00007698 "
+      },
+      {
+        "actorNm": " 박가원 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 윤채영 ",
+        "actorEnNm": " Yun Chaeyeong ",
+        "actorId": " 00152121 "
+      },
+      {
+        "actorNm": " 이상홍 ",
+        "actorEnNm": " Lee Sang-hong ",
+        "actorId": " 00011009 "
+      },
+      {
+        "actorNm": " 우상전 ",
+        "actorEnNm": " U Sang-jeon ",
+        "actorId": " 00008243 "
+      },
+      {
+        "actorNm": " 신동력 ",
+        "actorEnNm": " Sin Dong-ryeok ",
+        "actorId": " 00043742 "
+      },
+      {
+        "actorNm": " 박재운 ",
+        "actorEnNm": " Park Jae-un ",
+        "actorId": " 00044173 "
+      },
+      {
+        "actorNm": " 송영재 ",
+        "actorEnNm": " Song Yeong-jae ",
+        "actorId": " 00042889 "
+      },
+      {
+        "actorNm": " 임학순 ",
+        "actorEnNm": " Im Haksun ",
+        "actorId": " 00047304 "
+      },
+      {
+        "actorNm": " 김해나 ",
+        "actorEnNm": " Jeong da-won ",
+        "actorId": " 00169125 "
+      },
+      {
+        "actorNm": " 지주연 ",
+        "actorEnNm": " Ji joo-yeon ",
+        "actorId": " 00205732 "
+      },
+      {
+        "actorNm": " 김혜원 ",
+        "actorEnNm": " Kim Hyewon ",
+        "actorId": " 00215533 "
+      },
+      {
+        "actorNm": " 시연 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 황보미 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박란 ",
+        "actorEnNm": " Park Ran ",
+        "actorId": " 00149525 "
+      },
+      {
+        "actorNm": " 김연수 ",
+        "actorEnNm": " Kim Yeon-su ",
+        "actorId": " 00155646 "
+      },
+      {
+        "actorNm": " 김길동 ",
+        "actorEnNm": " Kim Gil-dong ",
+        "actorId": " 00166333 "
+      },
+      {
+        "actorNm": " 이유준 ",
+        "actorEnNm": " Lee Yoo-jun ",
+        "actorId": " 00179127 "
+      },
+      {
+        "actorNm": " 주광현 ",
+        "actorEnNm": " Kwanghyun Chyu ",
+        "actorId": " 00039452 "
+      },
+      {
+        "actorNm": " 이설구 ",
+        "actorEnNm": " LEE Seol-gu ",
+        "actorId": " 00048280 "
+      },
+      {
+        "actorNm": " 김하준 ",
+        "actorEnNm": " Kim Hajun ",
+        "actorId": " 00048279 "
+      },
+      {
+        "actorNm": " 김은해 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이판 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박인혜 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김왕근 ",
+        "actorEnNm": " Kim Wang-geun ",
+        "actorId": " 00013705 "
+      },
+      {
+        "actorNm": " 장용철 ",
+        "actorEnNm": " Jang Yongcheol ",
+        "actorId": " 00048121 "
+      },
+      {
+        "actorNm": " 공재원 ",
+        "actorEnNm": " Gong Jae-won ",
+        "actorId": " 00008774 "
+      },
+      {
+        "actorNm": " 정진기 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 정성욱 ",
+        "actorEnNm": " Jeong Seongwook ",
+        "actorId": " 00165998 "
+      },
+      {
+        "actorNm": " 석호진 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박만수 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 신승용 ",
+        "actorEnNm": " Shin Seung-yong ",
+        "actorId": " 00182492 "
+      },
+      {
+        "actorNm": " 김동인 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 서병덕 ",
+        "actorEnNm": " Seo Byeong-deok ",
+        "actorId": " 00172815 "
+      },
+      {
+        "actorNm": " 박일목 ",
+        "actorEnNm": " Park Il-mok ",
+        "actorId": " 00154737 "
+      },
+      {
+        "actorNm": " 유재명 ",
+        "actorEnNm": " Yu Jae-myeong ",
+        "actorId": " 00008695 "
+      },
+      {
+        "actorNm": " 하정수 ",
+        "actorEnNm": " Ha Jeong-su ",
+        "actorId": " 00176827 "
+      },
+      {
+        "actorNm": " 노준표 ",
+        "actorEnNm": " Roh Junpyo ",
+        "actorId": " 00165482 "
+      },
+      {
+        "actorNm": " 유현준 ",
+        "actorEnNm": " Yoo Hyun-joon ",
+        "actorId": " 00210438 "
+      },
+      {
+        "actorNm": " 표유신 ",
+        "actorEnNm": " Pyo Yu-sin ",
+        "actorId": " 00211145 "
+      },
+      {
+        "actorNm": " 신기원 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 전신환 ",
+        "actorEnNm": " Jeon Sinhwan ",
+        "actorId": " 00150274 "
+      },
+      {
+        "actorNm": " 김보미 ",
+        "actorEnNm": " Kim Bo-mi ",
+        "actorId": " 00166482 "
+      },
+      {
+        "actorNm": " 문혜진 ",
+        "actorEnNm": " Mun Hyejin ",
+        "actorId": " 00176828 "
+      },
+      {
+        "actorNm": " 윤희원 ",
+        "actorEnNm": " Yun Hui-won ",
+        "actorId": " 00008235 "
+      },
+      {
+        "actorNm": " 최교식 ",
+        "actorEnNm": " Choe Gyo-sik ",
+        "actorId": " 00043490 "
+      },
+      {
+        "actorNm": " 김준혁 ",
+        "actorEnNm": " Kim Junhyeok ",
+        "actorId": " 00213138 "
+      },
+      {
+        "actorNm": " 김남훈 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 엄민혁 ",
+        "actorEnNm": " Um Min-hyeok ",
+        "actorId": " 00172304 "
+      },
+      {
+        "actorNm": " 김아림 ",
+        "actorEnNm": " Kim a-rim ",
+        "actorId": " 00136450 "
+      },
+      {
+        "actorNm": " 김인섭 ",
+        "actorEnNm": " Kim In-seop ",
+        "actorId": " 00040932 "
+      },
+      {
+        "actorNm": " 김대흥 ",
+        "actorEnNm": " Kim Dae-heung ",
+        "actorId": " 00044122 "
+      },
+      {
+        "actorNm": " 최창균 ",
+        "actorEnNm": " Choe Chang-gyun ",
+        "actorId": " 00015729 "
+      },
+      {
+        "actorNm": " 장문석 ",
+        "actorEnNm": " Jang Moon-Seok ",
+        "actorId": " 00083660 "
+      },
+      {
+        "actorNm": " 염상태 ",
+        "actorEnNm": " Yeom Sang-tae ",
+        "actorId": " 00042014 "
+      },
+      {
+        "actorNm": " 박주형 ",
+        "actorEnNm": " Park Kiman ",
+        "actorId": " 00206791 "
+      },
+      {
+        "actorNm": " 최승일 ",
+        "actorEnNm": " Choi Seung-il ",
+        "actorId": " 00181213 "
+      },
+      {
+        "actorNm": " 윤종구 ",
+        "actorEnNm": " Yun Jong-gu ",
+        "actorId": " 00153618 "
+      },
+      {
+        "actorNm": " 김정태 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 정대용 ",
+        "actorEnNm": " Jeong Dae-yong ",
+        "actorId": " 00010728 "
+      },
+      {
+        "actorNm": " 리민 ",
+        "actorEnNm": " Ri Min ",
+        "actorId": " 00007380 "
+      },
+      {
+        "actorNm": " 정준식 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 권영각 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이규형 ",
+        "actorEnNm": " Lee Kyu-hyung ",
+        "actorId": " 00203920 "
+      },
+      {
+        "actorNm": " 박윤희 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 유승민 ",
+        "actorEnNm": " Yu Seung-min ",
+        "actorId": " 00042977 "
+      },
+      {
+        "actorNm": " 박상현 ",
+        "actorEnNm": " Park Sang HYUN ",
+        "actorId": " 00201460 "
+      },
+      {
+        "actorNm": " 오주환 ",
+        "actorEnNm": " O Ju-hwan ",
+        "actorId": " 00043747 "
+      },
+      {
+        "actorNm": " 박진우 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박용 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 전수환 ",
+        "actorEnNm": " Jun Soo-whan ",
+        "actorId": " 00000750 "
+      },
+      {
+        "actorNm": " 한만영 ",
+        "actorEnNm": " Han Manyoung ",
+        "actorId": " 00172982 "
+      },
+      {
+        "actorNm": " 조훈휘 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 안원진 ",
+        "actorEnNm": " An Wonjin ",
+        "actorId": " 00226176 "
+      },
+      {
+        "actorNm": " 김정식 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김호연 ",
+        "actorEnNm": " Kim Hoyeon ",
+        "actorId": " 00204684 "
+      },
+      {
+        "actorNm": " 신기원 ",
+        "actorEnNm": " Shin Gi Won ",
+        "actorId": " 00200306 "
+      },
+      {
+        "actorNm": " 김근영 ",
+        "actorEnNm": " Geun-Yeong Kim ",
+        "actorId": " 00179867 "
+      },
+      {
+        "actorNm": " 황보미 ",
+        "actorEnNm": " Hwang Bomi ",
+        "actorId": " 00204082 "
+      },
+      {
+        "actorNm": " 김남훈 ",
+        "actorEnNm": " Kim Namhun ",
+        "actorId": " 00204666 "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " (주)주피터필름,쇼박스㈜미디어플렉스 ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 사람의 얼굴에는 세상 삼라만상이 모두 다 들어있소이다!얼굴을 보면 그 사람의 모든 것을 꿰뚫어보는 천재 관상가 내경. 처남 '팽헌', 아들 '진형'과 산속에 칩거하고 있던 그는 관상 보는 기생 '연홍'의 제안으로 한양으로 향하고, 연홍의 기방에서 사람들의 관상을 봐주는 일을 하게 된다. 용한 관상쟁이로 한양 바닥에 소문이 돌던 무렵, '내경'은 '김종서'로부터 사헌부를 도와 인재를 등용하라는 명을 받아 궁으로 들어가게 되고, '수양대군'이 역모를 꾀하고 있음을 알게 된 그는 위태로운 조선의 운명을 바꾸려 한다. "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Nae-kyeong is the greatest face reader Joseon has ever known. He can see through people by looking at their faces. He lives with his son Jin-hyeong and his brother-in-law Paeng-heon in the mountains. After alluring courtesan Yeon-hong proposes an offer, he moves to Hanyang to read faces in the courtesan house. Nae-kyeong quickly becomes the “go-to face reader” in town and even Vice Premier KIM Jong-seo hears about the new face reader. He appoints Nae-kyeong to government’s Inspection Board. During his inspection, Nae-kyeong finds out about Prince Su-yang’s plan to take the throne of his nephew. He decides to change the destiny of the country by changing what’s written on Su-yang’s face.[KOFIC] "
+      }
+    ]
+  },
+  "runtime": " 142 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,시대극/사극 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/03/tn_DPK006092.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK030952_P02.mp4"
+},
+{
+  "title": "  다크 나이트 라이즈 ",
+  "titleEng": " The Dark Knight Rises ",
+  "prodYear": " 2012 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 크리스찬 베일 ",
+        "actorEnNm": " Christian Bale ",
+        "actorId": " 00048863 "
+      },
+      {
+        "actorNm": " 조셉 고든-레빗 ",
+        "actorEnNm": " Joseph Gordon-Levitt ",
+        "actorId": " 00091639 "
+      },
+      {
+        "actorNm": " 게리 올드만 ",
+        "actorEnNm": " Gary Oldman ",
+        "actorId": " 00049303 "
+      },
+      {
+        "actorNm": " 앤 해서웨이 ",
+        "actorEnNm": " Anne Hathaway ",
+        "actorId": " 00055673 "
+      },
+      {
+        "actorNm": " 톰 하디 ",
+        "actorEnNm": " Tom Hardy ",
+        "actorId": " 00120538 "
+      },
+      {
+        "actorNm": " 주노 템플 ",
+        "actorEnNm": " Juno Temple ",
+        "actorId": " 00092587 "
+      },
+      {
+        "actorNm": " 마리온 꼬띨라르 ",
+        "actorEnNm": " Marion Cotillard ",
+        "actorId": " 00099762 "
+      },
+      {
+        "actorNm": " 모건 프리먼 ",
+        "actorEnNm": " Morgan Freeman ",
+        "actorId": " 00048816 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 리암 니슨 ",
+        "actorEnNm": " Liam Neeson ",
+        "actorId": " 00049738 "
+      }
+    ],
+  "nation": " 미국,영국 ",
+  "company": " Warner Bros. Pictures,DC Entertainment ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 배트맨’ vs. ‘베인’, 운명을 건 최후의 전투  다크 나이트 신화의 전설이 끝난다    배트맨이 조커와의 대결을 끝으로 세상에서 모습을 감춘 8년 후,  평화가 지속되던 고담시의 파멸을 예고하며 최강의 적 베인이 등장한다.  자신을 거부한 사람들의 고통을 지켜볼 것인가, 정의의 수호자로 나설 것인가.  배트맨은 승패를 알 수 없는 마지막 전투를 시작하려 하는데… "
+    }
+  },
+  "runtime": " 164 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,범죄,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/68/tn_DPF002861.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK025639_P03.mp4"
+},
+{
+  "title": "  다크 나이트 ",
+  "titleEng": " The Dark Knight ",
+  "prodYear": " 2008 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 크리스찬 베일 ",
+        "actorEnNm": " Christian Bale ",
+        "actorId": " 00048863 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 히스 레저 ",
+        "actorEnNm": " Heath Ledger ",
+        "actorId": " 00076135 "
+      },
+      {
+        "actorNm": " 아론 에크하르트 ",
+        "actorEnNm": " Aaron Eckhart ",
+        "actorId": " 00052114 "
+      },
+      {
+        "actorNm": " 매기 길렌할 ",
+        "actorEnNm": " Maggie Gyllenhaal ",
+        "actorId": " 00098424 "
+      },
+      {
+        "actorNm": " 게리 올드만 ",
+        "actorEnNm": " Gary Oldman ",
+        "actorId": " 00049303 "
+      },
+      {
+        "actorNm": " 모건 프리먼 ",
+        "actorEnNm": " Morgan Freeman ",
+        "actorId": " 00048816 "
+      },
+      {
+        "actorNm": " 에릭 로버츠 ",
+        "actorEnNm": " Eric Roberts ",
+        "actorId": " 00049360 "
+      },
+      {
+        "actorNm": " 킬리언 머피 ",
+        "actorEnNm": " Cillian Murphy ",
+        "actorId": " 00063023 "
+      },
+      {
+        "actorNm": " 안소니 마이클 홀 ",
+        "actorEnNm": " Anthony Michael Hall ",
+        "actorId": " 00048550 "
+      },
+      {
+        "actorNm": " 모니크 커넨 ",
+        "actorEnNm": " Monique Curnen ",
+        "actorId": " 00104356 "
+      },
+      {
+        "actorNm": " 네스터 카보넬 ",
+        "actorEnNm": " Nestor Carbonell ",
+        "actorId": " 00105332 "
+      },
+      {
+        "actorNm": " 조슈아 하토 ",
+        "actorEnNm": " Joshua Harto ",
+        "actorId": " 00091858 "
+      },
+      {
+        "actorNm": " 마이클 제이 화이트 ",
+        "actorEnNm": " Michael Jai White ",
+        "actorId": " 00102544 "
+      },
+      {
+        "actorNm": " 콜린 맥펄레인 ",
+        "actorEnNm": " Colin McFarlane ",
+        "actorId": " 00063645 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Warner Bros. Pictures,Legendary Pictures,DC Comics ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 범죄와 부정부패를 제거하여 고담시를 지키려는 배트맨(크리스찬 베일). 그는 짐 고든 형사(게리 올드만)와 패기 넘치는 고담시 지방 검사 하비 덴트(아론 에크하트)와 함께 도시를 범죄 조직으로부터 영원히 구원하고자 한다. 세 명의 의기투합으로 위기에 처한 악당들이 모인 자리에 보라색 양복을 입고 얼굴에 짙게 화장을 한 괴이한 존재가 나타나 '배트맨을 죽이자'는 사상 초유의 제안을 한다. 그는 바로 어떠한 룰도, 목적도 없는 사상 최악의 악당 미치광이 살인광대 '조커'(히스 레저). 배트맨을 죽이고 고담시를 끝장내버리기 위한 조커의 광기 어린 행각에 도시는 혼란에 빠진다. 조커는 배트맨이 가면을 벗고 정체를 밝히지 않으면 멈추지 않겠다며 점점 배트맨을 조여온다. 한편, 배트맨은 낮엔 기업의 회장으로, 밤에는 가면을 쓴 배트맨으로 밤과 낮의 정체가 다른 자신과 달리 법을 통해 도시를 구원하는 하비 덴트야말로 진정한 영웅이 아닐까 생각하게 된다. 조커를 막기 위해 직접 나서 영원히 존재를 감춘 밤의 기사가 될 것인가.하비 덴트에게 모든 걸 맡기고 이제 가면을 벗고 이중 생활의 막을 내릴 것인가.갈림길에 선 그는 행동에 나서야만 하는데… "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Bruce Wayne/Batman (Christian Bale) continues to eliminate crime in Gotham City with the help of Lt. Jim Gordon (Gary Oldman) and District Attorney Harvey Dent (Aaron Eckhart). The Dark Knight wants to finally get rid of organized crime for good and be free of their corruption. Batman soon finds that a new psychopathic mastermind known as the Joker (Heath Ledger) has taken over organized crime. After the fall of Carmine Falcone, the remaining crime bosses try to pick up the pieces. However, the Joker is killing them off one by one. The Joker's plan is to terrify the citizens and throw the city into chaos, and then kill Batman. Batman takes the fight with the Joker personal, which makes him confront his own beliefs. The Joker is the most dangerous criminal that Batman has encountered, and he will need all his strength and vigilance to defeat him. "
+      }
+    ]
+  },
+  "runtime": " 152 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,드라마,범죄,미스터리 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/08/tn_DPF000611.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK004460_P02.mp4"
+},
+{
+  "title": "  더 킹 ",
+  "titleEng": " The King ",
+  "prodYear": " 2016 ",
+    "directorNm": " 한재림 ",
+    "directorEnNm": " Han Jae-rim ",
+  "actor": [
+    {
+    "actorNm": " 조인성 ",
+    "actorEnNm": " Zo In-sung ",
+    "actorId": " 00011001 "
+    },
+    {
+    "actorNm": " 정우성 ",
+    "actorEnNm": " Jung Woo-sung ",
+    "actorId": " 00004226 "
+    },
+    {
+    "actorNm": " 배성우 ",
+    "actorEnNm": " Bae Seong-u ",
+    "actorId": " 00011969 "
+    },
+    {
+    "actorNm": " 김아중 ",
+    "actorEnNm": " Kim A-jung ",
+    "actorId": " 00024479 "
+    },
+    {
+    "actorNm": " 류준열 ",
+    "actorEnNm": " Ryu Jun-yeol ",
+    "actorId": " 00187385 "
+    },
+    {
+    "actorNm": " 김의성 ",
+    "actorEnNm": " Kim Eui-sung ",
+    "actorId": " 00000585 "
+    },
+    {
+    "actorNm": " 김민재 ",
+    "actorEnNm": " Kim Min-jae ",
+    "actorId": " 00018982 "
+    },
+    {
+    "actorNm": " 정성모 ",
+    "actorEnNm": " Jung Sung-mo ",
+    "actorId": " 00004223 "
+    },
+    {
+    "actorNm": " 정은채 ",
+    "actorEnNm": " Jung Eun-chae ",
+    "actorId": " 00155144 "
+    },
+    {
+    "actorNm": " 김소진 ",
+    "actorEnNm": " Kim So-jin ",
+    "actorId": " 00156490 "
+    },
+    {
+    "actorNm": " 황승언 ",
+    "actorEnNm": " Hwang Seung-eon ",
+    "actorId": " 00050407 "
+    },
+    {
+    "actorNm": " 오대환 ",
+    "actorEnNm": " Oh Dae-hwan ",
+    "actorId": " 00038817 "
+    },
+    {
+    "actorNm": " 정인기 ",
+    "actorEnNm": " Jeong In-gi ",
+    "actorId": " 00014132 "
+    },
+    {
+    "actorNm": " 송영창 ",
+    "actorEnNm": " Song Young-chang ",
+    "actorId": " 00000333 "
+    },
+    {
+    "actorNm": " 고아성 ",
+    "actorEnNm": " Ko A-sung ",
+    "actorId": " 00042181 "
+    },
+    {
+    "actorNm": " 박정민 ",
+    "actorEnNm": " Park Jeong-min ",
+    "actorId": " 00045706 "
+    },
+    {
+    "actorNm": " 조우진 ",
+    "actorEnNm": " Jo Woo-jin ",
+    "actorId": " 00081361 "
+    },
+    {
+    "actorNm": " 정원중 ",
+    "actorEnNm": " Chung Won-joong ",
+    "actorId": " 00000197 "
+    },
+    {
+    "actorNm": " 류태호 ",
+    "actorEnNm": " Ryu Tae-ho ",
+    "actorId": " 00012661 "
+    },
+    {
+    "actorNm": " 한수연 ",
+    "actorEnNm": " Han Soo-yeon ",
+    "actorId": " 00043643 "
+    },
+    {
+    "actorNm": " 이주연 ",
+    "actorEnNm": " Juyeon Lee ",
+    "actorId": " 00206788 "
+    },
+    {
+    "actorNm": " 성동일 ",
+    "actorEnNm": " Sung Dong-ill ",
+    "actorId": " 00009124 "
+    },
+    {
+    "actorNm": " 이열음 ",
+    "actorEnNm": " Lee Yeoleum ",
+    "actorId": " 00220316 "
+    },
+    {
+    "actorNm": " 김규선 ",
+    "actorEnNm": " Kim Gyuseon ",
+    "actorId": " 00203964 "
+    },
+    {
+    "actorNm": " 장명갑 ",
+    "actorEnNm": " Jang Myung-Kap ",
+    "actorId": " 00044423 "
+    },
+    {
+    "actorNm": " 송형수 ",
+    "actorEnNm": " Song Hyung Soo ",
+    "actorId": " 00202917 "
+    },
+    {
+    "actorNm": " 남문철 ",
+    "actorEnNm": " Nam Mun-cheol ",
+    "actorId": " 00018550 "
+    },
+    {
+    "actorNm": " 남명렬 ",
+    "actorEnNm": " Nam Myeong-ryeol ",
+    "actorId": " 00026770 "
+    },
+    {
+    "actorNm": " 최귀화 ",
+    "actorEnNm": " Choe Gwi-hwa ",
+    "actorId": " 00164537 "
+    },
+    {
+    "actorNm": " 공상아 ",
+    "actorEnNm": " Gong Sang-a ",
+    "actorId": " 00024902 "
+    },
+    {
+    "actorNm": " 조완기 ",
+    "actorEnNm": " Jo Wan-gi ",
+    "actorId": " 00167975 "
+    },
+    {
+    "actorNm": " 박국선 ",
+    "actorEnNm": " Seo Haewon ",
+    "actorId": " 00148879 "
+    },
+    {
+    "actorNm": " 금새록 ",
+    "actorEnNm": " Geum Saerok ",
+    "actorId": " 00199616 "
+    },
+    {
+    "actorNm": " 허인구 ",
+    "actorEnNm": " Heo Ingu ",
+    "actorId": " 00198160 "
+    },
+    {
+    "actorNm": " 이병철 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 남택민 ",
+    "actorEnNm": " Nam Taekmin ",
+    "actorId": " 00206404 "
+    },
+    {
+    "actorNm": " 이윤희 ",
+    "actorEnNm": " Lee Yoon-hui ",
+    "actorId": " 00191390 "
+    },
+    {
+    "actorNm": " 박팔영 ",
+    "actorEnNm": " Park Pal-yeong ",
+    "actorId": " 00025624 "
+    },
+    {
+    "actorNm": " 육미라 ",
+    "actorEnNm": " Yuk Mi-ra ",
+    "actorId": " 00042667 "
+    },
+    {
+    "actorNm": " 소희정 ",
+    "actorEnNm": " So Huijeong ",
+    "actorId": " 00157029 "
+    },
+    {
+    "actorNm": " 신류진 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김영직 ",
+    "actorEnNm": " Kim Yeongjik ",
+    "actorId": " 00181673 "
+    },
+    {
+    "actorNm": " 조대희 ",
+    "actorEnNm": " Jo Daehui ",
+    "actorId": " 00195516 "
+    },
+    {
+    "actorNm": " 박지홍 ",
+    "actorEnNm": " Park Ji hong ",
+    "actorId": " 00179639 "
+    },
+    {
+    "actorNm": " 정우영 ",
+    "actorEnNm": " Jeong Woo-young ",
+    "actorId": " 00206903 "
+    },
+    {
+    "actorNm": " 유현종 ",
+    "actorEnNm": " Yoo Hyunjong ",
+    "actorId": " 00206789 "
+    },
+    {
+    "actorNm": " 박건태 ",
+    "actorEnNm": " Park Geontae ",
+    "actorId": " 00217738 "
+    },
+    {
+    "actorNm": " 황준호 ",
+    "actorEnNm": " Hwang Jun-ho ",
+    "actorId": " 00210917 "
+    },
+    {
+    "actorNm": " 차엽 ",
+    "actorEnNm": " Cha yeop ",
+    "actorId": " 00043515 "
+    },
+    {
+    "actorNm": " 장여빈 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 김민하 ",
+    "actorEnNm": " Kim Min-Ha ",
+    "actorId": " 00149414 "
+    },
+    {
+    "actorNm": " 이창선 ",
+    "actorEnNm": " Lee Chang-seon ",
+    "actorId": " 00210911 "
+    },
+    {
+    "actorNm": " 곽순우 ",
+    "actorEnNm": " Kwak Soonwoo ",
+    "actorId": " 00199472 "
+    },
+    {
+    "actorNm": " 박진영 ",
+    "actorEnNm": " Park Jin-yeong ",
+    "actorId": " 00038509 "
+    },
+    {
+    "actorNm": " 손영진 ",
+    "actorEnNm": " Son Young Jin ",
+    "actorId": " 00200764 "
+    },
+    {
+    "actorNm": " 임용순 ",
+    "actorEnNm": " Yim Yongsoon ",
+    "actorId": " 00199538 "
+    },
+    {
+    "actorNm": " 최영도 ",
+    "actorEnNm": " Choe Yeong-do ",
+    "actorId": " 00036689 "
+    },
+    {
+    "actorNm": " 전진기 ",
+    "actorEnNm": " Jeon Jin-gi ",
+    "actorId": " 00017980 "
+    },
+    {
+    "actorNm": " 박채익 ",
+    "actorEnNm": " Park Chaeik ",
+    "actorId": " 00083767 "
+    },
+    {
+    "actorNm": " 권혁 ",
+    "actorEnNm": " Gwon Hyeok ",
+    "actorId": " 00015802 "
+    },
+    {
+    "actorNm": " 조석현 ",
+    "actorEnNm": " Jo Seok-hyeon ",
+    "actorId": " 00011663 "
+    },
+    {
+    "actorNm": " 고소현 ",
+    "actorEnNm": "  ",
+    "actorId": "  "
+    },
+    {
+    "actorNm": " 임은서 ",
+    "actorEnNm": " Im Eunseo ",
+    "actorId": " 00215481 "
+    },
+    {
+    "actorNm": " 박성근 ",
+    "actorEnNm": " Park Seong-geun ",
+    "actorId": " 00187120 "
+    }
+  ],
+  "nation": " 대한민국 ",
+  "company": " (주)우주필름 ",
+  "plots": {
+  "plot": [
+    {
+    "plotLang": " 한국어 ",
+    "plotText": " 대한민국의 왕은 누구인가?무소불위 권력을 쥐고 폼 나게 살고 싶었던 태수는 우여곡절 끝에 권력의 설계자 한강식을 만나 핵심 라인을 타고 승승장구 하게 된다정권이 교체되는 중요한 시기, 새로운 판을 짜며 기회를 노리던 이들 앞에 예상치 못한 위기가 닥치는데…2017년, 대한민국이 속 시원하게 뒤집힌다! "
+    },
+    {
+    "plotLang": " 영어 ",
+    "plotText": " Born in a poor family, Tae-su (ZO In-sung) learns that power is the most important thing in life and decides to become a prosecutor, the biggest symbol of power in the 1990s. After entering the most prestigious law school and experiencing democratic resistance in Korea, Tae-su finally reaches his goal of becoming a prosecutor but his life is no better than that of a salary man. By chance, he joins a clique of powerful prosecutors with wealth and authority. He finally gets a taste of life at the top of the hierarchy, but as he enjoys the sweetness of supremacy, he also sees the cruel side of it. "
+    }
+  ]
+  },
+  "runtime": " 157 ",
+  "rating": " 15세관람가 ",
+  "genre": " 범죄,드라마 ",
+    "poster":"http://file.koreafilm.or.kr/thm/02/00/04/66/tn_DPK013430.jpg",
+    "trailer":" "
+},
+{
+  "title": "  덩케르크 ",
+  "titleEng": " Dunkirk ",
+  "prodYear": " 2017 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 핀 화이트헤드 ",
+        "actorEnNm": " Fionn Whitehead ",
+        "actorId": " 00206052 "
+      },
+      {
+        "actorNm": " 마크 라이런스 ",
+        "actorEnNm": " Mark Rylance ",
+        "actorId": " 00100201 "
+      },
+      {
+        "actorNm": " 톰 하디 ",
+        "actorEnNm": " Tom Hardy ",
+        "actorId": " 00120538 "
+      },
+      {
+        "actorNm": " 해리 스타일스 ",
+        "actorEnNm": " Harry Styles ",
+        "actorId": " 00206057 "
+      },
+      {
+        "actorNm": " 아뉴린 바나드 ",
+        "actorEnNm": " Aneurin Barnard ",
+        "actorId": " 00199887 "
+      },
+      {
+        "actorNm": " 톰 글린 카니 ",
+        "actorEnNm": " Tom Glynn Carney ",
+        "actorId": " 00206055 "
+      },
+      {
+        "actorNm": " 잭 로던 ",
+        "actorEnNm": " Jack Lowden ",
+        "actorId": " 00206056 "
+      },
+      {
+        "actorNm": " 베리 케오간 ",
+        "actorEnNm": " Barry Keoghan ",
+        "actorId": " 00203631 "
+      },
+      {
+        "actorNm": " 케네스 브래너 ",
+        "actorEnNm": " Kenneth Branagh ",
+        "actorId": " 00048582 "
+      },
+      {
+        "actorNm": " 킬리언 머피 ",
+        "actorEnNm": " Cillian Murphy ",
+        "actorId": " 00063023 "
+      },
+      {
+        "actorNm": " 제임스 다시 ",
+        "actorEnNm": " James D'Arcy ",
+        "actorId": " 00085931 "
+      },
+      {
+        "actorNm": " 다미엔 보나드 ",
+        "actorEnNm": " Damien Bonnard ",
+        "actorId": " 00206053 "
+      },
+      {
+        "actorNm": " 리 암스트롱 ",
+        "actorEnNm": " Lee Armstrong ",
+        "actorId": " 00206054 "
+      }
+    ],
+  "nation": " 네덜란드,영국,프랑스,미국 ",
+  "company": " Warner Bros.,Dombey Street Productions,Kaap Hollan ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " \"우린 끝까지 싸울 것이다\"살아남는 것이 승리다!해변: 보이지 않는 적에게 포위된 채 어디서 총알이 날아올지 모르는 위기의 일주일 바다: 군인들의 탈출을 돕기 위해 배를 몰고 덩케르크로 항해하는 하루 하늘: 적의 전투기를 공격해 추락시키는 임무, 남은 연료로 비행이 가능한 한 시간 “우리는 해변에서 싸울 것이다. 우리는 상륙지에서 싸울 것이다. 우리는 들판에서 싸우고 시가에서도 싸울 것이다. 우리는 끝까지 싸울 것이다” "
+    }
+  },
+  "runtime": " 107 ",
+  "rating": " 12세관람가 ",
+  "genre": " 드라마,전쟁,역사 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/99/17/58/tn_DPF024799.jpg",
+  "trailer":" "
+},
+{
+  "title": "  링컨 ",
+  "titleEng": " Lincoln ",
+  "prodYear": " 2012 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 다니엘 데이 루이스 ",
+        "actorEnNm": " Daniel Day-Lewis ",
+        "actorId": " 00048869 "
+      },
+      {
+        "actorNm": " 조셉 고든-레빗 ",
+        "actorEnNm": " Joseph Gordon-Levitt ",
+        "actorId": " 00091639 "
+      },
+      {
+        "actorNm": " 토미 리 존스 ",
+        "actorEnNm": " Tommy Lee Jones ",
+        "actorId": " 00048960 "
+      },
+      {
+        "actorNm": " 제임스 스페이더 ",
+        "actorEnNm": " James Spader ",
+        "actorId": " 00048529 "
+      },
+      {
+        "actorNm": " 리 페이스 ",
+        "actorEnNm": " Lee Pace ",
+        "actorId": " 00096105 "
+      },
+      {
+        "actorNm": " 샐리 필드 ",
+        "actorEnNm": " Sally field ",
+        "actorId": " 00131945 "
+      },
+      {
+        "actorNm": " 재키 얼 헤일리 ",
+        "actorEnNm": " Jackie Earle Haley ",
+        "actorId": " 00085472 "
+      },
+      {
+        "actorNm": " 자레드 해리스 ",
+        "actorEnNm": " Jared Harris ",
+        "actorId": " 00086744 "
+      },
+      {
+        "actorNm": " 존 호키스 ",
+        "actorEnNm": " John Hawkes ",
+        "actorId": " 00090166 "
+      },
+      {
+        "actorNm": " 조셉 크로스 ",
+        "actorEnNm": " Joseph Cross ",
+        "actorId": " 00091613 "
+      },
+      {
+        "actorNm": " 월트 고긴스 ",
+        "actorEnNm": " Walt Goggins ",
+        "actorId": " 00122925 "
+      },
+      {
+        "actorNm": " 할 홀브룩 ",
+        "actorEnNm": " Hal Holbrook ",
+        "actorId": " 00075460 "
+      },
+      {
+        "actorNm": " 팀 블레이크 넬슨 ",
+        "actorEnNm": " Tim Blake Nelson ",
+        "actorId": " 00119969 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": "  ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 국민을 위한 전쟁의 종결이냐, 인류를 위한 자유의 선택인가! 세계를 바꾼 그의 위대한 선택!미연방 역사상 가장 아픈 상처로 기억될 남북전쟁. 그 사이에 노예제도가 있었다. 모든 인간은 자유로워야 한다고 믿는 링컨은 전쟁이 끝나는 순간 노예제 폐지 역시 물거품이 될 것이라 확신하고 전쟁 종결 이전에 헌법 13조 수정안을 통과시키려 한다. 하지만 수정안 통과까지 20표만을 남겨놓은 상황에서 남부군으로부터 평화제의가 들어온다. 전장에서 흘리게 될 수많은 젊은 장병들의 목숨, 그리고 앞으로 태어날 모든 인류의 자유. 그 무엇도 포기할 수 없는 링컨에게 위대한 결단의 순간만이 남아 있는데… "
+    }
+  },
+  "runtime": " 150 ",
+  "rating": " 12세관람가 ",
+  "genre": " 드라마,전쟁 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/94/tn_DPF003321.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK029792_P03.mp4"
+},
+{
+  "title": "  메멘토 ",
+  "titleEng": " Memento ",
+  "prodYear": " 2000 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 가이 피어스 ",
+        "actorEnNm": " Guy Pearce ",
+        "actorId": " 00049687 "
+      },
+      {
+        "actorNm": " 캐리 앤 모스 ",
+        "actorEnNm": " Carrie-Anne Moss ",
+        "actorId": " 00060971 "
+      },
+      {
+        "actorNm": " 조 판돌리아노 ",
+        "actorEnNm": " Joe Pantoliano ",
+        "actorId": " 00089436 "
+      },
+      {
+        "actorNm": " 마크 분 주니어 ",
+        "actorEnNm": " Mark Boone Junior ",
+        "actorId": " 00099910 "
+      },
+      {
+        "actorNm": " 러스 페가 ",
+        "actorEnNm": " Russ Fega ",
+        "actorId": " 00114072 "
+      },
+      {
+        "actorNm": " 조자 폭스 ",
+        "actorEnNm": " Jorja Fox ",
+        "actorId": " 00091393 "
+      },
+      {
+        "actorNm": " 스티븐 토보로스키 ",
+        "actorEnNm": " Stephen Tobolowsky ",
+        "actorId": " 00117620 "
+      },
+      {
+        "actorNm": " 해리엇 샌섬 해리스 ",
+        "actorEnNm": " Harriet Sansom Harris ",
+        "actorId": " 00075837 "
+      },
+      {
+        "actorNm": " 토마스 레논 ",
+        "actorEnNm": " THOMAS LENNON ",
+        "actorId": " 00133338 "
+      },
+      {
+        "actorNm": " 칼럼 키스 레니 ",
+        "actorEnNm": " Callum Keith Rennie ",
+        "actorId": " 00060279 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Newmarket Capital Group LLC, Team Todd ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 시간을 거스르고, 시작과 끝이 만나는 뫼비우스의 띠를 따라가라! 전직이 보험 수사관이었던 레너드에게 기억이란 없다. 자신의 아내가 강간 당하고 살해되던 날의 충격으로 기억을 10분 이상 지속시키지 못하는 단기 기억상실증 환자가 되었던 것이다. 그가 마지막으로 기억하고 있는 것은 자신의 이름이 레너드 셸비 라는 것과 아내가 강간당하고 살해당했다는 것... 그리고 범인은 존 G 라는 것이 전부이다. 중요한 단서까지도 쉽게 잊고 마는 레너드는 자신의 가정을 파탄 낸 범인을 찾기 위한 방법으로 메모와 문신을 사용하게 된다. 즉, 묵고 있는 호텔, 갔던 장소, 만나는 사람과 그에 대한 정보를 폴라로이드 사진으로 남기고, 항상 메모를 해두며, 심지어 자신의 몸에 문신을 하며 기억을 더듬는 것이다. 하지만 시간이 지남에 따라 자신의 기억마저 변조되고 있음을 스스로도 알지 못한다. 그의 곁에는 나탈리라는 웨이트리스와 테디라는 직업을 알 수 없는 남자가 주위를 맴돌고 있다. 그들은 레너드를 잘 알고 있는 듯 하지만 레너드에게 그들은 언제나 새로운 인물이다. 그도 그럴 것이 레너드는 그들을 만났다는 것을 늘 잊고 만다. 마약 조직의 오해를 받으면서까지 정보를 제공하는 나탈리는 테디가 범인임을 암시하는 단서를 보여주고, 테디는 절대로 나탈리의 말을 믿어서는 안 된다고 조언한다. 과연, 누구의 말이 진실인가? "
+    }
+  },
+  "runtime": " 115 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,범죄,미스터리,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/94/tn_DPF008287.JPG",
+  "trailer":" "
+},
+{
+  "title": "  뮌헨 ",
+  "titleEng":" Munich ",
+  "prodYear": " 2005 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 에릭 바나 ",
+        "actorEnNm": " Eric Bana ",
+        "actorId": " 00070054 "
+      },
+      {
+        "actorNm": " 다니엘 크레이그 ",
+        "actorEnNm": " Daniel Craig ",
+        "actorId": " 00064695 "
+      },
+      {
+        "actorNm": " 시아란 하인즈 ",
+        "actorEnNm": " Ciaran Hinds ",
+        "actorId": " 00063015 "
+      },
+      {
+        "actorNm": " 마띠유 카소비츠 ",
+        "actorEnNm": " Mathieu Kassovitz ",
+        "actorId": " 00049396 "
+      },
+      {
+        "actorNm": " 한스 지쉴러 ",
+        "actorEnNm": " Hanns Zischler ",
+        "actorId": " 00075591 "
+      },
+      {
+        "actorNm": " 아예렛 조러 ",
+        "actorEnNm": " Ayelet Zorer ",
+        "actorId": " 00057062 "
+      },
+      {
+        "actorNm": " 제프리 러쉬 ",
+        "actorEnNm": " Geoffrey Rush ",
+        "actorId": " 00073268 "
+      },
+      {
+        "actorNm": " 길라 알마고 ",
+        "actorEnNm": " Gila Almagor ",
+        "actorId": " 00074116 "
+      },
+      {
+        "actorNm": " 미카엘 롱스달 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 마티유 아말릭 ",
+        "actorEnNm": " Mathieu Amalric ",
+        "actorId": " 00101130 "
+      },
+      {
+        "actorNm": " 모리츠 블라입트르 ",
+        "actorEnNm": " Moritz Bleibtreu ",
+        "actorId": " 00104448 "
+      },
+      {
+        "actorNm": " 발레리아 브루니 떼데시 ",
+        "actorEnNm": " Valeria Bruni Tedeschi ",
+        "actorId": " 00121894 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Universal Pictures,DreamWorks SKG,Amblin Entertain ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 전 세계의 이목이 집중된 1972년 뮌헨올림픽. 모두가 스포츠의 환희와 감동에 열광하는 가운데 끔찍한 인질 사건이 발생한다. 이 사건은 전 세계에 TV로 생중계가 되고, 팔레스타인 무장 조직 '검은 9월단'은 인질로 잡았던 이스라엘 선수단 11명을 살해한다. 전 세계는 엄청난 충격과 혼란에 휩싸이고, 팔레스타인은 이제 세계가 그들의 목소리로 귀기울이게 되었다고 자축한다. 하지만, 팔레스타인에 대한 보복을 결심한 이스라엘은 '검은 9월단'이 했던 것처럼 세계인의 이목을 끌 수 있는 비밀 공작을 준비하게 되고.... 이스라엘 정보기관 '모사드'는 최정예 요원들을 소집, 기록조차 없는 비밀 조직을 만들고 '검은 9월단'에 대한 복수를 명령한다. 조국애가 깊은 '모사드' 출신 비밀 요원 '애브너(에릭 바나)'를 리더로 도주, 폭발물, 문서위조, 뒷처리를 담당하는 전문가들로 암살팀을 구성한다. 뮌헨 사건의 배후 인물로 지목된 팔레스타인인은 모두 11명. 이스라엘 비밀 요원들은 이들을 한 명씩 찾아내 치밀한 복수를 시작한다. 하지만 그들은 목표물을 제거할수록 조국의 임무와 복수의 정당성 사이에서 고민하기 시작하고, 살인에 대한 죄책감을 느낀다. 동시에 자신들 또한 누군지 모르는 암살팀의 표적으로 쫓기게 되는 아이러니한 상황에 빠져든다. 애브너와 비밀 요원들은 점점 더 큰 두려움과 죄책감에 사로잡혀가는데.... "
+    }
+  },
+  "runtime": " 163 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/63/tn_DPF006362.JPG",
+  "trailer":" "
+},
+{
+  "title": "  미지와의 조우 ",
+  "titleEng": " Close Encounters of the Third Kind ",
+  "prodYear": " 1977 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 리차드 드레이퓨스 ",
+        "actorEnNm": " Richard Dreyfuss ",
+        "actorId": " 00048796 "
+      },
+      {
+        "actorNm": " 프랑소아 트뤼포 ",
+        "actorEnNm": " Francois Truffaut ",
+        "actorId": " 00071838 "
+      },
+      {
+        "actorNm": " 테리 가 ",
+        "actorEnNm": " Teri Garr ",
+        "actorId": " 00119274 "
+      },
+      {
+        "actorNm": " 멜린다 딜런 ",
+        "actorEnNm": " Melinda Dillon ",
+        "actorId": " 00101889 "
+      },
+      {
+        "actorNm": " 밥 바라반 ",
+        "actorEnNm": " Bob Balaban ",
+        "actorId": " 00058773 "
+      },
+      {
+        "actorNm": " 랜스 핸릭슨 ",
+        "actorEnNm": " Lance Henriksen ",
+        "actorId": " 00095422 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Columbia Pictures Corporation, EMI Films Ltd. ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " UFO로 추정되는 존재들이 세계 곳곳에 남긴 흔적들이 발견되고 일단의 과학자들이 이를 추적하는 가운데, 인디아나 지역에 사는 로이는 정전을 조사하다 우연히 UFO를 목격하고, 아들 베리와 함께 사는 질리안도 같은 경험을 한다. 그날 이후 로리는 UFO에 관한 기사를 모으고, 섬광물체를 목격했던 곳에서 다시 그들이 나타나기를 기다리는가 하면 희미하게 머리 속에 떠오르는 형상을 찰흙으로 빚기도 한다. 회사에서 해고되고, 부인마저 아이들을 데리고 집을 떠나가 버리지만 그는 이를 멈추려하지 않는다. 한편 전세계의 과학자들은 라콤 박사의 지도하에 외계인과 통신할수 있는 음악 코드를 개발하고 그들과의 접촉을 시도한다. 그 위치는 와이오밍에 있는 '데블스 타워'였고, 정부는 극비로 하기 위해 고의로 열차 사고에 의한 독가스 유출을 이유로 그 지역 주민들을 모두 대피시킨다. 뉴스를 통해 사막 한 가운데에 있는 '데빌스 타워'를 발견한 로니는 지금껏 자신을 끌어당겼던 것이 바로 데빌스 타워였음을 깨닫고 아들을 섬광물체에 빼앗긴 질리안과 함께 군인들에 의해 봉쇄된 도로를 뚫고 데빌스 타워로 향한다. "
+    }
+  },
+  "runtime": " 126 ",
+  "rating": " 연소자관람가 ",
+  "genre": " 드라마,SF,어드벤처 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/61/tn_DPF002671.JPG",
+  "trailer":" "
+},
+{
+  "title": "  배트맨 비긴즈 ",
+  "titleEng": " Batman Begins ",
+  "prodYear": " 2005 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 크리스찬 베일 ",
+        "actorEnNm": " Christian Bale ",
+        "actorId": " 00048863 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 리암 니슨 ",
+        "actorEnNm": " Liam Neeson ",
+        "actorId": " 00049738 "
+      },
+      {
+        "actorNm": " 케이티 홈즈 ",
+        "actorEnNm": " Katie Holmes ",
+        "actorId": " 00050181 "
+      },
+      {
+        "actorNm": " 게리 올드만 ",
+        "actorEnNm": " Gary Oldman ",
+        "actorId": " 00049303 "
+      },
+      {
+        "actorNm": " 킬리언 머피 ",
+        "actorEnNm": " Cillian Murphy ",
+        "actorId": " 00063023 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Warner Bros. ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 브루스 웨인(크리스찬 베일)은 어린 시절, 부모님이 길거리에서 피살되는 것을 눈 앞에서 지켜본 후 죄의식과 분노로 늘 고통 받는다. 복수하고 싶은 욕망은 불타오르지만 명예를 지켜야 한다던 부모님의 가르침 사이에서 갈등하던 그는 악을 물리칠 방법을 터득하기 위해 고담시를 떠나 홀로 세상을 유랑한다.  적을 이기려면 적의 세계를 알아야 하는 법! 브루스는 범죄자들의 소굴에 섞여 생활하며 그들의 습성을 터득한다. 그러던 중, 듀커드(리암 니슨)라는 수수께끼의 인물을 만나 정신적, 육체적인 수련법을 배우게 되고 듀커드는 브루스에게 '어둠의 사도들'에 가입하라는 제안을 한다. 듀커드가 속해있는 '어둠의 사도들'은 동양계 무술의 달인 라스 알굴(켄 와타나베)이 이끄는 범죄 소탕 조직. 그러나 브루스는 '눈에는 눈, 이에는 이'라는 강경책으로 응징하는 이들의 방법이 자신과는 맞지 않음을 깨닫고 고담시로 돌아온다. 브루스가 떠나 있는 동안 고담시는 부패와 범죄로 파멸되어가고 있었다. 사회봉사라는 이념 하에 운영되었던 브루스 가문의 기업인 '웨인 엔터프라이즈'마저 전문 경영인 리차드 얼 이사(룻거 하우어)의 손에 좌우되고 있었다. 얼 이사는 브루스 소유의 주식을 모두 매각하고, 기업을 증시에 상장하는 일을 추진 중이었던 것이다. 한편, 브루스의 소꼽 친구이자 검사보인 레이첼 도스(케이티 홈즈)는 갱단의 횡포에 골머리를 앓고 있었다. 부패권력과 밀착된 갱두목 팔코니(톰 윌킨슨)가 고담시의 저명한 정신과 의사 크레인(킬리언 머피)의 도움으로 레이첼이 기소하는 사건마다 교묘히 빠져나갔던 것. 레이첼에게 기소되는 부하들을 크레인의 병원에 입원시켜 면죄되게 해주는 대신, 그 대가로 수수께끼의 약품을 고담시로 밀반입시키는 이들의 결탁 속에서 고담 시민들은 점차 생존을 위협 받는다. 브루스는 악이 점령한 고담시를 되살리기 위해 충성스런 집사 알프레드(마이클 케인)와 청렴한 경찰 짐 고든(게리 올드만), 그리고 웨인 기업의 응용과학 전문가 폭스(모건 프리만)의 도움을 받아 새로운 존재 '배트맨'으로 재탄생을 준비하는데... "
+    }
+  },
+  "runtime": " 139 ",
+  "rating": " 12세관람가 ",
+  "genre": " 액션,드라마,범죄 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/64/tn_DPF006445.JPG",
+  "trailer":" "
+},
+{
+  "title": "  변호인 ",
+  "titleEng": " The Attorney (Byunhoin) ",
+  "prodYear": " 2013 ",
+      "directorNm": " 양우석 ",
+      "directorEnNm": " Yang Woo-suk ",
+    "actor": [
+      {
+        "actorNm": " 송강호 ",
+        "actorEnNm": " Song Kang-ho ",
+        "actorId": " 00000776 "
+      },
+      {
+        "actorNm": " 김영애 ",
+        "actorEnNm": " Kim Young-ae ",
+        "actorId": " 00000288 "
+      },
+      {
+        "actorNm": " 오달수 ",
+        "actorEnNm": " Oh Dal-soo ",
+        "actorId": " 00010180 "
+      },
+      {
+        "actorNm": " 곽도원 ",
+        "actorEnNm": " Gwak Do-won ",
+        "actorId": " 00161510 "
+      },
+      {
+        "actorNm": " 임시완 ",
+        "actorEnNm": " Im Si-wan ",
+        "actorId": " 00171957 "
+      },
+      {
+        "actorNm": " 송영창 ",
+        "actorEnNm": " Song Young-chang ",
+        "actorId": " 00000333 "
+      },
+      {
+        "actorNm": " 정원중 ",
+        "actorEnNm": " Chung Won-joong ",
+        "actorId": " 00000197 "
+      },
+      {
+        "actorNm": " 조민기 ",
+        "actorEnNm": " Cho Min-ki ",
+        "actorId": " 00001038 "
+      },
+      {
+        "actorNm": " 이항나 ",
+        "actorEnNm": " Lee Hang-na ",
+        "actorId": " 00016050 "
+      },
+      {
+        "actorNm": " 이성민 ",
+        "actorEnNm": " Lee Seong-min ",
+        "actorId": " 00018756 "
+      },
+      {
+        "actorNm": " 차광수 ",
+        "actorEnNm": " Cha Kwang-su ",
+        "actorId": " 00000690 "
+      },
+      {
+        "actorNm": " 한기중 ",
+        "actorEnNm": " Han Gi-jung ",
+        "actorId": " 00018239 "
+      },
+      {
+        "actorNm": " 심희섭 ",
+        "actorEnNm": " Shim Hee-seop ",
+        "actorId": " 00165909 "
+      },
+      {
+        "actorNm": " 김동현 ",
+        "actorEnNm": " Kim Dong-hyeon ",
+        "actorId": " 00149854 "
+      },
+      {
+        "actorNm": " 조완기 ",
+        "actorEnNm": " Jo Wan-gi ",
+        "actorId": " 00167975 "
+      },
+      {
+        "actorNm": " 차은재 ",
+        "actorEnNm": " Cha Eun-jae ",
+        "actorId": " 00179354 "
+      },
+      {
+        "actorNm": " 최주희 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 주명철 ",
+        "actorEnNm": " Ju Myeong-cheol ",
+        "actorId": " 00013968 "
+      },
+      {
+        "actorNm": " 조선묵 ",
+        "actorEnNm": " Cho Seon-mook ",
+        "actorId": " 00000935 "
+      },
+      {
+        "actorNm": " 유하복 ",
+        "actorEnNm": " Yu Ha-bok ",
+        "actorId": " 00018495 "
+      },
+      {
+        "actorNm": " 김봉환 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 지건우 ",
+        "actorEnNm": " Ji Geon-u ",
+        "actorId": " 00166670 "
+      },
+      {
+        "actorNm": " 최은석 ",
+        "actorEnNm": " Choe Eun-seok ",
+        "actorId": " 00008784 "
+      },
+      {
+        "actorNm": " 최현 ",
+        "actorEnNm": " Choe Hyeon ",
+        "actorId": " 00021174 "
+      },
+      {
+        "actorNm": " 최정현 ",
+        "actorEnNm": " Choi Jeong-hyun ",
+        "actorId": " 00177490 "
+      },
+      {
+        "actorNm": " 박상현 ",
+        "actorEnNm": " Park Sang HYUN ",
+        "actorId": " 00201460 "
+      },
+      {
+        "actorNm": " 신안진 ",
+        "actorEnNm": " Sin An-jin ",
+        "actorId": " 00161388 "
+      },
+      {
+        "actorNm": " 조기왕 ",
+        "actorEnNm": " Jo Gi-wang ",
+        "actorId": " 00163625 "
+      },
+      {
+        "actorNm": " 조유신 ",
+        "actorEnNm": " Jo Yusin ",
+        "actorId": " 00165148 "
+      },
+      {
+        "actorNm": " 이선희 ",
+        "actorEnNm": " Lee Seonhui ",
+        "actorId": " 00050566 "
+      },
+      {
+        "actorNm": " 장리우 ",
+        "actorEnNm": " Jang Riwoo ",
+        "actorId": " 00145848 "
+      },
+      {
+        "actorNm": " 정준원 ",
+        "actorEnNm": " Jeong Jun-won ",
+        "actorId": " 00195348 "
+      },
+      {
+        "actorNm": " 이현정 ",
+        "actorEnNm": " Lee hyun jung ",
+        "actorId": " 00205790 "
+      },
+      {
+        "actorNm": " 이정은 ",
+        "actorEnNm": " Lee Jeong-eun ",
+        "actorId": " 00181351 "
+      },
+      {
+        "actorNm": " 이진희 ",
+        "actorEnNm": " Lee Jin-hee ",
+        "actorId": " 00032265 "
+      },
+      {
+        "actorNm": " 민경옥 ",
+        "actorEnNm": " Min Gyeong-ok ",
+        "actorId": " 00016848 "
+      },
+      {
+        "actorNm": " 박성근 ",
+        "actorEnNm": " Park Seong-geun ",
+        "actorId": " 00187120 "
+      },
+      {
+        "actorNm": " 신승용 ",
+        "actorEnNm": " Shin Seung-yong ",
+        "actorId": " 00182492 "
+      },
+      {
+        "actorNm": " 김찬이 ",
+        "actorEnNm": " Kim Chan-i ",
+        "actorId": " 00050818 "
+      },
+      {
+        "actorNm": " 원호섭 ",
+        "actorEnNm": " Won Hoseop ",
+        "actorId": " 00047266 "
+      },
+      {
+        "actorNm": " 윤탁 ",
+        "actorEnNm": " Yoon Tak ",
+        "actorId": " 00207866 "
+      },
+      {
+        "actorNm": " 한승도 ",
+        "actorEnNm": " Han Seung-do ",
+        "actorId": " 00051105 "
+      },
+      {
+        "actorNm": " 조용준 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 정재민 ",
+        "actorEnNm": " Jeong Jaemin ",
+        "actorId": " 00156947 "
+      },
+      {
+        "actorNm": " 권오진 ",
+        "actorEnNm": " Gwon O-jin ",
+        "actorId": " 00016751 "
+      },
+      {
+        "actorNm": " 이설구 ",
+        "actorEnNm": " LEE Seol-gu ",
+        "actorId": " 00048280 "
+      },
+      {
+        "actorNm": " 노영하 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 장우진 ",
+        "actorEnNm": " Jang woo-jin ",
+        "actorId": " 00041027 "
+      },
+      {
+        "actorNm": " 이해성 ",
+        "actorEnNm": " Lee Hae-seong ",
+        "actorId": " 00150219 "
+      },
+      {
+        "actorNm": " 김승태 ",
+        "actorEnNm": " Kim Seung-tae ",
+        "actorId": " 00043733 "
+      },
+      {
+        "actorNm": " 신욱 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 황건 ",
+        "actorEnNm": " Hwang Gun ",
+        "actorId": " 00166004 "
+      },
+      {
+        "actorNm": " 권영국 ",
+        "actorEnNm": " Gwon Yeong-guk ",
+        "actorId": " 00013213 "
+      },
+      {
+        "actorNm": " 양명헌 ",
+        "actorEnNm": " Yang Myoung ",
+        "actorId": " 00048276 "
+      },
+      {
+        "actorNm": " 정원조 ",
+        "actorEnNm": " Jeong Won-jo ",
+        "actorId": " 00173742 "
+      },
+      {
+        "actorNm": " 윤준호 ",
+        "actorEnNm": " Yoon Joon-ho ",
+        "actorId": " 00188676 "
+      },
+      {
+        "actorNm": " 이호원 ",
+        "actorEnNm": " Lee Ho-won ",
+        "actorId": " 00038880 "
+      },
+      {
+        "actorNm": " 설창희 ",
+        "actorEnNm": " Seol Changhui ",
+        "actorId": " 00082221 "
+      },
+      {
+        "actorNm": " 홍도성 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김형석 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김호진 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 양정인 ",
+        "actorEnNm": " Yang Jung-In ",
+        "actorId": " 00207433 "
+      },
+      {
+        "actorNm": " 이동현 ",
+        "actorEnNm": " Lee Dong-hyun ",
+        "actorId": " 00153690 "
+      },
+      {
+        "actorNm": " 이정건 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 최태환 ",
+        "actorEnNm": " Choi Tea-hwan ",
+        "actorId": " 00000094 "
+      },
+      {
+        "actorNm": " 김리후 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 육미옥 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김호연 ",
+        "actorEnNm": " Kim Ho-yeon ",
+        "actorId": " 00042361 "
+      },
+      {
+        "actorNm": " 백성식 ",
+        "actorEnNm": " Baek Seongsik ",
+        "actorId": " 00050631 "
+      },
+      {
+        "actorNm": " 김선주 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김가영 ",
+        "actorEnNm": " Kim Ga-yeong ",
+        "actorId": " 00047750 "
+      },
+      {
+        "actorNm": " 이준기 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이형은 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김서영 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 오병남 ",
+        "actorEnNm": " O Byeongnam ",
+        "actorId": " 00050225 "
+      },
+      {
+        "actorNm": " 전광진 ",
+        "actorEnNm": " Jeon Gwang-jin ",
+        "actorId": " 00176335 "
+      },
+      {
+        "actorNm": " 조현덕 ",
+        "actorEnNm": " Jo Hyeon-deok ",
+        "actorId": " 00171954 "
+      },
+      {
+        "actorNm": " 김경인 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이상호 ",
+        "actorEnNm": " Lee Sang-ho ",
+        "actorId": " 00018139 "
+      },
+      {
+        "actorNm": " 김성민 ",
+        "actorEnNm": " Kim Seong-min ",
+        "actorId": " 00040472 "
+      },
+      {
+        "actorNm": " 류수영 ",
+        "actorEnNm": " Ryu Soo-young ",
+        "actorId": " 00023775 "
+      },
+      {
+        "actorNm": " 박수영 ",
+        "actorEnNm": " Park Su-yeong ",
+        "actorId": " 00032705 "
+      },
+      {
+        "actorNm": " 정성화 ",
+        "actorEnNm": " Jeong Seong-hwa ",
+        "actorId": " 00041804 "
+      },
+      {
+        "actorNm": " 김호진 ",
+        "actorEnNm": " Kim Hojin ",
+        "actorId": " 00205068 "
+      },
+      {
+        "actorNm": " 성창호 ",
+        "actorEnNm": " Seong Changho ",
+        "actorId": " 00203312 "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " 위더스필름㈜,㈜윌엔터테인먼트 ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 돈 없고, 빽 없고, 가방끈도 짧은 세무 변호사 '송변' 그의 인생을 송두리째 바꿀 다섯 번의 공판이 시작된다! 1980년대 초 부산. 빽도 없고, 돈도 없고, 가방끈도 짧은 세무 변호사 송우석(송강호).부동산 등기부터 세금 자문까지 남들이 뭐라든 탁월한 사업수완으로 승승장구하며 부산에서 제일 잘나가고 돈 잘 버는 변호사로 이름을 날린다. 10대 건설 기업의 스카우트 제의까지 받으며 전국구 변호사 데뷔를 코 앞에 둔 송변.   하지만 우연히 7년 전 밥값 신세를 지며 정을 쌓은 국밥집 아들 진우(임시완)가 뜻하지 않은 사건에 휘말려 재판을 앞두고 있다는 소식을 듣는다. 국밥집 아줌마 순애(김영애)의 간절한 부탁을 외면할 수 없어 구치소 면회만이라도 도와주겠다고 나선 송변.하지만 그곳에서 마주한 진우의 믿지 못할 모습에 충격을 받은 송변은모두가 회피하기 바빴던 사건의 변호를 맡기로 결심하는데...\"제가 하께요, 변호인. 하겠습니더\" "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Inspired by true events, a story of a materialistic tax lawyer who evolves into a true attorney to defend a group of innocent students falsely accused and tortured by the dictatorial military government. Down in the port city of Busan in the early 1980s is a tax attorney named SONG Woo-seok. His lack of connections, money, and a college degree forces him to take on all sorts of jobs other lawyers would shun, ranging from filing real estate registration forms to giving out legal advice on taxes. But an excellent eye for business and an appetite for money turns him into one of the most successful lawyers in town. SONG soon gets ready to conquer legal matters nationwide as he receives the offer of a lifetime from a major national corporation. But he comes across unfortunate news concerning Jin-woo, the son of the owner of a small restaurant where he eats every single day. Jin-woo has somehow gotten tangle up in a serious incident and is facing trial. Woo-seok is indebted to the restaurant owner, Soon-ae, for showing him kindness over an unpaid bill he ran out on seven years ago. He cannot bear to ignore her desperate plea for help and decides to at least help her get a visitation with her incarcerated son. But what await Woo-seok and Soon-ae at the prison's visitation room are the unexpected signs of brutality and torture they discover all over Jin-woo's body. Stunned to utter disbelief, SONG Woo-seok becomes determined to take on the case that no other man would.(KOFIC) "
+      }
+    ]
+  },
+  "runtime": " 127 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/08/tn_DPK006258.JPG",
+  "trialer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK032247_P02.mp4"
+},
+{
+  "title": "  비상선언 ",
+  "titleEng": " Emergency Declaration (Bi-Sang-Seon-Eon) ",
+  "prodYear": " 2022 ",
+      "directorNm": " 한재림 ",
+      "directorEnNm": " Han Jae-rim ",
+    "actor": [
+      {
+        "actorNm": " 송강호 ",
+        "actorEnNm": " Song Kang-ho ",
+        "actorId": " 00000776 "
+      },
+      {
+        "actorNm": " 이병헌 ",
+        "actorEnNm": " Lee Byung-hun ",
+        "actorId": " 00000116 "
+      },
+      {
+        "actorNm": " 전도연 ",
+        "actorEnNm": " Jeon Do-youn ",
+        "actorId": " 00000894 "
+      },
+      {
+        "actorNm": " 김남길 ",
+        "actorEnNm": " Kim Nam-gil ",
+        "actorId": " 00048010 "
+      },
+      {
+        "actorNm": " 임시완 ",
+        "actorEnNm": " Im Si-wan ",
+        "actorId": " 00171957 "
+      },
+      {
+        "actorNm": " 김소진 ",
+        "actorEnNm": " Kim So-jin ",
+        "actorId": " 00156490 "
+      },
+      {
+        "actorNm": " 박해준 ",
+        "actorEnNm": " PARK Hae-joon ",
+        "actorId": " 00010153 "
+      },
+      {
+        "actorNm": " 우미화 ",
+        "actorEnNm": " Woo Mihwa ",
+        "actorId": " 00046823 "
+      },
+      {
+        "actorNm": " 현봉식 ",
+        "actorEnNm": " Hyun Bongsik ",
+        "actorId": " 00200750 "
+      },
+      {
+        "actorNm": " 김보민 ",
+        "actorEnNm": " Kim Bomin ",
+        "actorId": " 00205439 "
+      },
+      {
+        "actorNm": " 설인아 ",
+        "actorEnNm": " Seol In-a ",
+        "actorId": " 00212061 "
+      },
+      {
+        "actorNm": " 권한솔 ",
+        "actorEnNm": " Kwon han-sol ",
+        "actorId": " 00205470 "
+      },
+      {
+        "actorNm": " 김국희 ",
+        "actorEnNm": " Kim gook-hui ",
+        "actorId": " 00206387 "
+      },
+      {
+        "actorNm": " 임형국 ",
+        "actorEnNm": " Im Hyung-kook ",
+        "actorId": " 00018183 "
+      },
+      {
+        "actorNm": " 이열음 ",
+        "actorEnNm": " Lee Yeoleum ",
+        "actorId": " 00220316 "
+      },
+      {
+        "actorNm": " 이상현 ",
+        "actorEnNm": " Lee Sanghyeon ",
+        "actorId": " 00225417 "
+      },
+      {
+        "actorNm": " 김학선 ",
+        "actorEnNm": " Kim Hakseon ",
+        "actorId": " 00039904 "
+      },
+      {
+        "actorNm": " 남명렬 ",
+        "actorEnNm": " Nam Myeong-ryeol ",
+        "actorId": " 00026770 "
+      },
+      {
+        "actorNm": " 정종열 ",
+        "actorEnNm": " Jeong Jong-yeol ",
+        "actorId": " 00033887 "
+      },
+      {
+        "actorNm": " 김호정 ",
+        "actorEnNm": " Kim Ho-jung ",
+        "actorId": " 00003833 "
+      },
+      {
+        "actorNm": " 이현균 ",
+        "actorEnNm": " Lee Hyeongyun ",
+        "actorId": " 00207187 "
+      },
+      {
+        "actorNm": " 이시원 ",
+        "actorEnNm": " Lee Si-won ",
+        "actorId": " 00186386 "
+      },
+      {
+        "actorNm": " 임성재 ",
+        "actorEnNm": " Im Seongjae ",
+        "actorId": " 00203897 "
+      },
+      {
+        "actorNm": " 이일섭 ",
+        "actorEnNm": " Lee Il-seop ",
+        "actorId": " 00042603 "
+      },
+      {
+        "actorNm": " 윤세웅 ",
+        "actorEnNm": " Yoon Se Woong ",
+        "actorId": " 00201169 "
+      },
+      {
+        "actorNm": " 오재균 ",
+        "actorEnNm": " O Jaegyun ",
+        "actorId": " 00047468 "
+      },
+      {
+        "actorNm": " 변우종 ",
+        "actorEnNm": " Byun Woo-jong ",
+        "actorId": " 00172435 "
+      },
+      {
+        "actorNm": " 조승연 ",
+        "actorEnNm": " Jo Seung Yeon ",
+        "actorId": " 00202200 "
+      },
+      {
+        "actorNm": " 황현빈 ",
+        "actorEnNm": " Hwang hyun bin ",
+        "actorId": " 00219661 "
+      },
+      {
+        "actorNm": " 박재완 ",
+        "actorEnNm": " Park Jaewan ",
+        "actorId": " 00210926 "
+      },
+      {
+        "actorNm": " 심소연 ",
+        "actorEnNm": " Sim Soyeon ",
+        "actorId": " 00217858 "
+      },
+      {
+        "actorNm": " 황도연 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 채송아 ",
+        "actorEnNm": " Chae songa ",
+        "actorId": " 00081052 "
+      },
+      {
+        "actorNm": " 진미사 ",
+        "actorEnNm": " Jin Misa ",
+        "actorId": " 00223480 "
+      },
+      {
+        "actorNm": " 이수미 ",
+        "actorEnNm": " Lee Sumi ",
+        "actorId": " 00213107 "
+      },
+      {
+        "actorNm": " 강지현 ",
+        "actorEnNm": " Kang Ji-hyeon ",
+        "actorId": " 00207760 "
+      },
+      {
+        "actorNm": " 신수연 ",
+        "actorEnNm": " Shin Soo-yeon ",
+        "actorId": " 00155246 "
+      },
+      {
+        "actorNm": " 홍하나임 ",
+        "actorEnNm": " Hong Ha-na-im ",
+        "actorId": " 00217672 "
+      },
+      {
+        "actorNm": " 황가희 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 윤소희 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 구유정 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이지윤 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 곽민규 ",
+        "actorEnNm": " Kwak min-kyu ",
+        "actorId": " 00204306 "
+      },
+      {
+        "actorNm": " 전정일 ",
+        "actorEnNm": " Jeon Jeong-il ",
+        "actorId": " 00207758 "
+      },
+      {
+        "actorNm": " 이승준 ",
+        "actorEnNm": " Lee Seung-jun ",
+        "actorId": " 00182510 "
+      },
+      {
+        "actorNm": " 하정민 ",
+        "actorEnNm": " Ha Jeongmin ",
+        "actorId": " 00207692 "
+      },
+      {
+        "actorNm": " 박근홍 ",
+        "actorEnNm": " Park Geunhong ",
+        "actorId": " 00225418 "
+      },
+      {
+        "actorNm": " 이예영 ",
+        "actorEnNm": " Lee Yeyeong ",
+        "actorId": " 00222933 "
+      },
+      {
+        "actorNm": " 서석규 ",
+        "actorEnNm": " Seo Seok-gyu ",
+        "actorId": " 00174274 "
+      },
+      {
+        "actorNm": " 하혜승 ",
+        "actorEnNm": " Ha Hye-seung ",
+        "actorId": " 00215122 "
+      },
+      {
+        "actorNm": " 김금순 ",
+        "actorEnNm": " Kim Keum-sun ",
+        "actorId": " 00141181 "
+      },
+      {
+        "actorNm": " 이은희 ",
+        "actorEnNm": " Lee Eunhui ",
+        "actorId": " 00210929 "
+      },
+      {
+        "actorNm": " 이동희 ",
+        "actorEnNm": " Lee Dong-hee ",
+        "actorId": " 00083351 "
+      },
+      {
+        "actorNm": " 아용주 ",
+        "actorEnNm": " A Yong-ju ",
+        "actorId": " 00023630 "
+      },
+      {
+        "actorNm": " 김혁종 ",
+        "actorEnNm": " Kim Hyeok-jong ",
+        "actorId": " 00217709 "
+      },
+      {
+        "actorNm": " 조운 ",
+        "actorEnNm": " Jo Un ",
+        "actorId": " 00035574 "
+      },
+      {
+        "actorNm": " 김영욱 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 윤민수 ",
+        "actorEnNm": " Yoon Min-su ",
+        "actorId": " 00180098 "
+      },
+      {
+        "actorNm": " 지웅배 ",
+        "actorEnNm": " Ji woong-bae ",
+        "actorId": " 00204847 "
+      },
+      {
+        "actorNm": " 구민혁 ",
+        "actorEnNm": " Koo Min Hyeok ",
+        "actorId": " 00202678 "
+      },
+      {
+        "actorNm": " 신현숙 ",
+        "actorEnNm": " Sin Hyeon-suk ",
+        "actorId": " 00210847 "
+      },
+      {
+        "actorNm": " 이문빈 ",
+        "actorEnNm": " Lee Munbin ",
+        "actorId": " 00211527 "
+      },
+      {
+        "actorNm": " 김자미 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " ㈜매그넘나인 ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " ‘비상선언’: 항공기가 재난 상황에 직면한 항공기가 더 이상 정상적인 운항이 불가능하여, 무조건 적인 착륙을 요청하는 비상사태를 뜻하는 항공 용어베테랑 형사 팀장 인호(송강호)는 비행기 테러 예고 영상 제보를 받고 사건을 수사하던 중 용의자가 실제로 KI501 항공편에 타고 있음을 파악한다. 딸의 치료를 위해 비행 공포증임에도 불구하고 하와이로 떠나기로 한 재혁(이병헌)은 주변을 맴돌며 위협적인 말을 하는 낯선 이가 신경 쓰인다. 인천에서 하와이로 이륙한 KI501 항공편에서 원인불명의 사망자가 나오고, 비행기 안은 물론 지상까지 혼란과 두려움의 현장으로 뒤바뀐다. 이 소식을 들은 국토부 장관 숙희(전도연)는 대테러센터를 구성하고 비행기를 착륙시킬 방법을 찾기 위해 긴급회의를 소집하는데… "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Veteran chief police detective In-ho receives a tip about a man threatening a terrorist attack against a plane. While investigating, he discovers that the suspect has actually boarded flight no. KI501.Despite his phobia of flying, Jae-hyuk decides to go to Hawaii for the sake of his daughter's health. At the airport, he is distracted by a strange man who hangs around, speaking to them in a menacing way.Flight no. KI501 departs Incheon Airport for Hawaii, but soon afterwards a man dies for mysterious reasons. Fear and chaos spread quickly, not only inside the plane, but also on land.Hearing this news, Transport Minister Sook-hee sets up a counterterrorism task force and calls an emergency meeting in order to find a way to land the airplane. "
+      }
+    ]
+  },
+  "runtime": " 140 ",
+  "rating": " 12세관람가 ",
+  "genre": " 드라마,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/99/17/75/tn_DPK019270.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK055990_P02.mp4"
+},
+{
+  "title": "  연애의 목적 ",
+  "titleEng": " Rules of Dating ( Yeon-ae-eui Mok-jeok ) ",
+  "prodYear": " 2005 ",
+      "directorNm": " 한재림 ",
+      "directorEnNm": " Han Jae-rim ",
+    "actor": [
+      {
+        "actorNm": " 박해일 ",
+        "actorEnNm": " Park Hae-il ",
+        "actorId": " 00009933 "
+      },
+      {
+        "actorNm": " 강혜정 ",
+        "actorEnNm": " Kang Hye-jung ",
+        "actorId": " 00023786 "
+      },
+      {
+        "actorNm": " 이대연 ",
+        "actorEnNm": " Lee Dae-yan ",
+        "actorId": " 00000057 "
+      },
+      {
+        "actorNm": " 박그리나 ",
+        "actorEnNm": " Park Grina ",
+        "actorId": " 00035028 "
+      },
+      {
+        "actorNm": " 박준명 ",
+        "actorEnNm": " Park Jun-myeong ",
+        "actorId": " 00024664 "
+      },
+      {
+        "actorNm": " 서영화 ",
+        "actorEnNm": " Seo Young-hwa ",
+        "actorId": " 00007651 "
+      },
+      {
+        "actorNm": " 이영숙 ",
+        "actorEnNm": " Lee Young-sook ",
+        "actorId": " 00018018 "
+      },
+      {
+        "actorNm": " 이현순 ",
+        "actorEnNm": " Lee Hyun-soon ",
+        "actorId": " 00014087 "
+      },
+      {
+        "actorNm": " 이현정 ",
+        "actorEnNm": " Lee Hyun-jeong ",
+        "actorId": " 00000033 "
+      },
+      {
+        "actorNm": " 김세동 ",
+        "actorEnNm": " Kim Se-dong ",
+        "actorId": " 00000623 "
+      },
+      {
+        "actorNm": " 김민아 ",
+        "actorEnNm": " Kim Min-a ",
+        "actorId": " 00009914 "
+      },
+      {
+        "actorNm": " 조문의 ",
+        "actorEnNm": " Jo Mun-ui ",
+        "actorId": " 00012727 "
+      },
+      {
+        "actorNm": " 허선행 ",
+        "actorEnNm": " Heo Seon-haeng ",
+        "actorId": " 00008773 "
+      },
+      {
+        "actorNm": " 김태종 ",
+        "actorEnNm": " Kim Tea-jong ",
+        "actorId": " 00000294 "
+      },
+      {
+        "actorNm": " 서정규 ",
+        "actorEnNm": " Seo Jeong-gyu ",
+        "actorId": " 00008924 "
+      },
+      {
+        "actorNm": " 김동주 ",
+        "actorEnNm": " Kim Dong-ju ",
+        "actorId": " 00033399 "
+      },
+      {
+        "actorNm": " 이동욱 ",
+        "actorEnNm": " Lee Dong-uk ",
+        "actorId": " 00042193 "
+      },
+      {
+        "actorNm": " 박진우 ",
+        "actorEnNm": " Park Jin-u ",
+        "actorId": " 00041368 "
+      },
+      {
+        "actorNm": " 우기홍 ",
+        "actorEnNm": " U Gi-hong ",
+        "actorId": " 00025134 "
+      },
+      {
+        "actorNm": " 조영호 ",
+        "actorEnNm": " Jo Yeong-ho ",
+        "actorId": " 00007391 "
+      },
+      {
+        "actorNm": " 윤단열 ",
+        "actorEnNm": " Yun Dan-yeol ",
+        "actorId": " 00022490 "
+      },
+      {
+        "actorNm": " 최선중 ",
+        "actorEnNm": " Choi Sun-joong ",
+        "actorId": " 00001657 "
+      },
+      {
+        "actorNm": " 박정배 ",
+        "actorEnNm": " Park Jeong-bae ",
+        "actorId": " 00025136 "
+      },
+      {
+        "actorNm": " 김종두 ",
+        "actorEnNm": " Kim Jong-du ",
+        "actorId": " 00018584 "
+      },
+      {
+        "actorNm": " 정재한 ",
+        "actorEnNm": " Jeong Jae-han ",
+        "actorId": " 00025138 "
+      },
+      {
+        "actorNm": " 이철진 ",
+        "actorEnNm": " Lee Cheol-jin ",
+        "actorId": " 00024604 "
+      },
+      {
+        "actorNm": " 김진선 ",
+        "actorEnNm": " Kim Jinseon ",
+        "actorId": " 00212806 "
+      },
+      {
+        "actorNm": " 이은숙 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박봉욱 ",
+        "actorEnNm": " Park Bong-ok ",
+        "actorId": " 00025139 "
+      },
+      {
+        "actorNm": " 유진화 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 정보훈 ",
+        "actorEnNm": " Jeong Bo-hun ",
+        "actorId": " 00012719 "
+      },
+      {
+        "actorNm": " 김신록 ",
+        "actorEnNm": " Kim,sillok ",
+        "actorId": " 00083640 "
+      },
+      {
+        "actorNm": " 원상연 ",
+        "actorEnNm": " Won Sang-yeon ",
+        "actorId": " 00015036 "
+      },
+      {
+        "actorNm": " 이철희 ",
+        "actorEnNm": " Lee Chul-Hui ",
+        "actorId": " 00046613 "
+      },
+      {
+        "actorNm": " 정구진 ",
+        "actorEnNm": " Jeong Gu-jin ",
+        "actorId": " 00008117 "
+      },
+      {
+        "actorNm": " 정영기 ",
+        "actorEnNm": " Jeong Young-ki ",
+        "actorId": " 00050483 "
+      },
+      {
+        "actorNm": " 고진미 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 신현희 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박혜영 ",
+        "actorEnNm": " Park Hye-yeong ",
+        "actorId": " 00011052 "
+      },
+      {
+        "actorNm": " 김기형 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박진석 ",
+        "actorEnNm": " Park Jin-seok ",
+        "actorId": " 00033400 "
+      },
+      {
+        "actorNm": " 한상우 ",
+        "actorEnNm": " Han Sang-woo ",
+        "actorId": " 00191427 "
+      },
+      {
+        "actorNm": " 장준영 ",
+        "actorEnNm": " Jang Joon-yeong ",
+        "actorId": " 00042925 "
+      },
+      {
+        "actorNm": " 이영미 ",
+        "actorEnNm": " Lee Yeong-mi ",
+        "actorId": " 00012310 "
+      },
+      {
+        "actorNm": " 원유진 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 신순호 ",
+        "actorEnNm": " Sin Sun-ho ",
+        "actorId": " 00017247 "
+      },
+      {
+        "actorNm": " 김산 ",
+        "actorEnNm": " Kim San ",
+        "actorId": " 00204049 "
+      },
+      {
+        "actorNm": " 최재환 ",
+        "actorEnNm": " Choe Jae-hwan ",
+        "actorId": " 00025148 "
+      },
+      {
+        "actorNm": " 김주경 ",
+        "actorEnNm": " Kim Ju-gyeong ",
+        "actorId": " 00023058 "
+      },
+      {
+        "actorNm": " 우수연 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 최승연 ",
+        "actorEnNm": " Choe Seung-yeon ",
+        "actorId": " 00047943 "
+      },
+      {
+        "actorNm": " 안재우 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박진우 ",
+        "actorEnNm": " Park Jin-u ",
+        "actorId": " 00041368 "
+      },
+      {
+        "actorNm": " 김자영 ",
+        "actorEnNm": " Kim Jayeong ",
+        "actorId": " 00025137 "
+      },
+      {
+        "actorNm": " 김자영 ",
+        "actorEnNm": " Kim Jayeong ",
+        "actorId": " 00025137 "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " (주) 싸이더스 픽쳐스 ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 고등학교 영어교사 '유림'은 한 살 연상의 미술교생 '홍'에게 호시탐탐 수작을 건다. 너무도 당당하게 '연애'를 요구하는 유림은 일면 귀엽고, 일면 능청스럽고, 일면 약아빠졌다. 파트너쉽을 핑계로 단둘이 갖게 된 술자리에서 유림은 기회를 틈타 솔직하게 고백한다. \"같이 자고 싶어요!\" 그런데 이 여자 홍도 만만치 않다. \"나랑 자려면 50만원 내요.\" 서로간의 밀고 당기는 줄다리기가 반복 되면서 그들은 어느새 '연애'에 진입하게 된다. 그리고 목적 없던 연애에 '목적'이 생기면서 그들의 연애는 골치아파 진다. 과연, 그들의 연애의 목적은? "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " LEE Yu-rim is a high school English teacher. He's cute, clever... and shameless. CHOI Hong is a student teacher, even though she is one year older than Yu-rim. She's cynical and always plays hard-to-get when a man shows interest in her. While going out for drinks one night, Yu-rim suddenly tells Hong that he wants to have sex with her. Hong is hardly impressed. And so begins a battle of will and wits, both between each other and within themselves, as both Yu-rim and Hong are unsure of what each other wants and what they want themselves. Dating and desire mix explosively. What is the point of this strange relationship? What is the object of their desire? (KOFIC) "
+      }
+    ]
+  },
+  "runtime": " 121 ",
+  "rating": " 18세관람가(청소년관람불가) ",
+  "genre": " 코메디,멜로드라마,드라마 ",
+  "poster":" http://file.koreafilm.or.kr/thm/02/00/03/92/tn_DPK06601A.jpg",
+  "trailer":" "
+},
+{
+  "title": "  우아한 세계 ",
+  "titleEng": " The Show Must Go On ( Woo-ah-han Sae-gye ) ",
+  "prodYear": " 2006 ",
+      "directorNm": " 한재림 ",
+      "directorEnNm": " Han Jae-rim ",
+    "actor": [
+      {
+        "actorNm": " 송강호 ",
+        "actorEnNm": " Song Kang-ho ",
+        "actorId": " 00000776 "
+      },
+      {
+        "actorNm": " 오달수 ",
+        "actorEnNm": " Oh Dal-soo ",
+        "actorId": " 00010180 "
+      },
+      {
+        "actorNm": " 최일화 ",
+        "actorEnNm": " Choi Il-hoa ",
+        "actorId": " 00001040 "
+      },
+      {
+        "actorNm": " 윤제문 ",
+        "actorEnNm": " Yoon Je-moon ",
+        "actorId": " 00035789 "
+      },
+      {
+        "actorNm": " 박지영 ",
+        "actorEnNm": " Park Ji-young ",
+        "actorId": " 00043208 "
+      },
+      {
+        "actorNm": " 김소은 ",
+        "actorEnNm": " Kim So-eun ",
+        "actorId": " 00035718 "
+      },
+      {
+        "actorNm": " 민도기 ",
+        "actorEnNm": " Min Do-gi ",
+        "actorId": " 00007372 "
+      },
+      {
+        "actorNm": " 이종관 ",
+        "actorEnNm": " Lee Jong-gwan ",
+        "actorId": " 00008795 "
+      },
+      {
+        "actorNm": " 이장훈 ",
+        "actorEnNm": " Lee Jang-hun ",
+        "actorId": " 00042518 "
+      },
+      {
+        "actorNm": " 이용이 ",
+        "actorEnNm": " Lee Yong-yi ",
+        "actorId": " 00000606 "
+      },
+      {
+        "actorNm": " 정인기 ",
+        "actorEnNm": " Jeong In-gi ",
+        "actorId": " 00014132 "
+      },
+      {
+        "actorNm": " 권태원 ",
+        "actorEnNm": " Gwon Tae-won ",
+        "actorId": " 00013691 "
+      },
+      {
+        "actorNm": " 최정열 ",
+        "actorEnNm": " Choi Jeong-Yeol ",
+        "actorId": " 00178784 "
+      },
+      {
+        "actorNm": " 김미진 ",
+        "actorEnNm": " Kim Mi Jin ",
+        "actorId": " 00045950 "
+      },
+      {
+        "actorNm": " 조중휘 ",
+        "actorEnNm": " Jo Jung-hwi ",
+        "actorId": " 00042016 "
+      },
+      {
+        "actorNm": " 김은진 ",
+        "actorEnNm": " Kim Eun-jin ",
+        "actorId": " 00040769 "
+      },
+      {
+        "actorNm": " 조문의 ",
+        "actorEnNm": " Jo Mun-ui ",
+        "actorId": " 00012727 "
+      },
+      {
+        "actorNm": " 정재한 ",
+        "actorEnNm": " Jeong Jae-han ",
+        "actorId": " 00025138 "
+      },
+      {
+        "actorNm": " 최성일 ",
+        "actorEnNm": " Choe Seong-il ",
+        "actorId": " 00044010 "
+      },
+      {
+        "actorNm": " 윤상화 ",
+        "actorEnNm": " Yun Sang-hwa ",
+        "actorId": " 00041912 "
+      },
+      {
+        "actorNm": " 서승억 ",
+        "actorEnNm": " Seo Seung-eok ",
+        "actorId": " 00036014 "
+      },
+      {
+        "actorNm": " 최종률 ",
+        "actorEnNm": " Choi Jong Ryul ",
+        "actorId": " 00039364 "
+      },
+      {
+        "actorNm": " 조학현 ",
+        "actorEnNm": " Jo Hak-hyeon ",
+        "actorId": " 00035586 "
+      },
+      {
+        "actorNm": " 배수만 ",
+        "actorEnNm": " Bae Su-man ",
+        "actorId": " 00014767 "
+      },
+      {
+        "actorNm": " 송승채 ",
+        "actorEnNm": " Song Seung-chae ",
+        "actorId": " 00044011 "
+      },
+      {
+        "actorNm": " 박진우 ",
+        "actorEnNm": " Park Jin-u ",
+        "actorId": " 00041368 "
+      },
+      {
+        "actorNm": " 이미희 ",
+        "actorEnNm": " Lee Mi-hui ",
+        "actorId": " 00044012 "
+      },
+      {
+        "actorNm": " 김혜진 ",
+        "actorEnNm": " Kim Hye-jin ",
+        "actorId": " 00007880 "
+      },
+      {
+        "actorNm": " 장지인 ",
+        "actorEnNm": " Jang Ji-in ",
+        "actorId": " 00041493 "
+      },
+      {
+        "actorNm": " 김선동 ",
+        "actorEnNm": " Kim Seon-dong ",
+        "actorId": " 00035755 "
+      },
+      {
+        "actorNm": " 함정이 ",
+        "actorEnNm": " Ham Jeong-i ",
+        "actorId": " 00043648 "
+      },
+      {
+        "actorNm": " 차민석 ",
+        "actorEnNm": " Cha Min-seok ",
+        "actorId": " 00191265 "
+      },
+      {
+        "actorNm": " 김진국 ",
+        "actorEnNm": " Kim Jin-guk ",
+        "actorId": " 00032829 "
+      },
+      {
+        "actorNm": " 구본석 ",
+        "actorEnNm": " Gu Bon-seok ",
+        "actorId": " 00022980 "
+      },
+      {
+        "actorNm": " 황자경 ",
+        "actorEnNm": " Hwang Ja-gyeong ",
+        "actorId": " 00040707 "
+      },
+      {
+        "actorNm": " 이유나 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 민성욱 ",
+        "actorEnNm": " Min Seong-uk ",
+        "actorId": " 00042583 "
+      },
+      {
+        "actorNm": " 정용우 ",
+        "actorEnNm": " Jeong Yong-woo ",
+        "actorId": " 00180958 "
+      },
+      {
+        "actorNm": " 백동현 ",
+        "actorEnNm": " Baek Dong-hyeon ",
+        "actorId": " 00018665 "
+      },
+      {
+        "actorNm": " 백경순 ",
+        "actorEnNm": " Baek Gyeongsun ",
+        "actorId": " 00142643 "
+      },
+      {
+        "actorNm": " 송원종 ",
+        "actorEnNm": " Song Won-jong ",
+        "actorId": " 00164574 "
+      },
+      {
+        "actorNm": " 최익준 ",
+        "actorEnNm": " Choe Yeong ",
+        "actorId": " 00017200 "
+      },
+      {
+        "actorNm": " 홍성춘 ",
+        "actorEnNm": " Hong Seong-chun ",
+        "actorId": " 00018814 "
+      },
+      {
+        "actorNm": " 양재만 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 홍성덕 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 김성일 ",
+        "actorEnNm": " Kim Seong-il ",
+        "actorId": " 00035484 "
+      },
+      {
+        "actorNm": " 이철희 ",
+        "actorEnNm": " Lee Chul-Hui ",
+        "actorId": " 00046613 "
+      },
+      {
+        "actorNm": " 최재연 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박현아 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 권창호 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 박은미 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 장경남 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 이대연 ",
+        "actorEnNm": " Lee Dae-yan ",
+        "actorId": " 00000057 "
+      },
+      {
+        "actorNm": " 오정세 ",
+        "actorEnNm": " Oh Jeong-se ",
+        "actorId": " 00011027 "
+      },
+      {
+        "actorNm": " 김경익 ",
+        "actorEnNm": " Kim Gyeong-ik ",
+        "actorId": " 00016031 "
+      },
+      {
+        "actorNm": " 박리디아 ",
+        "actorEnNm": " Park Lydia ",
+        "actorId": " 00043354 "
+      }
+    ],
+  "nation": " 대한민국 ",
+  "company": " ㈜루씨필름    ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 가족들과 오순도순평범한 가장이 되고 싶은 특별한 아버지'과장', '부장'이라는 직급 대신, '형님' 소리를 듣는 남다른 직업을 가졌지만, 가족 사랑만은 남다르지 않은 대한민국 가장 '강인구'(송강호). 오늘도 그는 공기 좋은 전원주택에서 가족들과 우아하게 살고 싶은 소망을 이루기 위해 조직 일도 열심, 아빠 역할도 소홀히 할 수 없다. 특별한 남자의 평범한 꿈그 남자가 꿈꾸는 우아한 세계그러나 하루가 멀다 하고 조직 일을 그만두라는 가족들의 냉대와 그리고 조직의 2인자 노상무와의 껄끄러운 관계는 그의 인생을 전혀 우아하지 못한 곳으로 끌어 내리는데…대한민국을 치열하게 살아가는우리들의 특별한 아버지 이야기평범한 가장이고 싶은 특별한 아버지, 직업만 남다른 강인구의 치열한 일상은 오늘도 계속된다. "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " In-gu (Song Kang-ho) is a kingpin in a dark world. However, he’s the sweetest husband and dad, full of love for his family. His only goal in life is to build a picturesque house out in the country and live a gracious life with his family. But, there’s a problem. His daughter, going through puberty, is embarrassed about her dad’s job and stays away from him. And his wife nags him constantly to get a stable job. Nonetheless, he tries even harder to keep his syndicate together, thinking that the only way to be a good dad is to work hard and bring home the bacon. However, in reality, family matters get in the way of his business. To make things worse, he faces a power struggle against an ambitious underling. "
+      }
+    ]
+  },
+  "runtime": " 112 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,느와르 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/30/tn_DPK07301A.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK002368_P02.mp4"
+},
+{
+  "title": "  워 호스 ",
+  "titleEng": " WAR HORSE ",
+  "prodYear": " 2011 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 제레미 어바인 ",
+        "actorEnNm": " Jeremy Irvine ",
+        "actorId": " 00160891 "
+      },
+      {
+        "actorNm": " 베네딕 컴버배치 ",
+        "actorEnNm": " Benedict Cumberbatch ",
+        "actorId": " 00057785 "
+      },
+      {
+        "actorNm": " 톰 히들스턴 ",
+        "actorEnNm": " Tom Hiddleston ",
+        "actorId": " 00160892 "
+      },
+      {
+        "actorNm": " 에밀리 왓슨 ",
+        "actorEnNm": " Emily Watson ",
+        "actorId": " 00069828 "
+      },
+      {
+        "actorNm": " 데이빗 듈리스 ",
+        "actorEnNm": " David Thewlis ",
+        "actorId": " 00048941 "
+      },
+      {
+        "actorNm": " 피터 뮬란 ",
+        "actorEnNm": " Peter Mullan ",
+        "actorId": " 00108819 "
+      },
+      {
+        "actorNm": " 데이빗 크로스 ",
+        "actorEnNm": " David Kross ",
+        "actorId": " 00065881 "
+      },
+      {
+        "actorNm": " 데이빗 덴시크 ",
+        "actorEnNm": " David Dencik ",
+        "actorId": " 00065598 "
+      }
+    ],
+  "nation": " 미국,인도 ",
+  "company": " DreamWorks Pictures,Reliance Entertainment ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 전쟁에 굴하지 않는 뜨거운 우정 희망은 죽지 않는다!  아버지가 사온 ‘조이’를 만난 순간부터 운명처럼 함께 했던 소년 알버트. 그는 ‘조이’에게 각별한 애정을 보이며 피를 나눈 형제처럼 모든 시간을 함께한다. 그러던 어느 날, 세계 1차 대전이 벌어지고 ‘조이’는 기마대의 군마로 차출되어 알버트 곁을 떠나게 된다. 혼돈으로 가득한 전장의 한 복판에서도 ‘조이’는 알버트에게 돌아가야 한다는 희망의 끈을 놓지 않는다. 그리고 이 희망은 ‘조이’가 전쟁 속에서 만나게 되는 많은 사람들에게 또 다른 희망과 웃음을 가져다 준다. 한편, 알버트는 ‘조이’를 찾기 위해 입대를 감행하게 되는데... "
+    }
+  },
+  "runtime": " 146 ",
+  "rating": " 12세관람가 ",
+  "genre": " 드라마,전쟁 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/52/tn_DPF002327.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK031213_P01.mp4"
+},
+{
+  "title": "  인디아나 존스와 마궁의 사원 ",
+  "titleEng": " Indiana Jones And The Temple Of Doom ",
+  "prodYear": " 1984 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 해리슨 포드 ",
+        "actorEnNm": " Harrison Ford ",
+        "actorId": " 00048810 "
+      },
+      {
+        "actorNm": " 케이트 캡쇼 ",
+        "actorEnNm": " Kate Capshaw ",
+        "actorId": " 00048841 "
+      },
+      {
+        "actorNm": " 조나단 케 콴 ",
+        "actorEnNm": " Jonathan Ke Quan ",
+        "actorId": " 00048973 "
+      },
+      {
+        "actorNm": " 암리쉬 푸리 ",
+        "actorEnNm": " Amrish Puri ",
+        "actorId": " 00054401 "
+      },
+      {
+        "actorNm": " 로산 세스 ",
+        "actorEnNm": " Roshan Seth ",
+        "actorId": " 00113769 "
+      },
+      {
+        "actorNm": " 필립 스톤 ",
+        "actorEnNm": " Philip Stone ",
+        "actorId": " 00109285 "
+      },
+      {
+        "actorNm": " 로이 치아오 ",
+        "actorEnNm": " Roy Chiao ",
+        "actorId": " 00113872 "
+      },
+      {
+        "actorNm": " 데이빗 입 ",
+        "actorEnNm": " David Yip ",
+        "actorId": " 00066354 "
+      },
+      {
+        "actorNm": " 릭 영 ",
+        "actorEnNm": " Ric Young ",
+        "actorId": " 00111214 "
+      },
+      {
+        "actorNm": " 쿠아 카 주 ",
+        "actorEnNm": " Chua Kah Joo ",
+        "actorId": " 00062910 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Lucasfilm Ltd,Paramount Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 인디아나 존스 박사(해리스 포드 분)는 만주족 시조인 누루하치의 유골이 남겨있는 보물을 둘러싼 상해에서 라오 일당과 협상 중 죽음의 위기에 몰리게 되나, 쇼걸인 윌리(케이트 캡쇼 분)와 꼬마 택시운전수 소년 쇼트( 케 슈이 쿠안 분)의 도움으로 탈출하다가 비행기 추락으로 티베트의 샤만 마을에 당도하는데 여기서 예기치 못한 모험 속에 뛰어들게 된다. 하늘에서 떨어지는 이들 일행을 본 마을 사람들은 이들을 구세주로 여기고 판코드 궁에 있는 신비의 돌을 찾아 달라고 한다. 존스는 신비의 돌과 밀교에 있는 어린이들을 구하고자 전설의 마궁을 찾아간다. 일행은 산 사람을 제물로 바치는 비밀종교 집단과 처절한 사투를 벌인 끝에 쇼트의 뛰어난 기지로 탈출하여 아이들은 부모 곁으로 돌아간다. "
+    }
+  },
+  "runtime": " 115 ",
+  "rating": " 연소자관람가 ",
+  "genre": " 액션,코메디,어드벤처 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/45/tn_DPF01802A.jpg",
+  "trailer":" "
+},
+{
+  "title": "  인디아나 존스와 최후의 성전 ",
+  "titleEng": " Indiana Jones And The Last Crusade ",
+  "prodYear": " 1989 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 해리슨 포드 ",
+        "actorEnNm": " Harrison Ford ",
+        "actorId": " 00048810 "
+      },
+      {
+        "actorNm": " 숀 코네리 ",
+        "actorEnNm": " Sean Connery ",
+        "actorId": " 00048562 "
+      },
+      {
+        "actorNm": " 리버 피닉스 ",
+        "actorEnNm": " River Phoenix ",
+        "actorId": " 00048618 "
+      },
+      {
+        "actorNm": " 존 라이스 데이비스 ",
+        "actorEnNm": " John Rhys Davies ",
+        "actorId": " 00049627 "
+      },
+      {
+        "actorNm": " 덴홀름 엘리엇 ",
+        "actorEnNm": " Denholm Elliott ",
+        "actorId": " 00048933 "
+      },
+      {
+        "actorNm": " 앨리슨 두디 ",
+        "actorEnNm": " Alison Doody ",
+        "actorId": " 00048561 "
+      },
+      {
+        "actorNm": " 줄리안 글로버 ",
+        "actorEnNm": " Julian Glover ",
+        "actorId": " 00049635 "
+      },
+      {
+        "actorNm": " 마이클 번 ",
+        "actorEnNm": " Michael Byrne ",
+        "actorId": " 00049436 "
+      },
+      {
+        "actorNm": " 케보르크 말리키안 ",
+        "actorEnNm": " Kevork Malikyan ",
+        "actorId": " 00094447 "
+      },
+      {
+        "actorNm": " 로버트 에디슨 ",
+        "actorEnNm": " Robert Eddison ",
+        "actorId": " 00112461 "
+      },
+      {
+        "actorNm": " 리차드 영 ",
+        "actorEnNm": " Richard Young ",
+        "actorId": " 00111860 "
+      },
+      {
+        "actorNm": " 알렉세이 세이레 ",
+        "actorEnNm": " Alexei Sayle ",
+        "actorId": " 00053778 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Lucasfilm Ltd., Paramount Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 소년 인디는 우연히 16세기경에 제작된 십자가 목걸이와 훗날 사용하는 채찍과 중절모를 얻는다. 세월이 흘러 고고학자로 성장한 인디아나 존스는 아버지 헨리 존스박사가 나치에 납치되었다는 소식을 듣고 베니스로 달려간다. 아버지 헨리의 비서 엘사 슈니이더와 함께 백방으로 수소문한 인디는 마침내 헨리를 구해내게 된다. 이들 부자는 예수 그리스도가 최후의 만찬시에 사용한것으로 알려진 성배를 찾기 위해 중동의 오지로 날아간다. 비행선과 소형 항공기, 모터 싸이클, "
+    }
+  },
+  "runtime": " 126 ",
+  "rating": " 연소자불가 ",
+  "genre": " 액션,어드벤처 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/84/tn_DPF03687A.jpg",
+  "trailer":" "
+},
+{
+  "title": "  인셉션 ",
+  "titleEng": " Inception ",
+  "prodYear": " 2010 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 레오나르도 디카프리오 ",
+        "actorEnNm": " Leonardo DiCaprio ",
+        "actorId": " 00049306 "
+      },
+      {
+        "actorNm": " 와타나베 켄 ",
+        "actorEnNm": " Kensaku Watanabe ",
+        "actorId": " 00093989 "
+      },
+      {
+        "actorNm": " 조셉 고든-레빗 ",
+        "actorEnNm": " Joseph Gordon-Levitt ",
+        "actorId": " 00091639 "
+      },
+      {
+        "actorNm": " 마리온 꼬띨라르 ",
+        "actorEnNm": " Marion Cotillard ",
+        "actorId": " 00099762 "
+      },
+      {
+        "actorNm": " 엘렌 페이지 ",
+        "actorEnNm": " Ellen Page ",
+        "actorId": " 00069581 "
+      },
+      {
+        "actorNm": " 킬리언 머피 ",
+        "actorEnNm": " Cillian Murphy ",
+        "actorId": " 00063023 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 톰 베린저 ",
+        "actorEnNm": " Tom Berenger ",
+        "actorId": " 00049256 "
+      },
+      {
+        "actorNm": " 톰 하디 ",
+        "actorEnNm": " Tom Hardy ",
+        "actorId": " 00120538 "
+      },
+      {
+        "actorNm": " 루카스 하스 ",
+        "actorEnNm": " Lukas Haas ",
+        "actorId": " 00049751 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Warner Bros. Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 드림머신이라는 기계로 타인의 꿈과 접속해 생각을 빼낼 수 있는 미래사회.‘돔 코브’(레오나르도 디카프리오)는 생각을 지키는 특수보안요원이면서 또한 최고의 실력으로 생각을 훔치는 도둑이다. 우연한 사고로 국제적인 수배자가 된 그는 기업간의 전쟁 덕에 모든 것을 되찾을 수 있는 기회를 얻게 된다. 하지만 임무는 머릿속의 정보를 훔쳐내는 것이 아니라, 반대로 머릿속에 정보를 입력시켜야 하는 것! 그는 ‘인셉션’이라 불리는 이 작전을 성공시키기 위해 최강의 팀을 조직한다. 불가능에 가까운 게임, 하지만 반드시 이겨야만 한다! "
+    }
+  },
+  "runtime": " 147 ",
+  "rating": " 12세관람가 ",
+  "genre": " SF,미스터리,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/32/tn_DPF001450.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK014054_P03.mp4"
+},
+{
+  "title": "  인썸니아 ",
+  "titleEng": " INSOMNIA ",
+  "prodYear": " 2002 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 알 파치노 ",
+        "actorEnNm": " Al Pacino ",
+        "actorId": " 00048489 "
+      },
+      {
+        "actorNm": " 로빈 윌리엄스 ",
+        "actorEnNm": " Robin Williams ",
+        "actorId": " 00048765 "
+      },
+      {
+        "actorNm": " 힐러리 스웽크 ",
+        "actorEnNm": " Hilary Swank ",
+        "actorId": " 00049990 "
+      },
+      {
+        "actorNm": " 마우라 티어니 ",
+        "actorEnNm": " Maura Tierney ",
+        "actorId": " 00101408 "
+      },
+      {
+        "actorNm": " 마틴 도노반 ",
+        "actorEnNm": " Martin Donovan ",
+        "actorId": " 00100496 "
+      },
+      {
+        "actorNm": " 니키 캣 ",
+        "actorEnNm": " Nicky Katt ",
+        "actorId": " 00105609 "
+      },
+      {
+        "actorNm": " 조나단 잭슨 ",
+        "actorEnNm": " Jonathan Jackson ",
+        "actorId": " 00091141 "
+      },
+      {
+        "actorNm": " 캐서린 이자벨 ",
+        "actorEnNm": " Katharine Isabelle ",
+        "actorId": " 00093194 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Alcon Entertainment, Insomnia Productions, Section ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 영화가 시작하기 전 절대 예측하지 말 것! 영화 상영 도중 절대 눈을 감지 말 것! 영화가 끝나면 반드시 현실로 돌아올 것! 밤이 없이 낮만 계속되는 백야( Midnight Sun)라는 특이한 기간에 접어든 알래스카의 외딴 마을의 쓰레기 하치장에서 17세 소녀의 시체가 전라의 몸으로 발견된다. 용의자도 단서도, 목격자도 없는 이 의문의 살인사건에 LA경찰국 소속 베테랑 형사 도머가 투입되고 도머는 그의 오랜 파트너 햅과 알래스카 지방 경찰 앨리와 함께 사건을 수사하기 시작한다. 살인 후, 시체의 구석구석을 닦아주고 머리도 감겨주고 손톱 발톱까지 다듬어 놓은 지능적이고 여유로운 살인자의 흔적을 좀처럼 찾을 수 없던 어느 날, 도머는 쉽게 놓칠 뻔한 단서를 찾아내어 용의자를 추적하게 된다. 그러던 중 안개가 쌓인 어느 해변에서 용의자 대신 파트너인 햅을 사살하는 사고를 저지른다. 심한 불면증과 스트레스로 동료를 죽인 그 사고가 자의인지 타의인지 구별조차 못하는 도머는 자신을 향해 조여오는 LA 경찰국 강력반의 내사와 햅이 자신의 부정을 알고 있었다는 상황으로 이 사고를 내사과에서 계획된 범죄로 몰고 갈 것을 직시한다. 결국 도머는 햅의 죽음을 사건 용의자가 범한 살인으로 꾸며댄다. 그 후, 죄책감과 심리적인 압박감, 백야현상으로 인한 불면증에 시달리던 도머는 살인자가 자신이 지목하고 있던 소설가인 핀치임을 증명하는 결정적인 단서를 발견하게 된다. 그 순간 도머에게 한 통의 전화가 걸려오고 전화기 속으로 여유롭고 차분한 핀치의 목소리가 들려오는데... "
+    }
+  },
+  "runtime": " 116 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,범죄,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/86/tn_DPF007621.JPG",
+  "trailer":" "
+},
+{
+  "title": "  인터스텔라 ",
+  "titleEng": " Interstellar ",
+  "prodYear": " 2014 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 매슈 매코너헤이 ",
+        "actorEnNm": " Matthew McConaughey ",
+        "actorId": " 00049133 "
+      },
+      {
+        "actorNm": " 제시카 차스테인 ",
+        "actorEnNm": " Jessica Chastain ",
+        "actorId": " 00158332 "
+      },
+      {
+        "actorNm": " 앤 해서웨이 ",
+        "actorEnNm": " Anne Hathaway ",
+        "actorId": " 00055673 "
+      },
+      {
+        "actorNm": " 맷 데이먼 ",
+        "actorEnNm": " Matt Damon ",
+        "actorId": " 00049593 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 캐이시 애플렉 ",
+        "actorEnNm": " Casey Affleck ",
+        "actorId": " 00061006 "
+      },
+      {
+        "actorNm": " 빌 아윈 ",
+        "actorEnNm": " Bill Irwin ",
+        "actorId": " 00058402 "
+      }
+    ],
+  "nation": " 미국,영국 ",
+  "company": " Paramount Pictures,Legendary Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " “우린 답을 찾을 거야, 늘 그랬듯이”세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다.  지난 20세기에 범한 잘못이 전 세계적인 식량 부족을 불러왔고, NASA도 해체되었다.  이때 시공간에 불가사의한 틈이 열리고, 남은 자들에게는 이 곳을 탐험해 인류를 구해야 하는 임무가 지워진다.  사랑하는 가족들을 뒤로 한 채 인류라는 더 큰 가족을 위해, 그들은 이제 희망을 찾아 우주로 간다.  그리고 우린 답을 찾을 것이다. 늘 그랬듯이… "
+    }
+  },
+  "runtime": " 169 ",
+  "rating": " 12세관람가 ",
+  "genre": " SF ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/19/tn_DPF010393.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK034919_P02.mp4"
+},
+{
+  "title": "  쥬라기 공원 2 - 잃어버린 세계 ",
+  "titleEng": " The Lost World: Jurassic Park ",
+  "prodYear": " 1997 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 리차드 아텐보로 ",
+        "actorEnNm": " Richard Attenborough ",
+        "actorId": " 00111313 "
+      },
+      {
+        "actorNm": " 제프 골드브럼 ",
+        "actorEnNm": " Jeff Goldblum ",
+        "actorId": " 00049545 "
+      },
+      {
+        "actorNm": " 줄리안 무어 ",
+        "actorEnNm": " Julianne Moore ",
+        "actorId": " 00049126 "
+      },
+      {
+        "actorNm": " 피트 포슬스웨이트 ",
+        "actorEnNm": " Pete Postlethwaite ",
+        "actorId": " 00049493 "
+      },
+      {
+        "actorNm": " 빈스 본 ",
+        "actorEnNm": " Vince Vaughn ",
+        "actorId": " 00050185 "
+      },
+      {
+        "actorNm": " 조셉 마젤로 ",
+        "actorEnNm": " Joseph Mazzello ",
+        "actorId": " 00049647 "
+      },
+      {
+        "actorNm": " 피터 스토마이어 ",
+        "actorEnNm": " Peter Stormare ",
+        "actorId": " 00108961 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Amblin Entertainment, Universal Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 쥬라기공원이 사고로 폐쇄된 지 4년 후, 해먼드 박사는 말콤에게 누블라섬에서 조금 떨어진 이슬라 소르나섬의 B구역에 공룡생산공장을 두고 공룡들을 자연 그대로 관찰하고 있었다는 얘기를 한다. 말콤은 태풍 때문에 설비가 파괴되었다며 그곳 상황을 파악해 달라는 요청을 거절하지만 애인인 고생물학자 하딩이 이미 섬으로 떠났다는 말을 듣고 섬으로 간다. 그리고 말콤은 해먼드가 속한 인젠사 회장이 공룡들을 이용하여 캘리포니아의 샌디에고에 제 2의 쥬라기 공원을 세울 계획이라는 음모를 알게 된다. 회장이 보낸 공룡사냥꾼들이 섬을 휘젓고 있는 가운데 말콤은 이들의 계획을 저지하려 한다. 말콤 일행은 천신만고 끝에 섬에서 탈출하지만 공룡사냥꾼들은 기어코 공룡을 생포하여 샌디에고로 향한다. 그러나 거대한 티라노사우로스를 포함한 공룡들은 우리를 탈출하여 평화로운 교외를 쑥밭으로 만들어버린다. "
+    }
+  },
+  "runtime": " 128 ",
+  "rating": " 중학생가 ",
+  "genre": " 액션,공포(호러),SF,어드벤처,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/88/tn_DPF04593A.jpg",
+  "trailer":" "
+},
+{
+  "title": "  터미널 ",
+  "titleEng": " The Terminal ",
+  "prodYear": " 2004 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 톰 행크스 ",
+        "actorEnNm": " Tom Hanks ",
+        "actorId": " 00048587 "
+      },
+      {
+        "actorNm": " 캐서린 제타-존스 ",
+        "actorEnNm": " Catherine Zeta Jones ",
+        "actorId": " 00048842 "
+      },
+      {
+        "actorNm": " 스탠리 투치 ",
+        "actorEnNm": " Stanley Tucci ",
+        "actorId": " 00117159 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " DreamWorks SKG,Amblin Entertainment,Parkes/MacDona ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 동유럽 작은 나라 ‘크로코지아’의 평범한 남자 빅터 나보스키(톰 행크스). 뉴욕 입성의 부푼 마음을 안고 JFK 공항에 도착한다. 그러나 입국 심사대를 빠져 나가기도 전에 들려온 청천벽력 같은 소식! 바로 그가 미국으로 날아오는 동안 고국에선 쿠데타가 일어나고, 일시적으로 ‘유령국가’가 되었다는 것. 고국으로 돌아갈 수도, 뉴욕에 들어갈 수도 없게 된 빅터. 아무리 둘러봐도 그가 잠시(?) 머물 곳은 JFK 공항 밖에 없다. 하지만, 공항 관리국의 프랭크에게 공항에 여장을 푼 빅터는 미관(?)을 해치는 골칫거리일 뿐. 지능적인 방법으로 밀어내기를 시도하는 프랭크에 굴하지 않고, 바보스러울 만큼 순박한 행동으로 뻗치기를 거듭하는 빅터. 이제 친구도 생기고 아름다운 승무원 아멜리아(캐서린 제타 존스)와 로맨스까지 키워나간다. 날이 갈수록 JFK공항은 그의 커다란 저택처럼 편안하기까지 한데…. 그러나 빅터는 떠나야 한다. 공항에선 모두들 그러하듯이. 과연 그는 떠날 수 있을까? "
+    }
+  },
+  "runtime": " 128 ",
+  "rating": " 전체관람가 ",
+  "genre": " 코메디,드라마 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/75/tn_DPF007153.JPG",
+  "trailer":" "
+},
+{
+  "title": "  틴틴 : 유니콘호의 비밀 ",
+  "titleEng": " TinTin: The Secret of the Unicorn ",
+  "prodYear": " 2011 ",
+      "directorNm": " 스티븐 스필버그 ",
+      "directorEnNm": " Steven Spielberg ",
+    "actor": [
+      {
+        "actorNm": " 다니엘 크레이그 ",
+        "actorEnNm": " Daniel Craig ",
+        "actorId": " 00064695 "
+      },
+      {
+        "actorNm": " 제이미 벨 ",
+        "actorEnNm": " Jamie Bell ",
+        "actorId": " 00086355 "
+      },
+      {
+        "actorNm": " 앤디 서키스 ",
+        "actorEnNm": " Andy Serkis ",
+        "actorId": " 00055158 "
+      },
+      {
+        "actorNm": " 사이몬 페그 ",
+        "actorEnNm": " Simon Pegg ",
+        "actorId": " 00116614 "
+      },
+      {
+        "actorNm": " 캐리 엘위스 ",
+        "actorEnNm": " Cary Elwes ",
+        "actorId": " 00049842 "
+      },
+      {
+        "actorNm": " 닉 프로스트 ",
+        "actorEnNm": " Nick Frost ",
+        "actorId": " 00105527 "
+      },
+      {
+        "actorNm": " 맥켄지 크룩 ",
+        "actorEnNm": " Mackenzie Crook ",
+        "actorId": " 00098315 "
+      },
+      {
+        "actorNm": " 토비 존스 ",
+        "actorEnNm": " Toby Jones ",
+        "actorId": " 00120317 "
+      }
+    ],
+  "nation": " 미국,뉴질랜드,벨기에 ",
+  "company": " Columbia Pictures,Paramount Pictures,Amblin Entert ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 두려움을 모르는 신참 기자 ‘틴틴’과 애완견 ‘스노우’가 절친 ‘하독 선장’과 함께 17세기 해적들의 보물선 유니콘호에 얽힌 미스터리를 풀어가는 초대형 3D 어드벤처 블록버스터유니콘호에 감춰진 거대한 비밀!  7대양이 끝나는 곳, 수백 년간 잠들었던 전설이 깨어난다!  특종기자 ‘틴틴(제이미 벨)’은 우연히 유니콘이 박힌 모형배를 손에 넣고 위험에 휩싸이게 된다. 누군가 침입한 흔적과 함께 사라진 배에서 떨어진 비밀 지도를 발견한 틴틴은 거기에 적힌 “삼형제가 모이면 정오의 태양을 향해 함께 항해하는 세 개의 유니콘호에서 광채가 나리라!”라는 메시지를 확인하는 순간, 정체 모를 괴한들의 습격을 받는다. 납치된 배 안에서 만난 주정뱅이 ‘하독 선장(앤디 서키스)’과 함께 탈출을 감행하고 폭풍우가 몰아치는 바다와 모래바람이 거센 사막을 표류하면서, 그 지도가 17세기경 보물을 싣고 난파한 해적의 왕 ‘레드 라캄(다니엘 크레이그)’의 배 ‘유니콘호’의 위치를 가리키는 지도임을 알게 되는데….  전설의 세계를 향한 거대한 항해! 상상 이상의 모험이 지금 시작된다!! "
+    }
+  },
+  "runtime": " 107 ",
+  "rating": " 전체관람가 ",
+  "genre": " 어드벤처,가족 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/51/tn_DPF002287.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK023283_P03.mp4"
+},
+{
+  "title": "  프레스티지 ",
+  "titleEng": " The Prestige ",
+  "prodYear": " 2006 ",
+      "directorNm": " 크리스토퍼 놀란 ",
+      "directorEnNm": " Christopher Nolan ",
+    "actor": [
+      {
+        "actorNm": " 크리스찬 베일 ",
+        "actorEnNm": " Christian Bale ",
+        "actorId": " 00048863 "
+      },
+      {
+        "actorNm": " 마이클 케인 ",
+        "actorEnNm": " Micahel Caine ",
+        "actorId": " 00102061 "
+      },
+      {
+        "actorNm": " 휴 잭맨 ",
+        "actorEnNm": " Hugh Jackman ",
+        "actorId": " 00084120 "
+      },
+      {
+        "actorNm": " 스칼렛 요한슨 ",
+        "actorEnNm": " Scarlett Johansson ",
+        "actorId": " 00050200 "
+      },
+      {
+        "actorNm": " 데이빗 보위 ",
+        "actorEnNm": " David Bowie ",
+        "actorId": " 00048938 "
+      },
+      {
+        "actorNm": " 앤디 서키스 ",
+        "actorEnNm": " Andy Serkis ",
+        "actorId": " 00055158 "
+      }
+    ],
+  "nation": " 영국 ",
+  "company": " Touchstone Pictures,Warner Bros.,Newmarket Product ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 19세기 런던, 함께 마술사의 보조로 일하는 보든(크리스찬 베일)와 엔지어(휴 잭맨). 최고의 마술사를 꿈꾸며 수련을 계속하던 어느 날, 보든가 마술의 최고 단계인 순간이동 마술을 선보인다. 질투심에 불탄 엔지어 역시 순간이동 마술을 완성하고 상대방의 비밀을 캐내려 경쟁을 벌이면서 주변 사람들의 생명마저 위태롭게 만드는데…. 목숨을 건 위험한 대결의 끝에 신의 경지에 도달한 놀라운 마술의 세계가 펼쳐진다! "
+    }
+  },
+  "runtime": " 126 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,드라마,SF,판타지 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/55/tn_DPF006007.JPG",
+  "trailer":" "
+},
+{
+  "title": "  그레이 맨 ",
+  "titleEng": " The Gray Man ",
+  "prodYear": " 2022 ",
+  "directorNm": " 안소니 루소, 조 루소 ",
+  "directorEnNm": " Anthony Russo, Joe Russo ",
+    "actor": [
+      {
+        "actorNm": " 라이언 고슬링 ",
+        "actorEnNm": " Ryan Gosling ",
+        "actorId": " 00114241 "
+      },
+      {
+        "actorNm": " 크리스 에반스 ",
+        "actorEnNm": " Chris Evans ",
+        "actorId": " 00062197 "
+      },
+      {
+        "actorNm": " 아나 디 아르마스 ",
+        "actorEnNm": " ANA DE ARMAS ",
+        "actorId": " 00148917 "
+      },
+      {
+        "actorNm": " 빌리 밥 손튼 ",
+        "actorEnNm": " Billy Bob Thornton ",
+        "actorId": " 00050009 "
+      },
+      {
+        "actorNm": " 제시카 헨윅 ",
+        "actorEnNm": " Jessica Henwick ",
+        "actorId": " 00218755 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " AGBO,넷플릭스,ROTH FILMS,Roth/Kirschenbaum Films,Still ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 그림자처럼 활동하던 CIA 요원이 조직의 어두운 비밀을 발견한다. 이런 그의 목에 현상금을 건 소시오패스 기질의 전직 요원. 세계 곳곳을 배경으로 두 사람의 쫓고 쫓기는 추격전이 펼쳐진다. "
+    }
+  },
+  "runtime": " 127 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,어드벤처,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/99/17/71/tn_DPF025399.jpg",
+  "trailer":" "
+},
+{
+  "title": "  라라랜드 ",
+  "titleEng": " La La Land ",
+  "prodYear": " 2016 ",
+  "directorNm": " 데이미언 셔젤 ",
+      "directorEnNm": " Damien Chazelle ",
+    "actor": [
+      {
+        "actorNm": " 엠마 스톤 ",
+        "actorEnNm": " Emma Stone ",
+        "actorId": " 00148272 "
+      },
+      {
+        "actorNm": " 라이언 고슬링 ",
+        "actorEnNm": " Ryan Gosling ",
+        "actorId": " 00114241 "
+      },
+      {
+        "actorNm": " 존 레전드 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 로즈마리 드윗 ",
+        "actorEnNm": " Rosemarie DeWitt ",
+        "actorId": " 00113748 "
+      },
+      {
+        "actorNm": " 테리 월터스 ",
+        "actorEnNm": " Terry Walters ",
+        "actorId": " 00200007 "
+      },
+      {
+        "actorNm": " 칼리 헤르난데즈 ",
+        "actorEnNm": " Callie Hernandez ",
+        "actorId": " 00200006 "
+      },
+      {
+        "actorNm": " J.K. 시몬스 ",
+        "actorEnNm": " J.K. Simmons ",
+        "actorId": " 00085183 "
+      },
+      {
+        "actorNm": " 제이슨 퍼치스 ",
+        "actorEnNm": " Jason Fuchs ",
+        "actorId": " 00200008 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Impostor Pictures,Gilbert Films,Marc Platt Product ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 황홀한 사랑, 순수한 희망, 격렬한 열정… 이 곳에서 모든 감정이 폭발한다!꿈을 꾸는 사람들을 위한 별들의 도시 ‘라라랜드’. 재즈 피아니스트 ‘세바스찬’(라이언 고슬링)과 배우 지망생 ‘미아’(엠마 스톤), 인생에서 가장 빛나는 순간 만난 두 사람은 미완성인 서로의 무대를 만들어가기 시작한다. "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " La La Land tells the story of Mia, an aspiring actress, and Sebastian, a dedicated jazz musician, who are struggling to make ends meet in a city known for crushing hopes and breaking hearts. Set in modern day Los Angeles, this original musical about everyday life explores the joy and pain of pursuing ones dreams. "
+      }
+    ]
+  },
+  "runtime": " 127 ",
+  "rating": " 12세관람가 ",
+  "genre": " 코메디,멜로/로맨스,뮤지컬,뮤직 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/05/51/tn_DPF020277.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK046576_P02.mp4"
+},
+{
+  "title": "  미션 임파서블: 데드 레코닝 PART ONE ",
+  "titleEng": " Mission: Impossible - Dead Reckoning - PART ONE ",
+  "prodYear": " 2023 ",
+      "directorNm": " 크리스토퍼 맥쿼리 ",
+      "directorEnNm": " Christopher McQuarrie ",
+    "actor": [
+      {
+        "actorNm": " 톰 크루즈 ",
+        "actorEnNm": " Tom Cruise ",
+        "actorId": " 00048836 "
+      },
+      {
+        "actorNm": " 헤일리 앳웰 ",
+        "actorEnNm": " Hayley Atwell ",
+        "actorId": " 00172167 "
+      },
+      {
+        "actorNm": " 빙 라메스 ",
+        "actorEnNm": " Ving Rhames ",
+        "actorId": " 00122550 "
+      },
+      {
+        "actorNm": " 사이먼 페그 ",
+        "actorEnNm": " Simon Pegg ",
+        "actorId": " 00116614 "
+      },
+      {
+        "actorNm": " 레베카 퍼거슨 ",
+        "actorEnNm": " Rebecca Ferguson ",
+        "actorId": " 00199989 "
+      },
+      {
+        "actorNm": " 바네사 커비 ",
+        "actorEnNm": " Vanessa Kirby ",
+        "actorId": " 00199993 "
+      },
+      {
+        "actorNm": " 에사이 모라레스 ",
+        "actorEnNm": " Esai Morales ",
+        "actorId": " 00070580 "
+      },
+      {
+        "actorNm": " 폼 클레멘티에프 ",
+        "actorEnNm": " Pom Klementieff ",
+        "actorId": " 00206470 "
+      },
+      {
+        "actorNm": " 쉐어 위햄 ",
+        "actorEnNm": " Shea Whigham ",
+        "actorId": " 00115942 "
+      },
+      {
+        "actorNm": " 캐리 엘위스 ",
+        "actorEnNm": " Cary Elwes ",
+        "actorId": " 00049842 "
+      },
+      {
+        "actorNm": " 헨리 체르니 ",
+        "actorEnNm": " Henry Czerny ",
+        "actorId": " 00076526 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Paramount Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 가장 위험한 작전, 그의 마지막 선택 모든 인류를 위협할 새로운 무기를 추적하게 된 에단 헌트(톰 크루즈)와 IMF팀은 이 무기가 인류의 미래를 통제할 수 있다는 사실을 알게 된다. 전 세계가 위태로운 상황에 처한 가운데, 이를 추적하던 에단 헌트에게 어둠의 세력까지 접근하고 마침내 미스터리하고 강력한 빌런과 마주하게 된 그는 가장 위험한 작전을 앞두고 자신이 아끼는 사람들의 생명과 중요한 임무 사이에서 선택을 해야 하는 상황에 놓이게 되는데… "
+    }
+  },
+  "runtime": " 163 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,어드벤처,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/99/18/09/tn_DPF027511.jpg",
+  "trailer":" "
+},
+{
+  "title": "  미션 임파서블: 로그네이션 ",
+  "titleEng": " Mission Impossible: Rogue Nation ",
+  "prodYear": " 2015 ",
+      "directorNm": " 크리스토퍼 맥쿼리 ",
+      "directorEnNm": " Christopher McQuarrie ",
+    "actor": [
+      {
+        "actorNm": " 톰 크루즈 ",
+        "actorEnNm": " Tom Cruise ",
+        "actorId": " 00048836 "
+      },
+      {
+        "actorNm": " 제레미 레너 ",
+        "actorEnNm": " Jeremy Renner ",
+        "actorId": " 00088231 "
+      },
+      {
+        "actorNm": " 사이몬 페그 ",
+        "actorEnNm": " Simon Pegg ",
+        "actorId": " 00116614 "
+      },
+      {
+        "actorNm": " 알렉 볼드윈 ",
+        "actorEnNm": " Alec Baldwin ",
+        "actorId": " 00048497 "
+      },
+      {
+        "actorNm": " 레베카 퍼거슨 ",
+        "actorEnNm": " Rebecca Ferguson ",
+        "actorId": " 00199989 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Paramount Pictures,Skydance Media,Bad Robot ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 시리즈 사상 최악의 위기!역대 가장 불가능한 미션이 시작된다!미국정부로부터 해체 통보를 받게 된 최첨단 첩보기관 IMF(Impossible Mission Force). ‘에단 헌트(톰 크루즈)’를 포함한 팀원들은 모두 뿔뿔이 흩어지게 되고, 정체불명의 테러조직 ‘신디케이트’는 IMF 전멸 작전을 펼친다. 신디케이트에게 납치 당한 ‘에단 헌트’는 의문의 여인 ‘일사(레베카 퍼거슨)’의 도움을 받아 극적 탈출에 성공하고 다시 팀원들을 불러 모은다. 리더 ‘에단 헌트’부터 전략 분석요원 ‘브랜트(제레미 레너)’, IT 전문요원 ‘벤지(사이먼 페그)’, 해킹 전문요원 ‘루터(빙 라메스)’ 그리고 정체를 알 수 없는 ‘일사’까지. 다시 모인 그들은 역대 가장 위협적인 적 신디케이트에 맞서는 불가능한 미션을 펼친다! "
+    }
+  },
+  "runtime": " 131 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/08/tn_DPF011654.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK036858_P02.mp4"
+},
+{
+  "title": "  미션 임파서블: 폴아웃 ",
+  "titleEng": " Mission: Impossible - Fallout (Mission Impossible 6) ",
+  "prodYear": " 2018 ",
+      "directorNm": " 크리스토퍼 맥쿼리 ",
+      "directorEnNm": " Christopher McQuarrie ",
+    "actor": [
+      {
+        "actorNm": " 톰 크루즈 ",
+        "actorEnNm": " Tom Cruise ",
+        "actorId": " 00048836 "
+      },
+      {
+        "actorNm": " 헨리 카빌 ",
+        "actorEnNm": " Henry Cavill ",
+        "actorId": " 00076517 "
+      },
+      {
+        "actorNm": " 사이먼 페그 ",
+        "actorEnNm": " Simon Pegg ",
+        "actorId": " 00116614 "
+      },
+      {
+        "actorNm": " 레베카 퍼거슨 ",
+        "actorEnNm": " Rebecca Ferguson ",
+        "actorId": " 00199989 "
+      },
+      {
+        "actorNm": " 빙 라메스 ",
+        "actorEnNm": " Ving Rhames ",
+        "actorId": " 00122550 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " 파라마운트픽쳐스 ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 예측 할 수 없는 미션. 피할 수 없는 선택전 세계 최강의 스파이 기관 IMF의 최고 요원 에단 헌트(톰 크루즈)와 그의 팀은 테러조직의 핵무기 소지를 막기 위해 미션에 착수한다.에단 헌트는 작전 수행 중 예상치 못한 결단을 내리게 되고, 중앙정보국 CIA는 그를 견제하기 위해 상급 요원 어거스트 워커(헨리 카빌)를 파견한다.최악의 테러 위기와 라이벌의 출현 속, 팀이 행한 모든 선의의 선택들이 최악의 결과로 돌아오면서 미션은 점점 더 예측할 수 없는 상황으로 치닫게 되는데…사상 가장 불가능한 미션, 피할 수 없다면 끝내야 한다! "
+    }
+  },
+  "runtime": " 147 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/57/tn_DPF014206.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK040287_P02.mp4"
+},
+{
+  "title": "  바빌론 ",
+  "titleEng": " Babylon ",
+  "prodYear": " 2022 ",
+      "directorNm": " 데이미언 셔젤 ",
+      "directorEnNm": " Damien Chazelle ",
+    "actor": [
+      {
+        "actorNm": " 브래드 피트 ",
+        "actorEnNm": " Brad Pitt ",
+        "actorId": " 00048809 "
+      },
+      {
+        "actorNm": " 마고 로비 ",
+        "actorEnNm": " Margot Robbie ",
+        "actorId": " 00165444 "
+      },
+      {
+        "actorNm": " 디에고 칼바 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 진 스마트 ",
+        "actorEnNm": " Jean Smart ",
+        "actorId": " 00087263 "
+      },
+      {
+        "actorNm": " 조반 아데포 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 리 준 리 ",
+        "actorEnNm": "  ",
+        "actorId": "  "
+      },
+      {
+        "actorNm": " 토비 맥과이어 ",
+        "actorEnNm": " Tobey Maguire ",
+        "actorId": " 00049062 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Paramount Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " \"모든 순간이 영화가 되는 곳ㅡ'바빌론'\"황홀하면서도 위태로운 고대 도시, '바빌론'에 비유되던 할리우드.'꿈' 하나만을 위해 모인 사람들이 이를 쟁취하기 위해 벌이는 강렬하면서도 매혹적인 이야기 "
+    }
+  },
+  "runtime": " 189 ",
+  "rating": " 18세관람가(청소년관람불가) ",
+  "genre": " 드라마 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/99/17/90/tn_DPF026446.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK058833_P02.mp4"
+},
+{
+  "title": "  아바타 ",
+  "titleEng": " Avatar ",
+  "prodYear": " 2009 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 샘 워싱톤 ",
+        "actorEnNm": " Sam Worthington ",
+        "actorId": " 00114524 "
+      },
+      {
+        "actorNm": " 시고니 위버 ",
+        "actorEnNm": " Sigourney Weaver ",
+        "actorId": " 00049166 "
+      },
+      {
+        "actorNm": " 미셸 로드리게즈 ",
+        "actorEnNm": " Michelle Rodriguez ",
+        "actorId": " 00103369 "
+      },
+      {
+        "actorNm": " 조 샐다나 ",
+        "actorEnNm": " Zoe Saldana ",
+        "actorId": " 00125144 "
+      },
+      {
+        "actorNm": " 스테판 랭 ",
+        "actorEnNm": " Stephen Lang ",
+        "actorId": " 00117523 "
+      },
+      {
+        "actorNm": " 지오바니 리비시 ",
+        "actorEnNm": " Giovanni Ribisi ",
+        "actorId": " 00074353 "
+      },
+      {
+        "actorNm": " 조엘 무어 ",
+        "actorEnNm": " Joel Moore ",
+        "actorId": " 00089563 "
+      },
+      {
+        "actorNm": " CCH 파운더 ",
+        "actorEnNm": " CCH Pounder ",
+        "actorId": " 00150095 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Twentieth Century-Fox Film Corporation,Lightstorm  ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 신비로운 생명체와 아름다운 자연을 자랑하는 행성, 판도라. 거대한 미션을 수행하기 위해 지구에서 환상적인 세계, 판도라로 온 남자, 그리고 그에게 찾아온 예기치 못한 사랑. 하지만 이들에겐 거대한 전쟁이 닥쳐오고 남자는 한 문명을 구하기 위해 전투를 주도하게 되는데… "
+    }
+  },
+  "runtime": " 162 ",
+  "rating": " 12세관람가 ",
+  "genre": " 액션,SF,어드벤처 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/36/tn_DPF001624.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK007222_P03.mp4"
+},
+{
+  "title": "  어벤져스: 엔드게임 ",
+  "titleEng": " Avengers: Endgame ",
+  "prodYear": " 2019 ",
+  "directorNm": " 안소니 루소, 조 루소 ",
+  "directorEnNm": " Anthony Russo, Joe Russo ",
+    "actor": [
+      {
+        "actorNm": " 로버트 다우니 주니어 ",
+        "actorEnNm": " Robert Downey Jr. ",
+        "actorId": " 00049050 "
+      },
+      {
+        "actorNm": " 크리스 에반스 ",
+        "actorEnNm": " Chris Evans ",
+        "actorId": " 00062197 "
+      },
+      {
+        "actorNm": " 크리스 헴스워스 ",
+        "actorEnNm": " Chris Hemsworth ",
+        "actorId": " 00155066 "
+      },
+      {
+        "actorNm": " 스칼렛 요한슨 ",
+        "actorEnNm": " Scarlett Johansson ",
+        "actorId": " 00050200 "
+      },
+      {
+        "actorNm": " 브리 라슨 ",
+        "actorEnNm": " Brie Larson ",
+        "actorId": " 00164563 "
+      },
+      {
+        "actorNm": " 마크 러팔로 ",
+        "actorEnNm": " Mark Ruffalo ",
+        "actorId": " 00100197 "
+      },
+      {
+        "actorNm": " 폴 러드 ",
+        "actorEnNm": " Paul Rudd ",
+        "actorId": " 00107959 "
+      },
+      {
+        "actorNm": " 조쉬 브롤린 ",
+        "actorEnNm": " Josh Brolin ",
+        "actorId": " 00049659 "
+      },
+      {
+        "actorNm": " 세바스찬 스탠 ",
+        "actorEnNm": " Sebastian Stan ",
+        "actorId": " 00115445 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Marvel Studios ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 인피니티 워 이후 절반만 살아남은 지구 마지막 희망이 된 어벤져스 먼저 떠난 그들을 위해 모든 것을 걸었다! 위대한 어벤져스운명을 바꿀 최후의 전쟁이 펼쳐진다! "
+    }
+  },
+  "runtime": " 181 ",
+  "rating": " 12세관람가 ",
+  "genre": " 액션,SF ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/05/14/tn_DPF018019.jpg",
+  "trailer":" "
+},
+{
+  "title": "  어벤져스: 인피니티 워 ",
+  "titleEng": " Avengers: Infinity War ",
+  "prodYear": " 2018 ",
+        "directorNm": " 안소니 루소, 조 루소 ",
+        "directorEnNm": " Anthony Russo, Joe Russo ",
+    "actor": [
+      {
+        "actorNm": " 로버트 다우니 주니어 ",
+        "actorEnNm": " Robert Downey Jr. ",
+        "actorId": " 00049050 "
+      },
+      {
+        "actorNm": " 조쉬 브롤린 ",
+        "actorEnNm": " Josh Brolin ",
+        "actorId": " 00049659 "
+      },
+      {
+        "actorNm": " 마크 러팔로 ",
+        "actorEnNm": " Mark Ruffalo ",
+        "actorId": " 00100197 "
+      },
+      {
+        "actorNm": " 톰 히들스턴 ",
+        "actorEnNm": " Tom Hiddleston ",
+        "actorId": " 00160892 "
+      },
+      {
+        "actorNm": " 크리스 에반스 ",
+        "actorEnNm": " Chris Evans ",
+        "actorId": " 00062197 "
+      },
+      {
+        "actorNm": " 크리스 헴스워스 ",
+        "actorEnNm": " Chris Hemsworth ",
+        "actorId": " 00155066 "
+      },
+      {
+        "actorNm": " 제레미 레너 ",
+        "actorEnNm": " Jeremy Renner ",
+        "actorId": " 00088231 "
+      },
+      {
+        "actorNm": " 스칼렛 요한슨 ",
+        "actorEnNm": " Scarlett Johansson ",
+        "actorId": " 00050200 "
+      },
+      {
+        "actorNm": " 기네스 팰트로우 ",
+        "actorEnNm": " Gwyneth Paltrow ",
+        "actorId": " 00048815 "
+      },
+      {
+        "actorNm": " 돈 치들 ",
+        "actorEnNm": " Don Cheadle ",
+        "actorId": " 00067667 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Marvel Studios ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 우주 악당 타노스와 어벤저스의 대결과 활약을 그린 SF 영화 "
+    }
+  },
+  "runtime": " 149 ",
+  "rating": " 12세관람가 ",
+  "genre": " 액션,어드벤처,판타지 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/54/tn_DPF014055.jpg",
+  "trailer":" "
+},
+{
+  "title": "  에이리언 2 ",
+  "titleEng": " Aliens ",
+  "prodYear": " 1986 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 시고니 위버 ",
+        "actorEnNm": " Sigourney Weaver ",
+        "actorId": " 00049166 "
+      },
+      {
+        "actorNm": " 마이클 빈 ",
+        "actorEnNm": " Michael Biehn ",
+        "actorId": " 00049222 "
+      },
+      {
+        "actorNm": " 랜스 핸릭슨 ",
+        "actorEnNm": " Lance Henriksen ",
+        "actorId": " 00095422 "
+      },
+      {
+        "actorNm": " 제네트 골드 스타인 ",
+        "actorEnNm": " Jenette Goldstein ",
+        "actorId": " 00087951 "
+      },
+      {
+        "actorNm": " 폴 라이서 ",
+        "actorEnNm": " Paul Reiser ",
+        "actorId": " 00107938 "
+      },
+      {
+        "actorNm": " 캐리 헨 ",
+        "actorEnNm": " Carrie Henn ",
+        "actorId": " 00060962 "
+      },
+      {
+        "actorNm": " 빌 팩스톤 ",
+        "actorEnNm": " Bill Paxton ",
+        "actorId": " 00048788 "
+      },
+      {
+        "actorNm": " 윌리엄 홉 ",
+        "actorEnNm": " William Hope ",
+        "actorId": " 00123635 "
+      },
+      {
+        "actorNm": " 알 매튜스 ",
+        "actorEnNm": " Al Matthews ",
+        "actorId": " 00052836 "
+      },
+      {
+        "actorNm": " 마크 롤스톤 ",
+        "actorEnNm": " Mark Rolston ",
+        "actorId": " 00100188 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " 20th Century Fox, Brandywine Productions Ltd ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 천신만고 끝에 캡슐에 잠들어 있던 전편의 유일한 생존자 리플리는 57년간 우주공간을 떠돌다 우주구조선으로 흘러들어 극적으로 구출된다. 에이리언에 대한 악몽으로 시달리는 리플리는 회사로부터 당시 로스트로모호가 착륙한 미정체 혹성 LV-426(아체론)과 화물선을 폭발한 것에 대해 추궁당한다. 원시 생물의 존재를 부정하는 생물 학자들은 인간의 몸 속에서 잉태되어 태어나는 염산 혈액을 가진 에이리언 이야기를 아무도 믿지 않는다. 더구나 20년 전부터 혹성에 우주 기술자와 가족을 보내 대기처리 장치의 개발을 시작하고 있었다. 그런데, 혹성과 연락이 두절되자, 리플리는 고문의 자격으로 우주 해병대와 함께 동행해 달라는 부탁을 받게 된다. 이윽고 혹성의 대기권에 도착, 우주선으로부터 셔틀선을 타고 혹성으로 내려와 특수장갑차 APC를 타고 건물 수색을 하게 된다. 이윽고 들이닥치는 에이리언 무리와 대결을 벌이게 되나 자만심에 차 있던 대원들은 하나 둘씩 처참히 죽어간다. 그러다 실험실에서 이주민의 마지막 생존자인 뉴트라는 12살 가량의 여자 아이를 발견하게 되는데... "
+    }
+  },
+  "runtime": " 137 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,SF ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/46/tn_DPF02007A.jpg",
+  "trailer":" "
+},
+{
+  "title": "  위플래쉬 ",
+  "titleEng": " Whiplash ",
+  "prodYear": " 2013 ",
+  "directorNm": " 데이미언 셔젤 ",
+      "directorEnNm": " Damien Chazelle ",
+    "actor": [
+      {
+        "actorNm": " 마일즈 텔러 ",
+        "actorEnNm": " Miles Teller ",
+        "actorId": " 00165558 "
+      },
+      {
+        "actorNm": " J.K. 시몬스 ",
+        "actorEnNm": " J.K. Simmons ",
+        "actorId": " 00085183 "
+      },
+      {
+        "actorNm": " 폴 라이서 ",
+        "actorEnNm": " Paul Reiser ",
+        "actorId": " 00107938 "
+      },
+      {
+        "actorNm": " 멜리사 베노이스트 ",
+        "actorEnNm": " Melissa Benoist ",
+        "actorId": " 00199653 "
+      },
+      {
+        "actorNm": " 오스틴 스토웰 ",
+        "actorEnNm": " Austin Stowell ",
+        "actorId": " 00199654 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Bold Films ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " \"세상에서 가장 쓸 데 없는 말이 '그만하면 잘했어'야\"미친 학생 vs. 폭군 선생, 천재를 갈망하는 광기가 폭발한다!최고의 드러머가 되기 위해서라면 무엇이든 할 각오가 되어있는 음악대학 신입생 앤드류는 우연한 기회로 누구든지 성공으로 이끄는 최고의 실력자이지만, 또한 동시에 최악의 폭군인 플렛처 교수에게 발탁되어 그의 밴드에 들어가게 된다. 폭언과 학대 속에 좌절과 성취를 동시에 안겨주는 플렛처의 지독한 교육방식은 천재가 되길 갈망하는 앤드류의 집착을 끌어내며 그를 점점 광기로 몰아넣는데… "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Andrew, a promising 19-year-old drummer at a cutthroat Manhattan music conservatory, has little interest in being just a musician. Haunted by his father’s failed writing career and plagued with the fear that mediocrity just might be genetic, Andrew dreams of greatness. Determined not to follow in his father’s footsteps, he practices daily until his hands literally bleed. The pressure of success ratchets into high gear when he is picked to join the school band led by the infamous Terence Fletcher, a brutally savage music instructor who will stop at nothing to realize a student’s potential. Under Fletcher’s ruthless direction, Andrew begins to pursue perfection at any cost?even his humanity. "
+      }
+    ]
+  },
+  "runtime": " 105 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/99/tn_DPF011102.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK036004_P02.mp4"
+ 
+},
+{
+  "title": "  잭 리처 ",
+  "titleEng": " Jack Reacher ",
+  "prodYear": " 2013 ",
+      "directorNm": " 크리스토퍼 맥쿼리 ",
+      "directorEnNm": " Christopher McQuarrie ",
+    "actor": [
+      {
+        "actorNm": " 톰 크루즈 ",
+        "actorEnNm": " Tom Cruise ",
+        "actorId": " 00048836 "
+      },
+      {
+        "actorNm": " 로자먼드 파이크 ",
+        "actorEnNm": " Rosamund Pike ",
+        "actorId": " 00113694 "
+      },
+      {
+        "actorNm": " 로버트 듀발 ",
+        "actorEnNm": " Robert Duvall ",
+        "actorId": " 00049052 "
+      },
+      {
+        "actorNm": " 베르너 헤어조크 ",
+        "actorEnNm": " WERNER HERZOG ",
+        "actorId": " 00131405 "
+      },
+      {
+        "actorNm": " 리차드 젠킨스 ",
+        "actorEnNm": " Richard Jenkins ",
+        "actorId": " 00111578 "
+      },
+      {
+        "actorNm": " 데이빗 오예로워 ",
+        "actorEnNm": " David Oyelowo ",
+        "actorId": " 00066061 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": "  ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 도심 한복판, 6발의 총성과 함께 5명의 시민이 살해되는 사건이 벌어진다.  현장의 모든 증거들이 한 남자를 유일한 용의자로 지목하지만,  그는 자백을 거부한 채 ‘잭 리처를 데려오라’는 메모만을 남긴다.  전직 조사관 출신이지만 실제 정체를 아는 이는 누구도 없는 의문의 남자 ‘잭 리처’.  마침내 모습을 드러낸 그는 모든 정황이 완벽해 보이는 사건에 의문을 품고  홀로 진실을 추적하기 위해 나서는데…! "
+    }
+  },
+  "runtime": " 130 ",
+  "rating": " 15세관람가 ",
+  "genre": " 액션,범죄,미스터리 ",
+  "poster":" http://file.koreafilm.or.kr/thm/02/00/01/91/tn_DPF003187.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK029367_P03.mp4"
+},
+{
+  "title": "  캡틴 아메리카: 시빌 워 ",
+  "titleEng": " Captain America: Civil War ",
+  "prodYear": " 2016 ",
+  "directorNm": " 안소니 루소, 조 루소 ",
+  "directorEnNm": " Anthony Russo, Joe Russo ",
+    "actor": [
+      {
+        "actorNm": " 크리스 에반스 ",
+        "actorEnNm": " Chris Evans ",
+        "actorId": " 00062197 "
+      },
+      {
+        "actorNm": " 로버트 다우니 주니어 ",
+        "actorEnNm": " Robert Downey Jr. ",
+        "actorId": " 00049050 "
+      },
+      {
+        "actorNm": " 스칼렛 요한슨 ",
+        "actorEnNm": " Scarlett Johansson ",
+        "actorId": " 00050200 "
+      },
+      {
+        "actorNm": " 제레미 레너 ",
+        "actorEnNm": " Jeremy Renner ",
+        "actorId": " 00088231 "
+      },
+      {
+        "actorNm": " 세바스찬 스탠 ",
+        "actorEnNm": " Sebastian Stan ",
+        "actorId": " 00115445 "
+      },
+      {
+        "actorNm": " 엘리자베스 올슨 ",
+        "actorEnNm": " Elizabeth Olsen ",
+        "actorId": " 00160905 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": "  ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 어벤져스 VS 어벤져스  분열은 시작되었다!    어벤져스와 관련된 사고로 부수적인 피해가 일어나자  정부는 어벤져스를 관리하고 감독하는 시스템인 일명 ‘슈퍼히어로 등록제’를 내놓는다.  어벤져스 내부는 정부의 입장을 지지하는 찬성파(팀 아이언맨)와 이전처럼 정부의 개입 없이  자유롭게 인류를 보호해야 한다는 반대파(팀 캡틴)로 나뉘어 대립하기 시작하는데... "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spider-Man) and Team Captain America (Captain America, Bucky Barnes, Falcon, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges. "
+      }
+    ]
+  },
+  "runtime": " 146 ",
+  "rating": " 12세관람가 ",
+  "genre": " 액션,SF,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/24/tn_DPF012585.jpg",
+  "trailer":" "
+},
+{
+  "title": "  캡틴 아메리카: 윈터 솔져 ",
+  "titleEng": " Captain America: The Winter Soldier ",
+  "prodYear": " 2014 ",
+  "directorNm": " 안소니 루소, 조 루소 ",
+  "directorEnNm": " Anthony Russo, Joe Russo ",
+    "actor": [
+      {
+        "actorNm": " 스칼렛 요한슨 ",
+        "actorEnNm": " Scarlett Johansson ",
+        "actorId": " 00050200 "
+      },
+      {
+        "actorNm": " 크리스 에반스 ",
+        "actorEnNm": " Chris Evans ",
+        "actorId": " 00062197 "
+      },
+      {
+        "actorNm": " 사무엘 L. 잭슨 ",
+        "actorEnNm": " Samuel L. Jackson ",
+        "actorId": " 00048824 "
+      },
+      {
+        "actorNm": " 코비 스뮬더스 ",
+        "actorEnNm": " Cobie Smulders ",
+        "actorId": " 00161499 "
+      },
+      {
+        "actorNm": " 안소니 마키 ",
+        "actorEnNm": " Anthony Mackie ",
+        "actorId": " 00055950 "
+      },
+      {
+        "actorNm": " 헤일리 앳웰 ",
+        "actorEnNm": " Hayley Atwell ",
+        "actorId": " 00172167 "
+      },
+      {
+        "actorNm": " 로버트 레드포드 ",
+        "actorEnNm": " Robert Redford ",
+        "actorId": " 00048756 "
+      },
+      {
+        "actorNm": " 에밀리 밴캠프 ",
+        "actorEnNm": " Emily VanCamp ",
+        "actorId": " 00155806 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Marvel Entertainment,Marvel Studios,Sony Pictures  ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 어벤져스의 뉴욕 사건 이후 닉 퓨리, 블랙 위도우와 함께 쉴드의 멤버로 현대 생활에 적응해 살아가는 캡틴 아메리카. 어느 날, 죽은 줄 알았던 친구 버키가 적 윈터 솔져가 되어 돌아오고, 어벤져스를 향한 최악의 위기가 시작된다. "
+      },
+      {
+        "plotLang": " 영어 ",
+        "plotText": " Steve Rogers struggles to embrace his role in the modern world and battles a new threat from old history: the Soviet agent known as the Winter Soldier. "
+      }
+    ]
+  },
+  "runtime": " 135 ",
+  "rating": " 15세관람가 ",
+  "genre": " SF,액션,어드벤처 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/02/14/tn_DPF004399.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK032864_P02.mp4"
+},
+{
+  "title": "  타이타닉 ",
+  "titleEng": " Titanic ",
+  "prodYear": " 1997 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 레오나르도 디카프리오 ",
+        "actorEnNm": " Leonardo DiCaprio ",
+        "actorId": " 00049306 "
+      },
+      {
+        "actorNm": " 케이트 윈슬렛 ",
+        "actorEnNm": " Kate Winslet ",
+        "actorId": " 00049769 "
+      },
+      {
+        "actorNm": " 빌리 제인 ",
+        "actorEnNm": " Billy Zane ",
+        "actorId": " 00049081 "
+      },
+      {
+        "actorNm": " 캐시 베이츠 ",
+        "actorEnNm": " Kathy Bates ",
+        "actorId": " 00049693 "
+      },
+      {
+        "actorNm": " 프란시스 피셔 ",
+        "actorEnNm": " Frances Fisher ",
+        "actorId": " 00071524 "
+      },
+      {
+        "actorNm": " 글로리아 스튜어트 ",
+        "actorEnNm": " Gloria Stuart ",
+        "actorId": " 00049682 "
+      },
+      {
+        "actorNm": " 빌 팩스톤 ",
+        "actorEnNm": " Bill Paxton ",
+        "actorId": " 00048788 "
+      },
+      {
+        "actorNm": " 버나드 힐 ",
+        "actorEnNm": " Bernard Hill ",
+        "actorId": " 00057967 "
+      },
+      {
+        "actorNm": " 데이비드 워너 ",
+        "actorEnNm": " David Warner ",
+        "actorId": " 00066302 "
+      },
+      {
+        "actorNm": " 빅터 가버 ",
+        "actorEnNm": " Victor Garber ",
+        "actorId": " 00122248 "
+      },
+      {
+        "actorNm": " 조나단 하이드 ",
+        "actorEnNm": " Jonathan Hyde ",
+        "actorId": " 00091140 "
+      },
+      {
+        "actorNm": " 수지 에이미스 ",
+        "actorEnNm": " Suzy Amis ",
+        "actorId": " 00118371 "
+      },
+      {
+        "actorNm": " 루이스 아버너디 ",
+        "actorEnNm": " Lewis Abernathy ",
+        "actorId": " 00096617 "
+      },
+      {
+        "actorNm": " 니콜라스 카스콘 ",
+        "actorEnNm": " Nicholas Cascone ",
+        "actorId": " 00105404 "
+      },
+      {
+        "actorNm": " 아나토리 M. 사가레비치 ",
+        "actorEnNm": " Dr. Anatoly M. Sagalevitch ",
+        "actorId": " 00068268 "
+      },
+      {
+        "actorNm": " 대니 누치 ",
+        "actorEnNm": " Danny Nucci ",
+        "actorId": " 00065068 "
+      },
+      {
+        "actorNm": " 제이슨 배리 ",
+        "actorEnNm": " Jason Barry ",
+        "actorId": " 00086807 "
+      },
+      {
+        "actorNm": " 이완 스튜어트 ",
+        "actorEnNm": " Ewan Stewart ",
+        "actorId": " 00070906 "
+      },
+      {
+        "actorNm": " 요안 그루퍼드 ",
+        "actorEnNm": " Ioan Gruffudd ",
+        "actorId": " 00084606 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " 20th Century Fox,Lightstorm Entertainment,Paramoun ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " “내 인생의 가장 큰 행운은 도박에서 딴 티켓으로 당신을 만난 거야”단 하나의 운명, 단 한 번의 사랑, 영원으로 기억될 세기의 러브 스토리우연한 기회로 티켓을 구해 타이타닉호에 올라탄 자유로운 영혼을 가진 화가 잭(레오나르도 디카프리오)은 막강한 재력의 약혼자와 함께 1등실에 승선한 로즈(케이트 윈슬렛)에게 한 눈에 반한다. 진실한 사랑을 꿈꾸던 로즈 또한 생애 처음 황홀한 감정에 휩싸이고, 둘은 운명 같은 사랑에 빠지는데… "
+    }
+  },
+  "runtime": " 195 ",
+  "rating": " 15세관람가 ",
+  "genre": " 드라마,재난,멜로/로맨스 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/01/59/tn_DPF002629.JPG",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK024887_P03.mp4"
+},
+{
+  "title": "  터미네이터 2 ",
+  "titleEng": " Terminator 2: Judgment Day ",
+  "prodYear": " 1991 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 아놀드 슈왈제네거 ",
+        "actorEnNm": " Arnold Schwarzenegger ",
+        "actorId": " 00048590 "
+      },
+      {
+        "actorNm": " 린다 해밀턴 ",
+        "actorEnNm": " Linda Hamilton ",
+        "actorId": " 00049043 "
+      },
+      {
+        "actorNm": " 에드워드 펄롱 ",
+        "actorEnNm": " Edward Furlong ",
+        "actorId": " 00048993 "
+      },
+      {
+        "actorNm": " 로버트 패트릭 ",
+        "actorEnNm": " Robert Patrick ",
+        "actorId": " 00049056 "
+      },
+      {
+        "actorNm": " 얼 본 ",
+        "actorEnNm": " Earl Boen ",
+        "actorId": " 00068493 "
+      },
+      {
+        "actorNm": " 조 모튼 ",
+        "actorEnNm": " Joe Morton ",
+        "actorId": " 00089426 "
+      },
+      {
+        "actorNm": " S. 에파사 머커슨 ",
+        "actorEnNm": " S. Epatha Merkerson ",
+        "actorId": " 00114335 "
+      },
+      {
+        "actorNm": " 카스투로 구에라 ",
+        "actorEnNm": " Castulo Guerra ",
+        "actorId": " 00061056 "
+      },
+      {
+        "actorNm": " 대니 쿡시 ",
+        "actorEnNm": " Danny Cooksey ",
+        "actorId": " 00065019 "
+      },
+      {
+        "actorNm": " 제네트 골드 스타인 ",
+        "actorEnNm": " Jenette Goldstein ",
+        "actorId": " 00087951 "
+      },
+      {
+        "actorNm": " 샌더 버클리 ",
+        "actorEnNm": " Xander Berkeley ",
+        "actorId": " 00124086 "
+      },
+      {
+        "actorNm": " 레슬리 해밀톤 기어렌 ",
+        "actorEnNm": " Leslie Hamilton Gearren ",
+        "actorId": " 00096546 "
+      },
+      {
+        "actorNm": " 켄 깁벨 ",
+        "actorEnNm": " Ken Gibbel ",
+        "actorId": " 00093865 "
+      },
+      {
+        "actorNm": " 로버트 윈리 ",
+        "actorEnNm": " ROBERT WINLEY ",
+        "actorId": " 00135234 "
+      },
+      {
+        "actorNm": " 피터 쉬럼 ",
+        "actorEnNm": " Peter Schrum ",
+        "actorId": " 00108923 "
+      },
+      {
+        "actorNm": " 셰인 와일더 ",
+        "actorEnNm": " Shane Wilder ",
+        "actorId": " 00115755 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Carolco Pictures Inc., Le Studio Canal+, Lightstor ",
+  "plots": {
+    "plot": [
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 인간과 기계의 대전쟁.. 그를 지키지 않으면 미래 또한 없다!미래, 인류와 기계의 전쟁은 계속 되는 가운데 스카이넷은 인류 저항군 사령관 존 코너를 없애기 위해 액체 금속형 로봇인 T-1000(로버트 패트릭)을 과거의 어린 존 코너에게로 보낸다. 형태의 변신과 자가 치유까지 가능한 T-1000에 대항하고 존 코너를 지키기 위해 인류 저항군은 T-101(아놀드 슈왈제네거)을 과거로 급파한다. 미래의 인류 운명을 쥔 어린 존 코너. 그를 구해내지 않으면 인류의 미래는 없다. 반드시 제거해야 하는 스카이넷의 T-1000은 거침없이 존 코너 일행을 위협하며 숨가쁜 추격을 시작하는데... "
+      },
+      {
+        "plotLang": " 한국어 ",
+        "plotText": " 인간과 기계의 대전쟁.. 그를 지키지 않으면 미래 또한 없다!미래, 인류와 기계의 전쟁은 계속 되는 가운데 스카이넷은 인류 저항군 사령관 존 코너를 없애기 위해 액체 금속형 로봇인 T-1000(로버트 패트릭)을 과거의 어린 존 코너에게로 보낸다. 형태의 변신과 자가 치유까지 가능한 T-1000에 대항하고 존 코너를 지키기 위해 인류 저항군은 T-101 (아놀드 슈왈제네거)을 과거로 급파한다. 미래의 인류 운명을 쥔 어린 존 코너, 그를 구해내지 않으면 인류의 미래는 없다. 반드시 제거해야 하는 스카이넷의 T-1000은 거침없이 존 코너 일행을 위협하며 숨가쁜 추격을 시작하는데... "
+      }
+    ]
+  },
+  "runtime": " 136 ",
+  "rating": " 중학생가 ",
+  "genre": " 액션,SF,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/07/tn_DPF011623.jpg",
+  "trailer":"https://www.kmdb.or.kr/trailer/trailerPlayPop?pFileNm=MK032097_P02.mp4"
+},
+{
 
+  "title": "  터미네이터 ",
+  "titleEng": " The Terminator ",
+  "prodYear": " 1984 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 아놀드 슈왈제네거 ",
+        "actorEnNm": " Arnold Schwarzenegger ",
+        "actorId": " 00048590 "
+      },
+      {
+        "actorNm": " 마이클 빈 ",
+        "actorEnNm": " Michael Biehn ",
+        "actorId": " 00049222 "
+      },
+      {
+        "actorNm": " 린다 해밀턴 ",
+        "actorEnNm": " Linda Hamilton ",
+        "actorId": " 00049043 "
+      },
+      {
+        "actorNm": " 폴 원필드 ",
+        "actorEnNm": " Paul Winfield ",
+        "actorId": " 00108049 "
+      },
+      {
+        "actorNm": " 랜스 핸릭슨 ",
+        "actorEnNm": " Lance Henriksen ",
+        "actorId": " 00095422 "
+      },
+      {
+        "actorNm": " 릭 로소비치 ",
+        "actorEnNm": " Rick Rossovich ",
+        "actorId": " 00111965 "
+      },
+      {
+        "actorNm": " 베스 모타 ",
+        "actorEnNm": " Bess Motta ",
+        "actorId": " 00058127 "
+      },
+      {
+        "actorNm": " 얼 본 ",
+        "actorEnNm": " Earl Boen ",
+        "actorId": " 00068493 "
+      },
+      {
+        "actorNm": " 딕 밀러 ",
+        "actorEnNm": " Dick Miller ",
+        "actorId": " 00067255 "
+      },
+      {
+        "actorNm": " 션 스켑스 ",
+        "actorEnNm": " Shawn Schepps ",
+        "actorId": " 00115921 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Cinema 84,Euro Film Fund,Hemdale Film Corporation, ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 1948년 로스앤젤레스, 반인간 반기계인 사이보그가 터미네이터로서 미래의 살인 사명을 띠고 지구에 나타난다. 그의 사명은 사라 코너라는 젊은 여자를 죽이는 것이다. 카일 리스라는 젊고 강인한 우주인도 같은 시각에 이 여자를 구조하기 위해 지구에 도착한다. 아무것도 모르고 식당에서 아르바이트를 하던 사라는 터미네이터에게 쫓기기 시작한다. 리스와 쫓기던 사라는 모든 상황을 설명 받는다. 미래에 자신이 낳은 아이가 핵전쟁 생존자인 인간을 지배하게 되는 것을 "
+    }
+  },
+  "runtime": " 110 ",
+  "rating": " 중학생가 ",
+  "genre": " 액션,SF ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/29/tn_DPF01761B.jpg",
+  "trailer":" "
+},
+{
+  "title": "  트루 라이즈 ",
+  "titleEng": " TRUE LIES ",
+  "prodYear": " 1994 ",
+      "directorNm": " 제임스 카메론 ",
+      "directorEnNm": " James Cameron ",
+    "actor": [
+      {
+        "actorNm": " 아놀드 슈왈제네거 ",
+        "actorEnNm": " Arnold Schwarzenegger ",
+        "actorId": " 00048590 "
+      },
+      {
+        "actorNm": " 제이미 리 커티스 ",
+        "actorEnNm": " Jamie Lee Curtis ",
+        "actorId": " 00048597 "
+      },
+      {
+        "actorNm": " 톰 아놀드 ",
+        "actorEnNm": " Tom Arnold ",
+        "actorId": " 00049834 "
+      },
+      {
+        "actorNm": " 빌 팩스톤 ",
+        "actorEnNm": " Bill Paxton ",
+        "actorId": " 00048788 "
+      },
+      {
+        "actorNm": " 티아 카레레 ",
+        "actorEnNm": " Tia Carrere ",
+        "actorId": " 00119897 "
+      },
+      {
+        "actorNm": " 아트 말릭 ",
+        "actorEnNm": " Art Malik ",
+        "actorId": " 00056567 "
+      },
+      {
+        "actorNm": " 엘리자 더쉬쿠 ",
+        "actorEnNm": " Eliza Dushku ",
+        "actorId": " 00069404 "
+      },
+      {
+        "actorNm": " 그랜트 헤스로브 ",
+        "actorEnNm": " Grant Heslov ",
+        "actorId": " 00074798 "
+      },
+      {
+        "actorNm": " 마샬 마네쉬 ",
+        "actorEnNm": " Marshall Manesh ",
+        "actorId": " 00100380 "
+      },
+      {
+        "actorNm": " 제임스 알렌 ",
+        "actorEnNm": " James Allen ",
+        "actorId": " 00085829 "
+      },
+      {
+        "actorNm": " 디터 라우터 ",
+        "actorEnNm": " Dieter Rauter ",
+        "actorId": " 00067346 "
+      },
+      {
+        "actorNm": " 제인 모리스 ",
+        "actorEnNm": " Jane Morris ",
+        "actorId": " 00086588 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " 20th Century Fox, Lightstorm Entertainment ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " 해리 태스커는 겉으로 보기에는 평범한 컴퓨터회사의 판매담당으로 일하는 세일즈맨이지만 그의 진짜 모습은 대통령의 명령을 직접받는 최신예 정보기관의 정보원이다. 어느날 그는 카이로에서 작전수행중 주노라는 마술상을 만나는데, 그녀의 뒷배경에는 적색 지하드라는 테러집단이 숨어 있다. 한편 남편을 회사원으로 알고 있는 그의 아내 헬렌은 일상에 지쳐 가짜 첩보원 사이먼을 만난다. 우연히 헬렌의 사무실에서 이 사실을 알게된 해리는 그녀가 바라던 일생의 짜릿함을 주기 위해 위장작전을 편다. 그러나 해리가 자신의 신분을 알리려는 순간 적색 지하드에게 납치당한다. 처음 헬렌은 17년간의 첩보원활동을 숨긴 남편에게 화가 났지만 곧 핵폭탄으로부터 나라를 구할 수 있는 사람들은 오직 자신들밖에 없다는 것에 동의, 힘을 합해 싸우기로 한다. "
+    }
+  },
+  "runtime": " 140 ",
+  "rating": " 고등학생이상관람가 ",
+  "genre": " 액션,코메디,어드벤처,첩보,스릴러 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/03/22/tn_DPF010690.JPG",
+  "trailer":" "
+},
+{
+  "title": "  퍼스트맨 ",
+  "titleEng": " First Man ",
+  "prodYear": " 2018 ",
+      "directorNm": " 데이미언 셔젤 ",
+      "directorEnNm": " Damien Chazelle ",
+    "actor": [
+      {
+        "actorNm": " 라이언 고슬링 ",
+        "actorEnNm": " Ryan Gosling ",
+        "actorId": " 00114241 "
+      },
+      {
+        "actorNm": " 클레어 포이 ",
+        "actorEnNm": " CLAIRE FOY ",
+        "actorId": " 00153786 "
+      },
+      {
+        "actorNm": " 제이슨 클라크 ",
+        "actorEnNm": " Jason Clarke ",
+        "actorId": " 00136629 "
+      },
+      {
+        "actorNm": " 카일 챈들러 ",
+        "actorEnNm": " Kyle Chandler ",
+        "actorId": " 00095263 "
+      },
+      {
+        "actorNm": " 패트릭 후짓 ",
+        "actorEnNm": " Patrick Fugit ",
+        "actorId": " 00107346 "
+      },
+      {
+        "actorNm": " 시아란 하인즈 ",
+        "actorEnNm": " Ciaran Hinds ",
+        "actorId": " 00063015 "
+      }
+    ],
+  "nation": " 미국 ",
+  "company": " Universal Pictures ",
+  "plots": {
+    "plot": {
+      "plotLang": " 한국어 ",
+      "plotText": " \"여러분은 지금까지 보지 못한 걸 보게 될 겁니다\"이제껏 누구도 경험하지 못한 세계에 도전한 우주비행사 닐(라이언 고슬링)은,  거대한 위험 속에서 극한의 위기를 체험하게 된다.  전세계가 바라보는 가운데, 그는 새로운 세상을 열 첫 발걸음을 내딛는데…    이제, 세계는 달라질 것이다. "
+    }
+  },
+  "runtime": " 141 ",
+  "rating": " 12세관람가 ",
+  "genre": " SF,드라마 ",
+  "poster":"http://file.koreafilm.or.kr/thm/02/00/04/74/tn_DPF014842.jpg",
+  "trailer":" "
+},
 ]

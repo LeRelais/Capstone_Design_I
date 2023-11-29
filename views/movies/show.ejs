@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
 </head>
 <body>
+    <a href="/movies">go back</a>
     <div class="row mt-3">
         <div class="col-6">
             <div class="card mb-3">
@@ -29,7 +30,8 @@
               </div>
         </div>
         <div class="col-6">
-            <form action="/movies/<%= movie._id %>/reviews" method="POST" class="mb-3 validated-form" novalidate>
+            <% if(currentUser) {%>
+              <form action="/movies/<%= movie._id %>/reviews" method="POST" class="mb-3 validated-form" novalidate>
                 <div class="mb-3">
                     <label class="form-label" for="rating">Rating</label>
                     <input class="form-range" type="range" min="1" max="5" name="review[rating]" id="rating">
@@ -40,6 +42,7 @@
                 </div>
                 <button class="btn btn-success">submit</button>
             </form>
+            <% } %>
                     <% for (let review of movie.reviews ) {%>
                         <div class="card mt-3">
                             <div class="card-body">
