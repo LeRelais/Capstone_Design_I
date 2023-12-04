@@ -24,11 +24,11 @@ router.get('/register', (req, res) => {
 })
 
 router.post('/register', catchAsync(async(req, res) => {
-    const {email, username, password, prefergenre, preferdirector, preferactor} = req.body
+    const {email, username, password, prefergenre, preferdirector, preferactor, prefermovie} = req.body
     //console.log(req.body)
-    const user = new User({email,username, prefergenre, preferdirector, preferactor})
+    const user = new User({email,username, prefergenre, preferdirector, preferactor, prefermovie})
     const registeredUser = await User.register(user, password)
-    console.log(registeredUser)
+    //console.log(registeredUser)
     //req.flash('success', 'welcome')
     res.redirect('/movies')
 }))
@@ -52,12 +52,15 @@ router.get('/logout', (req, res) => {
 })
 
 router.get('/mypage', catchAsync(async(req, res) => {
-    res.send(currentUser.username)
-    //res.render('users/mypage', {user})
+    //res.send(currentUser.username)
+    const user = currentUser;
+    const reviewCount = user.reviews.length;
+    
+    res.render('users/mypage', {user})
 }))
 
 router.post('/mypage/:id', catchAsync(async(req, res) => {
-    console.log(req.user)
+    //console.log(req.user.reviews.count)
 }))
 
 // router.get('/logout', users.logout)

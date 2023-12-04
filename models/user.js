@@ -11,6 +11,7 @@ const UserSchema = new Schema({
     prefergenre: String,
     preferdirector: String,
     preferactor: String,
+    prefermovie: String,
     reviews: [
         {
             type: Schema.Types.ObjectId,

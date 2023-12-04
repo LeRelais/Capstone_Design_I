@@ -135,13 +135,40 @@ app.get('/mypage/:id', catchAsync(async(req, res) => {
     const user = await User.findById(req.params.id).populate('reviews')
     //res.send(user)
     //res.send(currentUser.username)
-    console.log(user)
-    res.render('users/mypage', {user})
+   // console.log(user)
+   const reviewCount = user.reviews.length;
+   
+   const lastPage = parseInt(reviewCount / 3) + 1;
+   console.log(lastPage)
+   var commentList = []
+   const currentPage = parseInt(req.query.page) || 1;
+   var review = null
+   var review2 = null
+   var review3 = null
+
+    review = await Movie.find({reviews: user.reviews[currentPage]})
+    review2 = await Movie.find({reviews: user.reviews[currentPage+1]})
+    review3 = await Movie.find({reviews: user.reviews[currentPage+2]})
+   
+   
+    
+
+    res.render('users/mypage', {user, reviewCount, currentPage, lastPage, review, review2, review3})
 }))
 
 app.post('/mypage/:id', catchAsync(async(req, res) => {
-    console.log(req.user)
+   // console.log(req.user)
 }))
+
+app.get('/chat', catchAsync(async(req, res) => {
+    const user = req.user
+    const username = user.username
+    res.render('chat', {user, username})
+}))
+
+app.post('/chat', (req, res) => {
+    res.render('chat')
+})
 
 app.get('/movies', catchAsync(async (req, res) => {
     const user = req.user
@@ -157,9 +184,10 @@ app.get('/movies', catchAsync(async (req, res) => {
 }))
 
 app.get('/movies/:id', catchAsync(async(req, res) => {
+    const user = req.user;
     const movie = await Movie.findById(req.params.id).populate('reviews') //Review db에 있는 정보를 movie db에 치환해서 넣는걸 기다리는 작업. SQL에서 join과 비슷한 역할
     console.log(movie)
-    res.render('movies/show', {movie})
+    res.render('movies/show', {movie, user})
 }))
 
 
@@ -178,24 +206,63 @@ app.post('/movies/:id/reviews', validateReview, catchAsync(async(req, res) => {
     res.redirect(`/movies/${movie._id}`)
 }))
 
-app.post('/search', async(req, res) => {
+app.get('/search', async(req, res) => {
     const query = req.body.key;
     const type = req.body.search_type
+    const currentPage = parseInt(req.query.page) || 1;
+    const curUser = req.user
 
     if(type == "director"){
         const movies = await Movie.find({directorName: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
         if(!movies)
             res.send("Nothing found")
         else
-            res.render('movies/search', {movies})
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
     }   
     else if(type == "title"){
         const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
-
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
         if(!movies)
             res.send("Nothing found")
         else
-            res.render('movies/search', {movies})
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+})
+
+app.post('/search', async(req, res) => {
+    const query = req.body.key;
+    const type = req.body.search_type
+    const currentPage = parseInt(req.query.page) || 1;
+    const user = req.user
+
+    if(type == "director"){
+        const movies = await Movie.find({directorName: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, user, currentPage, totalMovie, lastPage})
+    }   
+    else if(type == "title"){
+        const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, user, currentPage, totalMovie, lastPage})
     }
     //console.log(req.body.search_type)
 })

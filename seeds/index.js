@@ -21,6 +21,11 @@ const seedDB = async () => {
             plotText = movies[i].plots.plot[0].plotText
         else
             plotText = movies[i].plots.plot.plotText
+        
+        const actors = movies[i].actor.slice(0, 5); 
+        
+
+
         const movie = new Movie({
             title: `${movies[i].title}`,
             prodYear: `${movies[i].prodYear}`,
@@ -29,7 +34,13 @@ const seedDB = async () => {
             genre: `${movies[i].genre}`,
             plot: `${plotText}`,
             poster: `${movies[i].poster}`,
-            trailer: `${movies[i].trailer}`
+            trailer: `${movies[i].trailer}`,
+            actor: actors.map(actor => ({
+                name: actor.actorNm,
+                EnName: actor.actorEnNm,
+                actorId: actor.actorId
+            })),
+            runtime : `${movies[i].runtime}`
         })
         await movie.save()
     }

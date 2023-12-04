@@ -13,7 +13,7 @@
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="/">AllMovie</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -22,37 +22,12 @@
     <div class="collapse navbar-collapse" style="margin: 5px" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="/movies">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
+          <a class="nav-link" href="/chat">chatbot</a>
         </li>
       </ul>
-      <div class="row">
-        <form action="/search" method="POST" class="form-inline my-2 my-lg-0">
-          <div class="d-flex ml-auto">
-            <select id='search_type' name="search_type">
-              <option value="title">제목</option>
-              <option value="director">감독</option>
-            </select>
-            <input class="form-control mr-sm-2 mx-auto" name="key" type="search" placeholder="Search"
-              aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0 mx-auto" type="submit">Search</button>
-          </div>
-        </form>
-      </div>
-      <div class="navbar-nav ml-auto">
-        <% if(!currentUser) {%>
-          <a href="/login" class="nav-link">Login</a>
-          <a href="/register" class="nav-link">Register</a>
-          <% } else {%>
-            <a href="/logout" class="nav-link">Logout</a>
-            <a href="/mypage/<%= user._id %>" class="nav-link">My page</a>
-            <% } %>
-      </div>
     </div>
 
     
@@ -80,6 +55,20 @@
         </div>
       </div>
       <% } %>
+  </div>
+  <hr>
+  <div class="row">
+    <form action="/search" method="POST" class="form-inline my-2 my-lg-0">
+      <div class="d-flex">
+        <select id='search_type' name="search_type">
+          <option value="title">제목</option>
+          <option value="director">감독</option>
+        </select>
+        <input class="form-control mr-sm-2 mx-auto" name="key" type="search" placeholder="Search"
+          aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0 mx-auto" type="submit">Search</button>
+      </div>
+    </form>
   </div>
   <div class="container">
     <form action="/movies" class="ml-auto" style="margin-top:10px ;margin-left:35%;" method="get"
