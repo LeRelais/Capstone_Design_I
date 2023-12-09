@@ -12,10 +12,11 @@ const LocalStrategy = require('passport-local')
 const User = require('./models/user')
 const users = require('./controllers/users')
 
-const userRoutes = require('./routes/users')
+//const userRoutes = require('./routes/users')
 
 const Movie = require('./models/movies')
 const Review = require('./models/review')
+
 const {reviewSchema} = require('./schemas.js')
 
 const dbUrl = 'mongodb://127.0.0.1:27017/capstone'
@@ -79,7 +80,7 @@ const validateReview = (req, res, next) => {
         next()
 }
 
-app.use('/', userRoutes)
+//app.use('/', userRoutes)
 
 app.get('/', (req, res) => {
     res.render('home')
@@ -91,45 +92,211 @@ app.get('/', (req, res) => {
 //     res.send(newUser)
 // })
 
+app.use((req, res, next) => {
+    res.locals.currentUser = req.user
+    res.locals.success = req.flash('success')
+    res.locals.error = req.flash('error')
+    next()
+})
+
+app.get('/register', (req, res) => {
+    res.render('users/register')
+})
+
+app.post('/register', catchAsync(async(req, res) => {
+    const {email, username, password, prefergenre, preferdirector, preferactor, prefermovie} = req.body
+    //console.log(req.body)
+    const user = new User({email,username, prefergenre, preferdirector, preferactor, prefermovie})
+    const registeredUser = await User.register(user, password)
+    console.log(registeredUser)
+    //req.flash('success', 'welcome')
+    res.redirect('/movies')
+}))
+
+app.get('/Img', (req, res) => {
+    console.log('Img')
+})
+
+app.get('/login', (req, res) => {
+    res.render('users/login')
+})
+
+app.post('/login', passport.authenticate('local', {failureFlash: true, failureRedirect: '/login'}), (req, res) => {
+    req.flash('success', 'welcome back')
+    res.redirect('/movies')
+})
+
+app.get('/logout', (req, res) => {
+    req.logout((err) => {
+        if (err) {
+            console.error(err);
+        }
+        res.redirect('/movies'); // Redirect after logging out
+    });
+})
+
+app.get('/mypage/:id', catchAsync(async(req, res) => {
+    const user = await User.findById(req.params.id).populate('reviews')
+    const moviebypreferdirector = await Movie.find({directorName : ` ${user.preferdirector} `})
+    
+    //res.send(user)
+    //res.send(currentUser.username)
+   // console.log(user)
+   const reviewCount = user.reviews.length;
+   
+   const lastPage = parseInt(reviewCount / 6) + 1;
+   //console.log(lastPage)
+   var movieList = []
+   const currentPage = parseInt(req.query.page) || 1;
+   const type = req.query.type || "review"
+    console.log(type)
+   var movieTmp = null
+ 
+    var tmp = 0
+
+    if(user.reviews.length > (currentPage+1) * 6)
+        tmp = (currentPage+1) * 6
+    else
+        tmp = user.reviews.length
+
+    for(var i = (currentPage-1) * 6; i < tmp; i++){
+        if(type == "review")
+            movieTmp = await Movie.find({reviews: user.reviews[i]})
+        else if(type == "preferdirector"){
+            movieTmp = await Movie.find({directorName: user.preferdirector})
+        }
+        movieList.push(movieTmp)
+    }
+    //console.log(user.reviews.length)
+    //res.send(review)
+    res.render('users/mypage', {user, reviewCount, currentPage, lastPage, moviebypreferdirector, movieList, tmp})
+}))
+
+app.get('/chat', catchAsync(async(req, res) => {
+    const user = req.user
+    const username = user.username
+    res.render('chat', {user, username})
+}))
+
+app.post('/chat', (req, res) => {
+    res.render('chat')
+})
+
 app.get('/movies', catchAsync(async (req, res) => {
+    const user = req.user
+    const currentPage = parseInt(req.query.page) || 1;
     const movies = await Movie.find({})
-    res.render('movies/index', {movies})
+    const allMovie = movies.length
+    var lastPage = allMovie / 12;
+    if(lastPage * 12 < allMovie)
+        lastPage += 1
+
+    //console.log(currentPage, viewOption)
+    res.render('movies/index', {movies, currentPage, allMovie, lastPage, user})
 }))
 
 app.get('/movies/:id', catchAsync(async(req, res) => {
+    const user = req.user;
     const movie = await Movie.findById(req.params.id).populate('reviews') //Review db에 있는 정보를 movie db에 치환해서 넣는걸 기다리는 작업. SQL에서 join과 비슷한 역할
     console.log(movie)
-    res.render('movies/show', {movie})
+    res.render('movies/show', {movie, user})
 }))
 
 
 app.post('/movies/:id/reviews', validateReview, catchAsync(async(req, res) => {
     const movie = await Movie.findById(req.params.id)
+    const curUser = req.user
+    const user = await User.findById(curUser._id)
     const review = new Review(req.body.review)
-    movie.reviews.push(review);
+    //console.log(curUser)
+    //console.log(movie)
+    movie.reviews.push(review)
+    user.reviews.push(review)
     await review.save()
     await movie.save()
+    await user.save()
     res.redirect(`/movies/${movie._id}`)
 }))
+
+app.get('/search', async(req, res) => {
+    const query = req.body.key;
+    const type = req.body.search_type
+    const currentPage = parseInt(req.query.page) || 1;
+    const curUser = req.user
+
+    if(type == "director"){
+        const movies = await Movie.find({directorName: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }   
+    else if(type == "title"){
+        const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+    else if(type == "actor"){
+        const movies = await Movie.find({actor: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+    else if(type == "genre"){
+        const movies = await Movie.find({genre: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+})
 
 app.post('/search', async(req, res) => {
     const query = req.body.key;
     const type = req.body.search_type
+    const currentPage = parseInt(req.query.page) || 1;
+    const user = req.user
 
     if(type == "director"){
         const movies = await Movie.find({directorName: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
         if(!movies)
             res.send("Nothing found")
         else
-            res.render('movies/search', {movies})
+            res.render('movies/search', {movies, user, currentPage, totalMovie, lastPage})
     }   
     else if(type == "title"){
         const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
-
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
         if(!movies)
             res.send("Nothing found")
         else
-            res.render('movies/search', {movies})
+            res.render('movies/search', {movies, user, currentPage, totalMovie, lastPage})
     }
     //console.log(req.body.search_type)
 })

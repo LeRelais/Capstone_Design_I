@@ -10,6 +10,12 @@ const MovieSchema = new Schema({
     plot : String,
     poster : String,
     trailer : String,
+    actor : [{
+        name: String,
+        EnName: String,
+        actorID: String,
+    }],
+    runtime : String,
     reviews: [
         {
             type: Schema.Types.ObjectId,

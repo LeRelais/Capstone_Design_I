@@ -1,13 +1,215 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link href="https://webfontworld.github.io/NexonLv1Gothic/NexonLv1Gothic.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/stylesheets/stars.css">
+  <link rel="stylesheet" href="/stylesheets/mypage.css">
+
 </head>
+
 <body>
-    <h1><%= user._id %></h1><br>
-    <h1><%= user.username  %></h1><br>
-    <h1><%= user.email  %></h1><br>
+  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+    <a class="navbar-brand" href="/movies" style="margin-left:5px"><img src="https://res.cloudinary.com/dwm1uksw4/image/upload/v1702114527/ALL-MOVIE_owjurc.png" alt="" style="height: 50px; width: 50px;"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" style="margin: 5px" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="/movies">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/chat">chatbot</a>
+        </li>
+      </ul>
+
+    </div>
+
+
+    <div class="d-inline-block" style="margin-right:40px;">
+
+      <a class="nav-link text-center" href="#" data-toggle="popover" data-placement="bottom"
+        title='<% if(!currentUser) {%><h5 class="text-center">Please log in</h5><% } else{%> <h5 class="text-center">Hi, <%= currentUser.username %></h5> <% } %>'
+        data-content='<% if(currentUser) {%><a class="dropdown-item" href="/mypage/<%= user._id  %>">My page</a><% } else{%><a class="dropdown-item" href="/register">Register</a><% } %><a class="dropdown-item" href="#">Another action</a><div class="dropdown-divider"></div><a class="dropdown-item" href="/login"><% if(!currentUser) {%> Login <% } %></a><a class="dropdown-item" href="/logout"><% if(currentUser) {%> Logout <% } %></a>'>
+        <img
+          src="https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-70x70.png"
+          class="rounded-circle" style="width: 50%;" alt="">
+      </a>
+    </div>
+
+  </nav>
+
+    <div class="container mt-3">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="osahan-account-page-left shadow-sm bg-white h-100">
+            <div class="border-bottom p-4">
+              <div class="osahan-user text-center">
+                <div class="osahan-user-media">
+                  <img class="mb-3 rounded-pill shadow-sm mt-1" src="https://bootdey.com/img/Content/avatar/avatar1.png"
+                    alt="gurdeep singh osahan">
+                  <div class="osahan-user-media-body">
+                    <h6 class="mb-2">
+                      <%= user.username %>
+                    </h6>
+  
+                    <p>
+                      <%= user.email %>
+                    </p>
+                    <p class="mb-0 text-black font-weight-bold"><a class="text-primary mr-3" data-toggle="modal"
+                        data-target="#edit-profile-modal" href="#"><i class="icofont-ui-edit"></i> EDIT</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <h4 style="margin-left: 10px; margin-top: 10px;">Your Favorites</h3>
+            <ul class="nav nav-tabs flex-column border-0 pt-4 pl-4 pb-4" id="myTab" role="tablist">
+              <li class="nav-item">
+                <form action="/mypage/<%= user._id %>" method="GET">
+                  <a class="nav-link" id="offers-tab" data-toggle="tab" href="/mypage/<%= user._id  %>?type=movie %>" role="tab" aria-controls="offers"
+                    aria-selected="false"><i class="icofont-sale-discount"></i> <%= user.prefergenre %> </a>
+                </form>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="offers-tab" data-toggle="tab" href="/mypage/<%= user._id  %>?type=preferdirector %>" role="tab" aria-controls="offers"
+                  aria-selected="false"><i class="icofont-sale-discount"></i> <%= user.preferdirector %> </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="offers-tab" data-toggle="tab" href="/mypage/<%= user._id  %>?type=preferdirector %>" role="tab" aria-controls="offers"
+                  aria-selected="false"><i class="icofont-sale-discount"></i> <%= user.prefermovie %> </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="offers-tab" data-toggle="tab" href="/mypage/<%= user._id  %>?type=preferdirector %>" role="tab" aria-controls="offers"
+                  aria-selected="false"><i class="icofont-sale-discount" onclick="loadMoviesContent()"></i> <%= user.preferactor %> </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-9">
+          <div class="osahan-account-page-right shadow-sm bg-white p-4 h-100">
+            <div class="tab-content" id="myTabContent">
+              <div class="tab-pane  fade  active show" id="offers" role="tabpanel" aria-labelledby="offers-tab">
+                <h4 class="font-weight-bold mt-0 mb-4">Reviews</h4>
+                  <% if (user.reviews.length == 0) {%>
+                    <h5 class="text-center">No reviews created yet</h5>
+                  <% } else {%>
+                    <% for(let idx = 0; idx < tmp; idx+=2) {%>
+                      <div class="row mb-4 pb-2">
+                        <% if (movieList[idx]) {%>
+                          <div class="col-md-6">
+                            <a href="/movies/<%= movieList[idx][0]._id %>">
+                              <div class="card offer-card shadow-sm">
+                                <div class="card-body">
+                                  <h5 class="card-title"><img src="<%=movieList[idx][0].poster%>"></h5>
+                                  <h6 class="card-subtitle mb-2 text-block">
+                                    <p class="starability-result" data-rating="<%= user.reviews[idx].rating  %>">Rated : <%=user.reviews[idx].rating %></p>
+                                  </h6>
+                                  <p class="card-text"><%= user.reviews[idx].body %></p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        <% } %>
+                        <% if (movieList[idx + 1]) {%>
+                        <div class="col-md-6">
+                          <a href="/movies/<%= movieList[idx+1][0]._id %>">
+                            <div class="card offer-card shadow-sm">
+                              <div class="card-body">
+                                <h5 class="card-title"><img src="<%=movieList[idx+1][0].poster%>"></h5>
+                                <h6 class="card-subtitle mb-2 text-block">
+                                  <p class="starability-result" data-rating="<%= user.reviews[idx+1].rating  %>">Rated : <%=user.reviews[idx+1].rating %></p>
+                                </h6>
+                                <p class="card-text"><%= user.reviews[idx+1].body %></p>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      <% } %>
+                      </div>
+                    <% } %>
+                  <% } %>
+  
+                  <div id="pagination">
+                    <form action="/mypage/<%= user._id  %>" class="ml-auto" style="margin-top:10px ;margin-left:40%;"
+                      method="get" class="d-inline-block">
+                      <nav aria-label="Page navigation example">
+                        <ul class="pagination">
+                          <li class="page-item">
+                            <% if (currentPage - 1> 0) {%>
+                              <a class="page-link" href="/mypage/<%= user._id  %>?page=<%= currentPage-1 %>"
+                                aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Previous</span>
+                              </a>
+                              <% }else{%>
+                                <a class="page-link" href="/mypage/<%= user._id  %>?page=<%= currentPage %>"
+                                  aria-label="Previous">
+                                  <span aria-hidden="true">&laquo;</span>
+                                  <span class="sr-only">Previous</span>
+                                </a>
+                                <% } %>
+                          </li>
+      
+      
+                          <li class="page-item">
+                            <% if (currentPage < lastPage) {%>
+                              <a class="page-link" href="/mypage/<%= user._id  %>?page=<%= currentPage+1 %> %>"
+                                aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Next</span>
+                                <% }else{%>
+                                  <a class="page-link" href="/mypage/<%= user._id  %>?page=<%= currentPage %> %>"
+                                    aria-label="Next">
+                                    <span aria-hidden="true">&raquo;</span>
+                                    <span class="sr-only">Next</span>
+                                    <% } %>
+                                  </a>
+                          </li>
+                        </ul>
+                      </nav>
+                    </form>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <!-- Initialize Popover in your script -->
+  <script>
+    $(document).ready(function () {
+      $('[data-toggle="popover"]').popover({
+        html: true
+      });
+    });
+  </script>
+
+<script>
+  function loadMoviesContent() {
+    // Change the content of the dynamicContent div
+    $('#offers').html(
+      "<div><p>hi</p></div>" + "<p>hi2</p>");
+  }
+</script>
 </body>
+
 </html>
