@@ -104,14 +104,18 @@ app.get('/register', (req, res) => {
 })
 
 app.post('/register', catchAsync(async(req, res) => {
-    const {email, username, password, prefergenre, preferdirector, preferactor} = req.body
+    const {email, username, password, prefergenre, preferdirector, preferactor, prefermovie} = req.body
     //console.log(req.body)
-    const user = new User({email,username, prefergenre, preferdirector, preferactor})
+    const user = new User({email,username, prefergenre, preferdirector, preferactor, prefermovie})
     const registeredUser = await User.register(user, password)
     console.log(registeredUser)
     //req.flash('success', 'welcome')
     res.redirect('/movies')
 }))
+
+app.get('/Img', (req, res) => {
+    console.log('Img')
+})
 
 app.get('/login', (req, res) => {
     res.render('users/login')
@@ -133,31 +137,39 @@ app.get('/logout', (req, res) => {
 
 app.get('/mypage/:id', catchAsync(async(req, res) => {
     const user = await User.findById(req.params.id).populate('reviews')
+    const moviebypreferdirector = await Movie.find({directorName : ` ${user.preferdirector} `})
+    
     //res.send(user)
     //res.send(currentUser.username)
    // console.log(user)
    const reviewCount = user.reviews.length;
    
-   const lastPage = parseInt(reviewCount / 3) + 1;
-   console.log(lastPage)
-   var commentList = []
+   const lastPage = parseInt(reviewCount / 6) + 1;
+   //console.log(lastPage)
+   var movieList = []
    const currentPage = parseInt(req.query.page) || 1;
-   var review = null
-   var review2 = null
-   var review3 = null
+   const type = req.query.type || "review"
+    console.log(type)
+   var movieTmp = null
+ 
+    var tmp = 0
 
-    review = await Movie.find({reviews: user.reviews[currentPage]})
-    review2 = await Movie.find({reviews: user.reviews[currentPage+1]})
-    review3 = await Movie.find({reviews: user.reviews[currentPage+2]})
-   
-   
-    
+    if(user.reviews.length > (currentPage+1) * 6)
+        tmp = (currentPage+1) * 6
+    else
+        tmp = user.reviews.length
 
-    res.render('users/mypage', {user, reviewCount, currentPage, lastPage, review, review2, review3})
-}))
-
-app.post('/mypage/:id', catchAsync(async(req, res) => {
-   // console.log(req.user)
+    for(var i = (currentPage-1) * 6; i < tmp; i++){
+        if(type == "review")
+            movieTmp = await Movie.find({reviews: user.reviews[i]})
+        else if(type == "preferdirector"){
+            movieTmp = await Movie.find({directorName: user.preferdirector})
+        }
+        movieList.push(movieTmp)
+    }
+    //console.log(user.reviews.length)
+    //res.send(review)
+    res.render('users/mypage', {user, reviewCount, currentPage, lastPage, moviebypreferdirector, movieList, tmp})
 }))
 
 app.get('/chat', catchAsync(async(req, res) => {
@@ -225,6 +237,28 @@ app.get('/search', async(req, res) => {
     }   
     else if(type == "title"){
         const movies = await Movie.find({title: { $regex: ` .*${query}.* `, $options: 'i' }})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+    else if(type == "actor"){
+        const movies = await Movie.find({actor: ` ${query} `})
+        const totalMovie = movies.length
+        var lastPage = totalMovie / 12;
+        if(lastPage * 12 < totalMovie)
+            lastPage += 1
+        if(!movies)
+            res.send("Nothing found")
+        else
+            res.render('movies/search', {movies, curUser, currentPage, totalMovie, lastPage})
+    }
+    else if(type == "genre"){
+        const movies = await Movie.find({genre: ` ${query} `})
         const totalMovie = movies.length
         var lastPage = totalMovie / 12;
         if(lastPage * 12 < totalMovie)
